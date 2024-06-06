@@ -1,0 +1,1728 @@
+{
+  "aed": {
+    "name": "United Arab Emirates dirham",
+    "symbol": "Dh",
+    "fraction": {
+      "name": "Fils",
+      "basic": 100
+    },
+    "regions": [
+      "ae"
+    ]
+  },
+  "afn": {
+    "name": "Afghan afghani",
+    "symbol": "؋‎",
+    "fraction": {
+      "name": "Pul",
+      "basic": 100
+    },
+    "regions": [
+      "af"
+    ]
+  },
+  "all": {
+    "name": "Albanian lek",
+    "symbol": "Lek",
+    "fraction": {
+      "name": "Qintar",
+      "basic": 100
+    },
+    "regions": [
+      "al"
+    ]
+  },
+  "amd": {
+    "name": "Armenian dram",
+    "symbol": "֏",
+    "fraction": {
+      "name": "Luma",
+      "basic": 100
+    },
+    "regions": [
+      "am"
+    ]
+  },
+  "ang": {
+    "name": "Netherlands Antillean guilder",
+    "symbol": "ƒ",
+    "fraction": {
+      "name": "Cent",
+      "basic": 100
+    },
+    "regions": [
+      "cw",
+      "sx"
+    ]
+  },
+  "aoa": {
+    "name": "Angolan kwanza",
+    "symbol": "Kz",
+    "fraction": {
+      "name": "Cêntimo",
+      "basic": 100
+    },
+    "regions": [
+      "ao"
+    ]
+  },
+  "ars": {
+    "name": "Argentine peso",
+    "symbol": "$",
+    "fraction": {
+      "name": "Centavo",
+      "basic": 100
+    },
+    "regions": [
+      "ar"
+    ]
+  },
+  "aud": {
+    "name": "Australian dollar",
+    "symbol": "$",
+    "fraction": {
+      "name": "Cent",
+      "basic": 100
+    },
+    "regions": [
+      "au",
+      "nr"
+    ]
+  },
+  "awg": {
+    "name": "Aruban florin",
+    "symbol": "ƒ",
+    "fraction": {
+      "name": "Cent",
+      "basic": 100
+    },
+    "regions": [
+      "aw"
+    ]
+  },
+  "azn": {
+    "name": "Azerbaijani manat",
+    "symbol": "₼",
+    "fraction": {
+      "name": "Qəpik",
+      "basic": 100
+    },
+    "regions": [
+      "az"
+    ]
+  },
+  "bam": {
+    "name": "Bosnia and Herzegovina convertible mark",
+    "symbol": "KM",
+    "fraction": {
+      "name": "Fening",
+      "basic": 100
+    },
+    "regions": [
+      "ba"
+    ]
+  },
+  "bbd": {
+    "name": "Barbadian dollar",
+    "symbol": "$",
+    "fraction": {
+      "name": "Cent",
+      "basic": 100
+    },
+    "regions": [
+      "bb"
+    ]
+  },
+  "bdt": {
+    "name": "Bangladeshi taka",
+    "symbol": "৳",
+    "fraction": {
+      "name": "Poisha",
+      "basic": 100
+    },
+    "regions": [
+      "bd"
+    ]
+  },
+  "bgn": {
+    "name": "Bulgarian lev",
+    "symbol": "Lev",
+    "fraction": {
+      "name": "Stotinka",
+      "basic": 100
+    },
+    "regions": [
+      "bg"
+    ]
+  },
+  "bhd": {
+    "name": "Bahraini dinar",
+    "symbol": "BD",
+    "fraction": {
+      "name": "Fils",
+      "basic": 1000
+    },
+    "regions": [
+      "bh"
+    ]
+  },
+  "bif": {
+    "name": "Burundian franc",
+    "symbol": "Fr",
+    "fraction": {
+      "name": "Centime",
+      "basic": 100
+    },
+    "regions": [
+      "bi"
+    ]
+  },
+  "bmd": {
+    "name": "Bermudian dollar",
+    "symbol": "$",
+    "fraction": {
+      "name": "Cent",
+      "basic": 100
+    },
+    "regions": [
+      "bm"
+    ]
+  },
+  "bnd": {
+    "name": "Brunei dollar",
+    "symbol": "$",
+    "fraction": {
+      "name": "Sen",
+      "basic": 100
+    },
+    "regions": [
+      "bn"
+    ]
+  },
+  "bob": {
+    "name": "Bolivian boliviano",
+    "symbol": "Bs",
+    "fraction": {
+      "name": "Centavo",
+      "basic": 100
+    },
+    "regions": [
+      "bo"
+    ]
+  },
+  "brl": {
+    "name": "Brazilian real",
+    "symbol": "R$",
+    "fraction": {
+      "name": "Centavo",
+      "basic": 100
+    },
+    "regions": [
+      "br"
+    ]
+  },
+  "bsd": {
+    "name": "Bahamian dollar",
+    "symbol": "$",
+    "fraction": {
+      "name": "Cent",
+      "basic": 100
+    },
+    "regions": [
+      "bs"
+    ]
+  },
+  "btn": {
+    "name": "Bhutanese ngultrum",
+    "symbol": "Nu",
+    "fraction": {
+      "name": "Chetrum",
+      "basic": 100
+    },
+    "regions": [
+      "bt"
+    ]
+  },
+  "bwp": {
+    "name": "Botswana pula",
+    "symbol": "P",
+    "fraction": {
+      "name": "Thebe",
+      "basic": 100
+    },
+    "regions": [
+      "bw"
+    ]
+  },
+  "byn": {
+    "name": "Belarusian ruble",
+    "symbol": "Br",
+    "fraction": {
+      "name": "Kopeck",
+      "basic": 100
+    },
+    "regions": [
+      "by"
+    ]
+  },
+  "bzd": {
+    "name": "Belize dollar",
+    "symbol": "$",
+    "fraction": {
+      "name": "Cent",
+      "basic": 100
+    },
+    "regions": [
+      "bz"
+    ]
+  },
+  "cad": {
+    "name": "Canadian dollar",
+    "symbol": "$",
+    "fraction": {
+      "name": "Cent",
+      "basic": 100
+    },
+    "regions": [
+      "ca"
+    ]
+  },
+  "cdf": {
+    "name": "Congolese franc",
+    "symbol": "Fr",
+    "fraction": {
+      "name": "Centime",
+      "basic": 100
+    },
+    "regions": [
+      "cd"
+    ]
+  },
+  "chf": {
+    "name": "Swiss franc",
+    "symbol": "Fr",
+    "fraction": {
+      "name": "Rappen",
+      "basic": 100
+    },
+    "regions": [
+      "li",
+      "ch"
+    ]
+  },
+  "clp": {
+    "name": "Chilean peso",
+    "symbol": "$",
+    "fraction": {
+      "name": "Centavo",
+      "basic": 100
+    },
+    "regions": [
+      "cl"
+    ]
+  },
+  "cny": {
+    "name": "Renminbi",
+    "symbol": "¥",
+    "fraction": {
+      "name": "Jiao",
+      "basic": 10
+    },
+    "regions": [
+      "cn"
+    ]
+  },
+  "cop": {
+    "name": "Colombian peso",
+    "symbol": "$",
+    "fraction": {
+      "name": "Centavo",
+      "basic": 100
+    },
+    "regions": [
+      "co"
+    ]
+  },
+  "crc": {
+    "name": "Costa Rican colón",
+    "symbol": "₡",
+    "fraction": {
+      "name": "Céntimo",
+      "basic": 100
+    },
+    "regions": [
+      "cr"
+    ]
+  },
+  "cup": {
+    "name": "Cuban peso",
+    "symbol": "$",
+    "fraction": {
+      "name": "Centavo",
+      "basic": 100
+    },
+    "regions": [
+      "cu"
+    ]
+  },
+  "cve": {
+    "name": "Cape Verdean escudo",
+    "symbol": "$",
+    "fraction": {
+      "name": "Centavo",
+      "basic": 100
+    },
+    "regions": [
+      "cv"
+    ]
+  },
+  "czk": {
+    "name": "Czech koruna",
+    "symbol": "Kč",
+    "fraction": {
+      "name": "Heller",
+      "basic": 100
+    },
+    "regions": [
+      "cz"
+    ]
+  },
+  "djf": {
+    "name": "Djiboutian franc",
+    "symbol": "Fr",
+    "fraction": {
+      "name": "Centime",
+      "basic": 100
+    },
+    "regions": [
+      "dj"
+    ]
+  },
+  "dkk": {
+    "name": "Danish krone",
+    "symbol": "kr",
+    "fraction": {
+      "name": "Øre",
+      "basic": 100
+    },
+    "regions": [
+      "dk",
+      "fo",
+      "gl"
+    ]
+  },
+  "dop": {
+    "name": "Dominican peso",
+    "symbol": "$",
+    "fraction": {
+      "name": "Centavo",
+      "basic": 100
+    },
+    "regions": [
+      "do"
+    ]
+  },
+  "dzd": {
+    "name": "Algerian dinar",
+    "symbol": "DA",
+    "fraction": {
+      "name": "Centime",
+      "basic": 100
+    },
+    "regions": [
+      "dz"
+    ]
+  },
+  "egp": {
+    "name": "Egyptian pound",
+    "symbol": "LE",
+    "fraction": {
+      "name": "Piastre",
+      "basic": 100
+    },
+    "regions": [
+      "eg"
+    ]
+  },
+  "ern": {
+    "name": "Eritrean nakfa",
+    "symbol": "Nkf",
+    "fraction": {
+      "name": "Cent",
+      "basic": 100
+    },
+    "regions": [
+      "er"
+    ]
+  },
+  "etb": {
+    "name": "Ethiopian birr",
+    "symbol": "Br",
+    "fraction": {
+      "name": "Santim",
+      "basic": 100
+    },
+    "regions": [
+      "et"
+    ]
+  },
+  "eur": {
+    "name": "Euro",
+    "symbol": "€",
+    "fraction": {
+      "name": "Cent",
+      "basic": 100
+    },
+    "regions": [
+      "ad",
+      "at",
+      "be",
+      "hr",
+      "cy",
+      "ee",
+      "fi",
+      "fr",
+      "tf",
+      "de",
+      "gr",
+      "ie",
+      "it",
+      "lv",
+      "lt",
+      "lu",
+      "mt",
+      "mc",
+      "me",
+      "nl",
+      "pt",
+      "pm",
+      "bl",
+      "sm",
+      "sk",
+      "si",
+      "es"
+    ]
+  },
+  "fjd": {
+    "name": "Fijian dollar",
+    "symbol": "$",
+    "fraction": {
+      "name": "Cent",
+      "basic": 100
+    },
+    "regions": [
+      "fj"
+    ]
+  },
+  "fkp": {
+    "name": "Falkland Islands pound",
+    "symbol": "£",
+    "fraction": {
+      "name": "Penny",
+      "basic": 100
+    },
+    "regions": [
+      "fk",
+      "gs"
+    ]
+  },
+  "gbp": {
+    "name": "Sterling",
+    "symbol": "£",
+    "fraction": {
+      "name": "Penny",
+      "basic": 100
+    },
+    "regions": [
+      "gb"
+    ]
+  },
+  "gel": {
+    "name": "Georgian lari",
+    "symbol": "₾",
+    "fraction": {
+      "name": "Tetri",
+      "basic": 100
+    },
+    "regions": [
+      "ge"
+    ]
+  },
+  "ghs": {
+    "name": "Ghanaian cedi",
+    "symbol": "₵",
+    "fraction": {
+      "name": "Pesewa",
+      "basic": 100
+    },
+    "regions": [
+      "gh"
+    ]
+  },
+  "gip": {
+    "name": "Gibraltar pound",
+    "symbol": "£",
+    "fraction": {
+      "name": "Penny",
+      "basic": 100
+    },
+    "regions": [
+      "gi"
+    ]
+  },
+  "gmd": {
+    "name": "Gambian dalasi",
+    "symbol": "D",
+    "fraction": {
+      "name": "Butut",
+      "basic": 100
+    },
+    "regions": [
+      "gm"
+    ]
+  },
+  "gnf": {
+    "name": "Guinean franc",
+    "symbol": "Fr",
+    "fraction": {
+      "name": "Centime",
+      "basic": 100
+    },
+    "regions": [
+      "gn"
+    ]
+  },
+  "gtq": {
+    "name": "Guatemalan quetzal",
+    "symbol": "Q",
+    "fraction": {
+      "name": "Centavo",
+      "basic": 100
+    },
+    "regions": [
+      "gt"
+    ]
+  },
+  "gyd": {
+    "name": "Guyanese dollar",
+    "symbol": "$",
+    "fraction": {
+      "name": "Cent",
+      "basic": 100
+    },
+    "regions": [
+      "gy"
+    ]
+  },
+  "hkd": {
+    "name": "Hong Kong dollar",
+    "symbol": "$",
+    "fraction": {
+      "name": "Cent",
+      "basic": 100
+    },
+    "regions": [
+      "hk"
+    ]
+  },
+  "hnl": {
+    "name": "Honduran lempira",
+    "symbol": "L",
+    "fraction": {
+      "name": "Centavo",
+      "basic": 100
+    },
+    "regions": [
+      "hn"
+    ]
+  },
+  "htg": {
+    "name": "Haitian gourde",
+    "symbol": "G",
+    "fraction": {
+      "name": "Centime",
+      "basic": 100
+    },
+    "regions": [
+      "ht"
+    ]
+  },
+  "huf": {
+    "name": "Hungarian forint",
+    "symbol": "Ft",
+    "fraction": {
+      "name": "Fillér",
+      "basic": 100
+    },
+    "regions": [
+      "hu"
+    ]
+  },
+  "idr": {
+    "name": "Indonesian rupiah",
+    "symbol": "Rp",
+    "fraction": {
+      "name": "Sen",
+      "basic": 100
+    },
+    "regions": [
+      "id"
+    ]
+  },
+  "ils": {
+    "name": "Israeli new shekel",
+    "symbol": "₪",
+    "fraction": {
+      "name": "Agora",
+      "basic": 100
+    },
+    "regions": [
+      "il"
+    ]
+  },
+  "inr": {
+    "name": "Indian rupee",
+    "symbol": "₹",
+    "fraction": {
+      "name": "Paisa",
+      "basic": 100
+    },
+    "regions": [
+      "in"
+    ]
+  },
+  "iqd": {
+    "name": "Iraqi dinar",
+    "symbol": "ID",
+    "fraction": {
+      "name": "Fils",
+      "basic": 1000
+    },
+    "regions": [
+      "iq"
+    ]
+  },
+  "irr": {
+    "name": "Iranian rial",
+    "symbol": "Rl",
+    "fraction": {
+      "name": "Rial",
+      "basic": 1
+    },
+    "regions": [
+      "ir"
+    ]
+  },
+  "isk": {
+    "name": "Icelandic króna",
+    "symbol": "kr",
+    "fraction": {
+      "name": "Eyrir",
+      "basic": 100
+    },
+    "regions": [
+      "is"
+    ]
+  },
+  "jmd": {
+    "name": "Jamaican dollar",
+    "symbol": "$",
+    "fraction": {
+      "name": "Cent",
+      "basic": 100
+    },
+    "regions": [
+      "jm"
+    ]
+  },
+  "jod": {
+    "name": "Jordanian dinar",
+    "symbol": "JD",
+    "fraction": {
+      "name": "Piastre",
+      "basic": 100
+    },
+    "regions": [
+      "jo"
+    ]
+  },
+  "jpy": {
+    "name": "Japanese yen",
+    "symbol": "¥",
+    "fraction": {
+      "name": "Sen",
+      "basic": 100
+    },
+    "regions": [
+      "jp"
+    ]
+  },
+  "kes": {
+    "name": "Kenyan shilling",
+    "symbol": "Sh",
+    "fraction": {
+      "name": "Cent",
+      "basic": 100
+    },
+    "regions": [
+      "ke"
+    ]
+  },
+  "kgs": {
+    "name": "Kyrgyz som",
+    "symbol": "som",
+    "fraction": {
+      "name": "Tyiyn",
+      "basic": 100
+    },
+    "regions": [
+      "kg"
+    ]
+  },
+  "khr": {
+    "name": "Cambodian riel",
+    "symbol": "៛",
+    "fraction": {
+      "name": "Sen",
+      "basic": 100
+    },
+    "regions": [
+      "kh"
+    ]
+  },
+  "kmf": {
+    "name": "Comorian franc",
+    "symbol": "Fr",
+    "fraction": {
+      "name": "Centime",
+      "basic": 100
+    },
+    "regions": [
+      "km"
+    ]
+  },
+  "kpw": {
+    "name": "North Korean won",
+    "symbol": "₩",
+    "fraction": {
+      "name": "Chon",
+      "basic": 100
+    },
+    "regions": [
+      "kp"
+    ]
+  },
+  "krw": {
+    "name": "South Korean won",
+    "symbol": "₩",
+    "fraction": {
+      "name": "Jeon",
+      "basic": 100
+    },
+    "regions": [
+      "kr"
+    ]
+  },
+  "kwd": {
+    "name": "Kuwaiti dinar",
+    "symbol": "KD",
+    "fraction": {
+      "name": "Fils",
+      "basic": 1000
+    },
+    "regions": [
+      "kw"
+    ]
+  },
+  "kyd": {
+    "name": "Cayman Islands dollar",
+    "symbol": "$",
+    "fraction": {
+      "name": "Cent",
+      "basic": 100
+    },
+    "regions": [
+      "ky"
+    ]
+  },
+  "kzt": {
+    "name": "Kazakhstani tenge",
+    "symbol": "₸",
+    "fraction": {
+      "name": "Tıyn",
+      "basic": 100
+    },
+    "regions": [
+      "kz"
+    ]
+  },
+  "lak": {
+    "name": "Lao kip",
+    "symbol": "₭",
+    "fraction": {
+      "name": "Att",
+      "basic": 100
+    },
+    "regions": [
+      "la"
+    ]
+  },
+  "lbp": {
+    "name": "Lebanese pound",
+    "symbol": "LL",
+    "fraction": {
+      "name": "Piastre",
+      "basic": 100
+    },
+    "regions": [
+      "lb"
+    ]
+  },
+  "lkr": {
+    "name": "Sri Lankan rupee",
+    "symbol": "Re",
+    "fraction": {
+      "name": "Cent",
+      "basic": 100
+    },
+    "regions": [
+      "lk"
+    ]
+  },
+  "lrd": {
+    "name": "Liberian dollar",
+    "symbol": "$",
+    "fraction": {
+      "name": "Cent",
+      "basic": 100
+    },
+    "regions": [
+      "lr"
+    ]
+  },
+  "lsl": {
+    "name": "Lesotho loti",
+    "symbol": "L",
+    "fraction": {
+      "name": "Sente",
+      "basic": 100
+    },
+    "regions": [
+      "ls"
+    ]
+  },
+  "lyd": {
+    "name": "Libyan dinar",
+    "symbol": "LD",
+    "fraction": {
+      "name": "Dirham",
+      "basic": 1000
+    },
+    "regions": [
+      "ly"
+    ]
+  },
+  "mad": {
+    "name": "Moroccan dirham",
+    "symbol": "DH",
+    "fraction": {
+      "name": "Centime",
+      "basic": 100
+    },
+    "regions": [
+      "ma"
+    ]
+  },
+  "mdl": {
+    "name": "Moldovan leu",
+    "symbol": "Leu",
+    "fraction": {
+      "name": "Ban",
+      "basic": 100
+    },
+    "regions": [
+      "md"
+    ]
+  },
+  "mga": {
+    "name": "Malagasy ariary",
+    "symbol": "Ar",
+    "fraction": {
+      "name": "Iraimbilanja",
+      "basic": 5
+    },
+    "regions": [
+      "mg"
+    ]
+  },
+  "mkd": {
+    "name": "Macedonian denar",
+    "symbol": "DEN",
+    "fraction": {
+      "name": "Deni",
+      "basic": 100
+    },
+    "regions": [
+      "mk"
+    ]
+  },
+  "mmk": {
+    "name": "Burmese kyat",
+    "symbol": "K",
+    "fraction": {
+      "name": "Pya",
+      "basic": 100
+    },
+    "regions": [
+      "mm"
+    ]
+  },
+  "mnt": {
+    "name": "Mongolian tögrög",
+    "symbol": "₮",
+    "fraction": {
+      "name": "Möngö",
+      "basic": 100
+    },
+    "regions": [
+      "mn"
+    ]
+  },
+  "mop": {
+    "name": "Macanese pataca",
+    "symbol": "MOP$",
+    "fraction": {
+      "name": "Avo",
+      "basic": 100
+    },
+    "regions": [
+      "mo"
+    ]
+  },
+  "mru": {
+    "name": "Mauritanian ouguiya",
+    "symbol": "UM",
+    "fraction": {
+      "name": "Khoums",
+      "basic": 5
+    },
+    "regions": [
+      "mr"
+    ]
+  },
+  "mur": {
+    "name": "Mauritian rupee",
+    "symbol": "Re",
+    "fraction": {
+      "name": "Cent",
+      "basic": 100
+    },
+    "regions": [
+      "mu"
+    ]
+  },
+  "mvr": {
+    "name": "Maldivian rufiyaa",
+    "symbol": "Rf",
+    "fraction": {
+      "name": "Laari",
+      "basic": 100
+    },
+    "regions": [
+      "mv"
+    ]
+  },
+  "mwk": {
+    "name": "Malawian kwacha",
+    "symbol": "K",
+    "fraction": {
+      "name": "Tambala",
+      "basic": 100
+    },
+    "regions": [
+      "mw"
+    ]
+  },
+  "mxn": {
+    "name": "Mexican peso",
+    "symbol": "$",
+    "fraction": {
+      "name": "Centavo",
+      "basic": 100
+    },
+    "regions": [
+      "mx"
+    ]
+  },
+  "myr": {
+    "name": "Malaysian ringgit",
+    "symbol": "RM",
+    "fraction": {
+      "name": "Sen",
+      "basic": 100
+    },
+    "regions": [
+      "my"
+    ]
+  },
+  "mzn": {
+    "name": "Mozambican metical",
+    "symbol": "Mt",
+    "fraction": {
+      "name": "Centavo",
+      "basic": 100
+    },
+    "regions": [
+      "mz"
+    ]
+  },
+  "nad": {
+    "name": "Namibian dollar",
+    "symbol": "$",
+    "fraction": {
+      "name": "Cent",
+      "basic": 100
+    },
+    "regions": [
+      "na"
+    ]
+  },
+  "ngn": {
+    "name": "Nigerian naira",
+    "symbol": "₦",
+    "fraction": {
+      "name": "Kobo",
+      "basic": 100
+    },
+    "regions": [
+      "ng"
+    ]
+  },
+  "nio": {
+    "name": "Nicaraguan córdoba",
+    "symbol": "C$",
+    "fraction": {
+      "name": "Centavo",
+      "basic": 100
+    },
+    "regions": [
+      "ni"
+    ]
+  },
+  "nok": {
+    "name": "Norwegian krone",
+    "symbol": "kr",
+    "fraction": {
+      "name": "Øre",
+      "basic": 100
+    },
+    "regions": [
+      "no"
+    ]
+  },
+  "npr": {
+    "name": "Nepalese rupee",
+    "symbol": "Re",
+    "fraction": {
+      "name": "Paisa",
+      "basic": 100
+    },
+    "regions": [
+      "np"
+    ]
+  },
+  "nzd": {
+    "name": "New Zealand dollar",
+    "symbol": "$",
+    "fraction": {
+      "name": "Cent",
+      "basic": 100
+    },
+    "regions": [
+      "nz",
+      "nu",
+      "pn"
+    ]
+  },
+  "omr": {
+    "name": "Omani rial",
+    "symbol": "RO",
+    "fraction": {
+      "name": "Baisa",
+      "basic": 1000
+    },
+    "regions": [
+      "om"
+    ]
+  },
+  "pab": {
+    "name": "Panamanian balboa",
+    "symbol": "B/",
+    "fraction": {
+      "name": "Centésimo",
+      "basic": 100
+    },
+    "regions": [
+      "pa"
+    ]
+  },
+  "pen": {
+    "name": "Peruvian sol",
+    "symbol": "S/",
+    "fraction": {
+      "name": "Céntimo",
+      "basic": 100
+    },
+    "regions": [
+      "pe"
+    ]
+  },
+  "pgk": {
+    "name": "Papua New Guinean kina",
+    "symbol": "K",
+    "fraction": {
+      "name": "Toea",
+      "basic": 100
+    },
+    "regions": [
+      "pg"
+    ]
+  },
+  "php": {
+    "name": "Philippine peso",
+    "symbol": "₱",
+    "fraction": {
+      "name": "Sentimo",
+      "basic": 100
+    },
+    "regions": [
+      "ph"
+    ]
+  },
+  "pkr": {
+    "name": "Pakistani rupee",
+    "symbol": "Re",
+    "fraction": {
+      "name": "Paisa",
+      "basic": 100
+    },
+    "regions": [
+      "pk"
+    ]
+  },
+  "pln": {
+    "name": "Polish złoty",
+    "symbol": "zł",
+    "fraction": {
+      "name": "Grosz",
+      "basic": 100
+    },
+    "regions": [
+      "pl"
+    ]
+  },
+  "pyg": {
+    "name": "Paraguayan guaraní",
+    "symbol": "₲",
+    "fraction": {
+      "name": "Céntimo",
+      "basic": 100
+    },
+    "regions": [
+      "py"
+    ]
+  },
+  "qar": {
+    "name": "Qatari riyal",
+    "symbol": "QR",
+    "fraction": {
+      "name": "Dirham",
+      "basic": 100
+    },
+    "regions": [
+      "qa"
+    ]
+  },
+  "ron": {
+    "name": "Romanian leu",
+    "symbol": "Leu",
+    "fraction": {
+      "name": "Ban",
+      "basic": 100
+    },
+    "regions": [
+      "ro"
+    ]
+  },
+  "rsd": {
+    "name": "Serbian dinar",
+    "symbol": "DIN",
+    "fraction": {
+      "name": "Para",
+      "basic": 100
+    },
+    "regions": [
+      "rs"
+    ]
+  },
+  "rub": {
+    "name": "Russian ruble",
+    "symbol": "₽",
+    "fraction": {
+      "name": "Kopeck",
+      "basic": 100
+    },
+    "regions": [
+      "ru"
+    ]
+  },
+  "rwf": {
+    "name": "Rwandan franc",
+    "symbol": "Fr",
+    "fraction": {
+      "name": "Centime",
+      "basic": 100
+    },
+    "regions": [
+      "rw"
+    ]
+  },
+  "sar": {
+    "name": "Saudi riyal",
+    "symbol": "Rl",
+    "fraction": {
+      "name": "Halala",
+      "basic": 100
+    },
+    "regions": [
+      "sa"
+    ]
+  },
+  "sbd": {
+    "name": "Solomon Islands dollar",
+    "symbol": "$",
+    "fraction": {
+      "name": "Cent",
+      "basic": 100
+    },
+    "regions": [
+      "sb"
+    ]
+  },
+  "scr": {
+    "name": "Seychellois rupee",
+    "symbol": "Re",
+    "fraction": {
+      "name": "Cent",
+      "basic": 100
+    },
+    "regions": [
+      "sc"
+    ]
+  },
+  "sdg": {
+    "name": "Sudanese pound",
+    "symbol": "LS",
+    "fraction": {
+      "name": "Piastre",
+      "basic": 100
+    },
+    "regions": [
+      "sd"
+    ]
+  },
+  "sek": {
+    "name": "Swedish krona",
+    "symbol": "kr",
+    "fraction": {
+      "name": "Öre",
+      "basic": 100
+    },
+    "regions": [
+      "se"
+    ]
+  },
+  "sgd": {
+    "name": "Singapore dollar",
+    "symbol": "$",
+    "fraction": {
+      "name": "Cent",
+      "basic": 100
+    },
+    "regions": [
+      "sg"
+    ]
+  },
+  "shp": {
+    "name": "Saint Helena pound",
+    "symbol": "£",
+    "fraction": {
+      "name": "Penny",
+      "basic": 100
+    },
+    "regions": [
+      "sh"
+    ]
+  },
+  "sle": {
+    "name": "Sierra Leonean leone",
+    "symbol": "Le",
+    "fraction": {
+      "name": "Cent",
+      "basic": 100
+    },
+    "regions": [
+      "sl"
+    ]
+  },
+  "sos": {
+    "name": "Somali shilling",
+    "symbol": "Sh",
+    "fraction": {
+      "name": "Cent",
+      "basic": 100
+    },
+    "regions": [
+      "so"
+    ]
+  },
+  "srd": {
+    "name": "Surinamese dollar",
+    "symbol": "$",
+    "fraction": {
+      "name": "Cent",
+      "basic": 100
+    },
+    "regions": [
+      "sr"
+    ]
+  },
+  "ssp": {
+    "name": "South Sudanese pound",
+    "symbol": "LS",
+    "fraction": {
+      "name": "Piaster",
+      "basic": 100
+    },
+    "regions": [
+      "ss"
+    ]
+  },
+  "stn": {
+    "name": "São Tomé and Príncipe dobra",
+    "symbol": "Db",
+    "fraction": {
+      "name": "Cêntimo",
+      "basic": 100
+    },
+    "regions": [
+      "st"
+    ]
+  },
+  "syp": {
+    "name": "Syrian pound",
+    "symbol": "LS",
+    "fraction": {
+      "name": "Piastre",
+      "basic": 100
+    },
+    "regions": [
+      "sy"
+    ]
+  },
+  "szl": {
+    "name": "Swazi lilangeni",
+    "symbol": "L",
+    "fraction": {
+      "name": "Cent",
+      "basic": 100
+    },
+    "regions": [
+      "sz"
+    ]
+  },
+  "thb": {
+    "name": "Thai baht",
+    "symbol": "฿",
+    "fraction": {
+      "name": "Satang",
+      "basic": 100
+    },
+    "regions": [
+      "th"
+    ]
+  },
+  "tjs": {
+    "name": "Tajikistani somoni",
+    "symbol": "SM",
+    "fraction": {
+      "name": "Diram",
+      "basic": 100
+    },
+    "regions": [
+      "tj"
+    ]
+  },
+  "tmt": {
+    "name": "Turkmenistani manat",
+    "symbol": "m",
+    "fraction": {
+      "name": "Tenge",
+      "basic": 100
+    },
+    "regions": [
+      "tm"
+    ]
+  },
+  "tnd": {
+    "name": "Tunisian dinar",
+    "symbol": "DT",
+    "fraction": {
+      "name": "Millime",
+      "basic": 1000
+    },
+    "regions": [
+      "tn"
+    ]
+  },
+  "top": {
+    "name": "Tongan paʻanga",
+    "symbol": "T$",
+    "fraction": {
+      "name": "Seniti",
+      "basic": 100
+    },
+    "regions": [
+      "to"
+    ]
+  },
+  "try": {
+    "name": "Turkish lira",
+    "symbol": "₺",
+    "fraction": {
+      "name": "Kuruş",
+      "basic": 100
+    },
+    "regions": [
+      "tr"
+    ]
+  },
+  "ttd": {
+    "name": "Trinidad and Tobago dollar",
+    "symbol": "$",
+    "fraction": {
+      "name": "Cent",
+      "basic": 100
+    },
+    "regions": [
+      "tt"
+    ]
+  },
+  "tzs": {
+    "name": "Tanzanian shilling",
+    "symbol": "Sh",
+    "fraction": {
+      "name": "Cent",
+      "basic": 100
+    },
+    "regions": [
+      "tz"
+    ]
+  },
+  "uah": {
+    "name": "Ukrainian hryvnia",
+    "symbol": "₴",
+    "fraction": {
+      "name": "Kopeck",
+      "basic": 100
+    },
+    "regions": [
+      "ua"
+    ]
+  },
+  "usd": {
+    "name": "United States dollar",
+    "symbol": "$",
+    "fraction": {
+      "name": "Cent",
+      "basic": 100
+    },
+    "regions": [
+      "bq",
+      "io",
+      "vg",
+      "tl",
+      "ec",
+      "sv",
+      "mh",
+      "fm",
+      "pw",
+      "tc",
+      "um"
+    ]
+  },
+  "uyu": {
+    "name": "Uruguayan peso",
+    "symbol": "$",
+    "fraction": {
+      "name": "Centésimo",
+      "basic": 100
+    },
+    "regions": [
+      "uy"
+    ]
+  },
+  "uzs": {
+    "name": "Uzbekistani sum",
+    "symbol": "soum",
+    "fraction": {
+      "name": "Tiyin",
+      "basic": 100
+    },
+    "regions": [
+      "uz"
+    ]
+  },
+  "ves": {
+    "name": "Venezuelan sovereign bolívar",
+    "symbol": "Bs.S",
+    "fraction": {
+      "name": "Céntimo",
+      "basic": 1
+    },
+    "regions": [
+      "ve"
+    ]
+  },
+  "vnd": {
+    "name": "Vietnamese đồng",
+    "symbol": "₫",
+    "fraction": {
+      "name": "Hào",
+      "basic": 10
+    },
+    "regions": [
+      "vn"
+    ]
+  },
+  "vuv": {
+    "name": "Vanuatu vatu",
+    "symbol": "VT",
+    "fraction": {
+      "name": "Cent",
+      "basic": 100
+    },
+    "regions": [
+      "vu"
+    ]
+  },
+  "wst": {
+    "name": "Samoan tālā",
+    "symbol": "$",
+    "fraction": {
+      "name": "Sene",
+      "basic": 100
+    },
+    "regions": [
+      "ws"
+    ]
+  },
+  "xaf": {
+    "name": "Central African CFA franc",
+    "symbol": "Fr",
+    "fraction": {
+      "name": "Centime",
+      "basic": 100
+    },
+    "regions": [
+      "cm",
+      "cf",
+      "td",
+      "cg",
+      "gq",
+      "ga"
+    ]
+  },
+  "xcd": {
+    "name": "Eastern Caribbean dollar",
+    "symbol": "$",
+    "fraction": {
+      "name": "Cent",
+      "basic": 100
+    },
+    "regions": [
+      "ai",
+      "ag",
+      "dm",
+      "gd",
+      "ms",
+      "kn",
+      "lc",
+      "vc"
+    ]
+  },
+  "xof": {
+    "name": "West African CFA franc",
+    "symbol": "Fr",
+    "fraction": {
+      "name": "Centime",
+      "basic": 100
+    },
+    "regions": [
+      "bj",
+      "bf",
+      "ci",
+      "gw",
+      "ml",
+      "ne",
+      "sn",
+      "tg"
+    ]
+  },
+  "xpf": {
+    "name": "CFP franc",
+    "symbol": "₣",
+    "fraction": {
+      "name": "Centime",
+      "basic": 100
+    },
+    "regions": [
+      "pf",
+      "nc",
+      "wf"
+    ]
+  },
+  "yer": {
+    "name": "Yemeni rial",
+    "symbol": "Rl",
+    "fraction": {
+      "name": "Fils",
+      "basic": 100
+    },
+    "regions": [
+      "ye"
+    ]
+  },
+  "zar": {
+    "name": "South African rand",
+    "symbol": "R",
+    "fraction": {
+      "name": "Cent",
+      "basic": 100
+    },
+    "regions": [
+      "za"
+    ]
+  },
+  "zmw": {
+    "name": "Zambian kwacha",
+    "symbol": "K",
+    "fraction": {
+      "name": "Ngwee",
+      "basic": 100
+    },
+    "regions": [
+      "zm"
+    ]
+  }
+}

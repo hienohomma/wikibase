@@ -1,0 +1,1187 @@
+{
+  "ad": {
+    "name": "Andorra la Vella"
+  },
+  "ae": {
+    "name": "Abu Dhabi",
+    "endonyms": [
+      "‘Abū ẓabī",
+      "أبوظبي"
+    ]
+  },
+  "af": {
+    "name": "Kabul",
+    "endonyms": [
+      "كابل"
+    ]
+  },
+  "ag": {
+    "name": "Saint John's"
+  },
+  "ai": {
+    "name": "The Valley"
+  },
+  "al": {
+    "name": "Tirana"
+  },
+  "am": {
+    "name": "Yerevan",
+    "endonyms": [
+      "Երևան"
+    ]
+  },
+  "ao": {
+    "name": "Luanda",
+    "endonyms": [
+      "Lwanda"
+    ]
+  },
+  "ar": {
+    "name": "Buenos Aires"
+  },
+  "as": {
+    "name": "Pago Pago"
+  },
+  "at": {
+    "name": "Vienna",
+    "endonyms": [
+      "Wien"
+    ]
+  },
+  "au": {
+    "name": "Canberra"
+  },
+  "aw": {
+    "name": "Oranjestad"
+  },
+  "ax": {
+    "name": "Mariehamn",
+    "endonyms": [
+      "Maarianhamina"
+    ]
+  },
+  "az": {
+    "name": "Baku",
+    "endonyms": [
+      "Bakı"
+    ]
+  },
+  "ba": {
+    "name": "Sarajevo",
+    "endonyms": [
+      "Сарајево"
+    ]
+  },
+  "bb": {
+    "name": "Bridgetown"
+  },
+  "bd": {
+    "name": "Dhaka",
+    "endonyms": [
+      "Dhākā",
+      "ঢাকা"
+    ]
+  },
+  "be": {
+    "name": "Brussels",
+    "endonyms": [
+      "Brussel",
+      "Bruxelles",
+      "Brüssel"
+    ]
+  },
+  "bf": {
+    "name": "Ouagadougou"
+  },
+  "bg": {
+    "name": "Sofia",
+    "endonyms": [
+      "Sofiya",
+      "Sofija",
+      "София"
+    ]
+  },
+  "bh": {
+    "name": "Manama",
+    "endonyms": [
+      "Al-Manāmah",
+      "المنامة"
+    ]
+  },
+  "bi": {
+    "name": "Gitega"
+  },
+  "bj": {
+    "name": "Porto-Novo"
+  },
+  "bl": {
+    "name": "Gustavia"
+  },
+  "bm": {
+    "name": "Hamilton"
+  },
+  "bn": {
+    "name": "Bandar Seri Begawan",
+    "endonyms": [
+      "Bandar",
+      "باندر سري بڬاون"
+    ]
+  },
+  "bo": {
+    "name": "La Paz",
+    "endonyms": [
+      "Chuqiyapu",
+      "Chuqiyapu"
+    ]
+  },
+  "bq": {
+    "name": "Kralendijk",
+    "endonyms": [
+      "Boneiru"
+    ]
+  },
+  "br": {
+    "name": "Brasília"
+  },
+  "bs": {
+    "name": "Nassau"
+  },
+  "bt": {
+    "name": "Thimphu",
+    "endonyms": [
+      "ཐིམ་ཕུ"
+    ]
+  },
+  "bw": {
+    "name": "Gaborone"
+  },
+  "by": {
+    "name": "Minsk",
+    "endonyms": [
+      "Мінск",
+      "Минск"
+    ]
+  },
+  "bz": {
+    "name": "Belmopan"
+  },
+  "ca": {
+    "name": "Ottawa"
+  },
+  "cc": {
+    "name": "West Island"
+  },
+  "cd": {
+    "name": "Kinshasa",
+    "endonyms": [
+      "Kinsasa",
+      "Kinsásá"
+    ]
+  },
+  "cf": {
+    "name": "Bangui",
+    "endonyms": [
+      "Bangî"
+    ]
+  },
+  "cg": {
+    "name": "Brazzaville",
+    "endonyms": [
+      "Balazavile"
+    ]
+  },
+  "ch": {
+    "name": "Bern",
+    "endonyms": [
+      "Berne",
+      "Berna",
+      "Berna"
+    ]
+  },
+  "ci": {
+    "name": "Yamoussoukro"
+  },
+  "ck": {
+    "name": "Avarua"
+  },
+  "cl": {
+    "name": "Santiago"
+  },
+  "cm": {
+    "name": "Yaoundé"
+  },
+  "cn": {
+    "name": "Beijing",
+    "endonyms": [
+      "Běijīng",
+      "北京"
+    ]
+  },
+  "co": {
+    "name": "Bogotá"
+  },
+  "cr": {
+    "name": "San José"
+  },
+  "cu": {
+    "name": "Havana",
+    "endonyms": [
+      "La Habana"
+    ]
+  },
+  "cv": {
+    "name": "Praia"
+  },
+  "cw": {
+    "name": "Willemstad"
+  },
+  "cx": {
+    "name": "Flying Fish Cove"
+  },
+  "cy": {
+    "name": "Nicosia",
+    "endonyms": [
+      "Lefkosia",
+      "Λευκωσία",
+      "Lefkoşa"
+    ]
+  },
+  "cz": {
+    "name": "Prague",
+    "endonyms": [
+      "Praha"
+    ]
+  },
+  "de": {
+    "name": "Berlin"
+  },
+  "dj": {
+    "name": "Djibouti",
+    "endonyms": [
+      "Jībūtī",
+      "جيبوتي",
+      "Jabuuti",
+      "Gabuuti"
+    ]
+  },
+  "dk": {
+    "name": "Copenhagen",
+    "endonyms": [
+      "København"
+    ]
+  },
+  "dm": {
+    "name": "Roseau"
+  },
+  "do": {
+    "name": "Santo Domingo"
+  },
+  "dz": {
+    "name": "Algiers",
+    "endonyms": [
+      "Dzayer",
+      "ⴷⵣⴰⵢⴻⵔ",
+      "Al-Jazā'ir",
+      "الجزائر"
+    ]
+  },
+  "ec": {
+    "name": "Quito"
+  },
+  "ee": {
+    "name": "Tallinn"
+  },
+  "eg": {
+    "name": "Cairo",
+    "endonyms": [
+      "Al-Qāhirah",
+      "القاهرة"
+    ]
+  },
+  "er": {
+    "name": "Asmara",
+    "endonyms": [
+      "Asmaraa",
+      "أسمرا",
+      "Asmära",
+      "አሥመራ"
+    ]
+  },
+  "es": {
+    "name": "Madrid",
+    "endonyms": [
+      "Madril"
+    ]
+  },
+  "et": {
+    "name": "Addis Ababa",
+    "endonyms": [
+      "Addis Abäba",
+      "አዲስ አበ"
+    ]
+  },
+  "fi": {
+    "name": "Helsinki",
+    "endonyms": [
+      "Helsingfors"
+    ]
+  },
+  "fj": {
+    "name": "Suva"
+  },
+  "fk": {
+    "name": "Stanley"
+  },
+  "fm": {
+    "name": "Palikir"
+  },
+  "fo": {
+    "name": "Tórshavn",
+    "endonyms": [
+      "Thorshavn"
+    ]
+  },
+  "fr": {
+    "name": "Paris"
+  },
+  "ga": {
+    "name": "Libreville"
+  },
+  "gb": {
+    "name": "London",
+    "endonyms": [
+      "Llundain",
+      "Lunnon",
+      "Lunnainn",
+      "Londain",
+      "Loundres"
+    ]
+  },
+  "gd": {
+    "name": "St. George's"
+  },
+  "ge": {
+    "name": "Tbilisi",
+    "endonyms": [
+      "თბილისი"
+    ]
+  },
+  "gf": {
+    "name": "Cayenne"
+  },
+  "gh": {
+    "name": "Accra",
+    "endonyms": [
+      "Nkran",
+      "Nkran"
+    ]
+  },
+  "gi": {
+    "name": "Gibraltar"
+  },
+  "gl": {
+    "name": "Nuuk",
+    "endonyms": [
+      "Godthåb"
+    ]
+  },
+  "gm": {
+    "name": "Banjul"
+  },
+  "gn": {
+    "name": "Conakry",
+    "endonyms": [
+      "Kɔnakiri",
+      "Konakiri"
+    ]
+  },
+  "gp": {
+    "name": "Basse-Terre"
+  },
+  "gq": {
+    "name": "Malabo"
+  },
+  "gr": {
+    "name": "Athens",
+    "endonyms": [
+      "Athinai",
+      "Αθήναι",
+      "Athina",
+      "Αθήνα"
+    ]
+  },
+  "gt": {
+    "name": "Guatemala City",
+    "endonyms": [
+      "Ciudad de Guatemala"
+    ]
+  },
+  "gu": {
+    "name": "Hagåtña"
+  },
+  "gw": {
+    "name": "Bissau"
+  },
+  "gy": {
+    "name": "Georgetown"
+  },
+  "hk": {
+    "name": "Hong Kong",
+    "endonyms": [
+      "Heung Gong",
+      "香港"
+    ]
+  },
+  "hn": {
+    "name": "Tegucigalpa"
+  },
+  "hr": {
+    "name": "Zagreb"
+  },
+  "ht": {
+    "name": "Port-au-Prince",
+    "endonyms": [
+      "Pòtoprens"
+    ]
+  },
+  "hu": {
+    "name": "Budapest"
+  },
+  "id": {
+    "name": "Jakarta"
+  },
+  "ie": {
+    "name": "Dublin",
+    "endonyms": [
+      "Baile Átha Cliath"
+    ]
+  },
+  "il": {
+    "name": "Jerusalem",
+    "endonyms": [
+      "Yerushalayim",
+      "ירושלים",
+      "Al-Quds",
+      "القُدس"
+    ]
+  },
+  "in": {
+    "name": "New Delhi",
+    "endonyms": [
+      "Nôtun Dillī",
+      "নতুন দিল্লী",
+      "Nôtun Dillī",
+      "নতুন দিল্লী",
+      "Navī Dilhī",
+      "નવી દિલ્હી",
+      "Naī Dillī",
+      "नई दिल्ली",
+      "Navadehalī",
+      "ನವದೆಹಲಿ",
+      "Navī Dillī",
+      "नवी दिल्ली",
+      "Nyūḍalhi",
+      "ന്യൂഡല്ഹി",
+      "Navī Dillī",
+      "नवी दिल्ली",
+      "Nayã Dillī",
+      "नयाँ दिल्ली",
+      "Nūā Dillī",
+      "ନୂଆ ଦିଲ୍ଲୀ",
+      "Navĩ Dillī",
+      "ਨਵੀਂ ਦਿੱਲੀ",
+      "Navadehalī",
+      "नवदेहली",
+      "Pududilli",
+      "புது தில்லி",
+      "Krottaḍhillī",
+      "క్రొత్తఢిల్లీ"
+    ]
+  },
+  "iq": {
+    "name": "Baghdad",
+    "endonyms": [
+      "بغداد",
+      "Bexda",
+      "بەغدا"
+    ]
+  },
+  "ir": {
+    "name": "Tehran",
+    "endonyms": [
+      "Tehrān",
+      "تهران"
+    ]
+  },
+  "is": {
+    "name": "Reykjavík"
+  },
+  "it": {
+    "name": "Rome",
+    "endonyms": [
+      "Roma"
+    ]
+  },
+  "jm": {
+    "name": "Kingston"
+  },
+  "jo": {
+    "name": "Amman",
+    "endonyms": [
+      "‘Ammān",
+      "عمان"
+    ]
+  },
+  "jp": {
+    "name": "Tokyo",
+    "endonyms": [
+      "Tōkyō",
+      "東京"
+    ]
+  },
+  "ke": {
+    "name": "Nairobi"
+  },
+  "kg": {
+    "name": "Bishkek",
+    "endonyms": [
+      "Бишкек",
+      "Бишкек"
+    ]
+  },
+  "kh": {
+    "name": "Phnom Penh",
+    "endonyms": [
+      "Phnum Pénh",
+      "ភ្នំពេញ"
+    ]
+  },
+  "ki": {
+    "name": "Tarawa"
+  },
+  "km": {
+    "name": "Moroni",
+    "endonyms": [
+      "موروني"
+    ]
+  },
+  "kn": {
+    "name": "Basseterre"
+  },
+  "kp": {
+    "name": "Pyongyang",
+    "endonyms": [
+      "P'yŏngyang",
+      "평양",
+      "平壌"
+    ]
+  },
+  "kr": {
+    "name": "Seoul",
+    "endonyms": [
+      "서울"
+    ]
+  },
+  "kw": {
+    "name": "Kuwait City",
+    "endonyms": [
+      "Madiinat ul-Kuwayt",
+      "مدينة الكويت",
+      "id-diira",
+      "الديرة"
+    ]
+  },
+  "ky": {
+    "name": "George Town"
+  },
+  "kz": {
+    "name": "Astana",
+    "endonyms": [
+      "Астана",
+      "Астана"
+    ]
+  },
+  "la": {
+    "name": "Vientiane",
+    "endonyms": [
+      "Vientiane, Vieng Chan",
+      "Wīang Chan",
+      "ວຽງຈັນ"
+    ]
+  },
+  "lb": {
+    "name": "Beirut",
+    "endonyms": [
+      "Bayrūt",
+      "بيروت",
+      "Beyrouth"
+    ]
+  },
+  "lc": {
+    "name": "Castries"
+  },
+  "li": {
+    "name": "Vaduz"
+  },
+  "lk": {
+    "name": "Sri Jayawardenapura Kotte",
+    "endonyms": [
+      "ශ්‍රී ජයවර්ධනපුර කෝට්ටේ",
+      "ஶ்ரீ ஜெயவர்த்தனபுரம் கோட்டை"
+    ]
+  },
+  "lr": {
+    "name": "Monrovia"
+  },
+  "ls": {
+    "name": "Maseru"
+  },
+  "lt": {
+    "name": "Vilnius"
+  },
+  "lu": {
+    "name": "Luxembourg",
+    "endonyms": [
+      "Lëtzebuerg",
+      "Luxemburg"
+    ]
+  },
+  "lv": {
+    "name": "Riga",
+    "endonyms": [
+      "Rīga"
+    ]
+  },
+  "ly": {
+    "name": "Tripoli",
+    "endonyms": [
+      "Ṭrables",
+      "ⵟⵔⴰⴱⵍⴻⵙ",
+      "Tarabulus",
+      "طرابلس"
+    ]
+  },
+  "ma": {
+    "name": "Rabat",
+    "endonyms": [
+      "Errbaṭ",
+      "ⵔⵔⴱⴰⵟ",
+      "Ar-ribaaṭ",
+      "الرباط"
+    ]
+  },
+  "mc": {
+    "name": "Monaco",
+    "endonyms": [
+      "Múnegu"
+    ]
+  },
+  "md": {
+    "name": "Chișinău"
+  },
+  "me": {
+    "name": "Podgorica",
+    "endonyms": [
+      "Подгорица"
+    ]
+  },
+  "mf": {
+    "name": "Marigot"
+  },
+  "mg": {
+    "name": "Antananarivo",
+    "endonyms": [
+      "Antananarivo/Tananarive"
+    ]
+  },
+  "mh": {
+    "name": "Majuro",
+    "endonyms": [
+      "Mājro"
+    ]
+  },
+  "mk": {
+    "name": "Skopje",
+    "endonyms": [
+      "Скопје",
+      "Shkup"
+    ]
+  },
+  "ml": {
+    "name": "Bamako",
+    "endonyms": [
+      "Bamakɔ"
+    ]
+  },
+  "mm": {
+    "name": "Naypyidaw",
+    "endonyms": [
+      "Nay Pyi Taw",
+      "နေပြည်တော်"
+    ]
+  },
+  "mn": {
+    "name": "Ulaanbaatar",
+    "endonyms": [
+      "Улаанбаатар"
+    ]
+  },
+  "mo": {
+    "name": "Macau",
+    "endonyms": [
+      "Oumún",
+      "澳門"
+    ]
+  },
+  "mp": {
+    "name": "Saipan"
+  },
+  "mq": {
+    "name": "Fort-de-France"
+  },
+  "mr": {
+    "name": "Nouakchott",
+    "endonyms": [
+      "Nwakcuṭ / anu ukcuḍ",
+      "ⵏⵡⴰⴽⵛⵓⵟ / ⴰⵏⵓ ⵓⴽⵛⵓⴹ",
+      "nwakšūṭ",
+      "نواكشوط / أنو ؤكشوض"
+    ]
+  },
+  "ms": {
+    "name": "Brades Estate"
+  },
+  "mt": {
+    "name": "Valletta",
+    "endonyms": [
+      "Il-Belt Valletta"
+    ]
+  },
+  "mu": {
+    "name": "Port Louis",
+    "endonyms": [
+      "Port-Louis",
+      "Porlwi"
+    ]
+  },
+  "mv": {
+    "name": "Malé",
+    "endonyms": [
+      "މާލެ"
+    ]
+  },
+  "mw": {
+    "name": "Lilongwe"
+  },
+  "mx": {
+    "name": "Mexico City",
+    "endonyms": [
+      "Ciudad de México",
+      "Āltepētl Mēxihco"
+    ]
+  },
+  "my": {
+    "name": "Kuala Lumpur"
+  },
+  "mz": {
+    "name": "Maputo"
+  },
+  "na": {
+    "name": "Windhoek",
+    "endonyms": [
+      "Windhuk",
+      "/Ae-//Gams",
+      "Otjomuise"
+    ]
+  },
+  "nc": {
+    "name": "Nouméa"
+  },
+  "ne": {
+    "name": "Niamey"
+  },
+  "nf": {
+    "name": "Kingston"
+  },
+  "ng": {
+    "name": "Abuja",
+    "endonyms": [
+      "Àbújá"
+    ]
+  },
+  "ni": {
+    "name": "Managua"
+  },
+  "nl": {
+    "name": "Amsterdam"
+  },
+  "no": {
+    "name": "Oslo"
+  },
+  "np": {
+    "name": "Kathmandu",
+    "endonyms": [
+      "Kāṭhamāṇḍaũ",
+      "काठमाण्डौं"
+    ]
+  },
+  "nr": {
+    "name": "Yaren"
+  },
+  "nu": {
+    "name": "Alofi"
+  },
+  "nz": {
+    "name": "Wellington",
+    "endonyms": [
+      "Poneke/Te Whanganui-a-Tara"
+    ]
+  },
+  "om": {
+    "name": "Muscat",
+    "endonyms": [
+      "Masqaṭ",
+      "مسقط"
+    ]
+  },
+  "pa": {
+    "name": "Panama City",
+    "endonyms": [
+      "Ciudad de Panamá"
+    ]
+  },
+  "pe": {
+    "name": "Lima"
+  },
+  "pf": {
+    "name": "Papeete"
+  },
+  "pg": {
+    "name": "Port Moresby",
+    "endonyms": [
+      "Pot Mosbi",
+      "Pot Mosbi"
+    ]
+  },
+  "ph": {
+    "name": "Manila",
+    "endonyms": [
+      "Maynila"
+    ]
+  },
+  "pk": {
+    "name": "Islamabad",
+    "endonyms": [
+      "Islāmabād"
+    ]
+  },
+  "pl": {
+    "name": "Warsaw",
+    "endonyms": [
+      "Warszawa"
+    ]
+  },
+  "pm": {
+    "name": "Saint-Pierre"
+  },
+  "pn": {
+    "name": "Adamstown"
+  },
+  "pr": {
+    "name": "San Juan"
+  },
+  "pt": {
+    "name": "Lisbon",
+    "endonyms": [
+      "Lisboa"
+    ]
+  },
+  "pw": {
+    "name": "Ngerulmud"
+  },
+  "py": {
+    "name": "Asunción",
+    "endonyms": [
+      "Paraguay"
+    ]
+  },
+  "qa": {
+    "name": "Doha",
+    "endonyms": [
+      "Ad-Dawḥah",
+      "الدوحة"
+    ]
+  },
+  "re": {
+    "name": "Saint-Denis"
+  },
+  "ro": {
+    "name": "Bucharest",
+    "endonyms": [
+      "București"
+    ]
+  },
+  "rs": {
+    "name": "Belgrade",
+    "endonyms": [
+      "Beograd",
+      "Београд"
+    ]
+  },
+  "ru": {
+    "name": "Moscow",
+    "endonyms": [
+      "Moskva",
+      "Москва"
+    ]
+  },
+  "rw": {
+    "name": "Kigali"
+  },
+  "sa": {
+    "name": "Riyadh",
+    "endonyms": [
+      "Ar-Riyāḍ",
+      "الرياض"
+    ]
+  },
+  "sb": {
+    "name": "Honiara",
+    "endonyms": [
+      "Honiala"
+    ]
+  },
+  "sc": {
+    "name": "Victoria"
+  },
+  "sd": {
+    "name": "Khartoum",
+    "endonyms": [
+      "Al-Khartûm",
+      "الخرطوم"
+    ]
+  },
+  "se": {
+    "name": "Stockholm"
+  },
+  "sg": {
+    "name": "Singapore",
+    "endonyms": [
+      "Singapura",
+      "Xīnjiāpō",
+      "新加坡",
+      "சிங்கப்பூர்"
+    ]
+  },
+  "sh": {
+    "name": "Jamestown"
+  },
+  "si": {
+    "name": "Ljubljana"
+  },
+  "sj": {
+    "name": "Longyearbyen"
+  },
+  "sk": {
+    "name": "Bratislava"
+  },
+  "sl": {
+    "name": "Freetown"
+  },
+  "sm": {
+    "name": "San Marino"
+  },
+  "sn": {
+    "name": "Dakar",
+    "endonyms": [
+      "Ndakaaru"
+    ]
+  },
+  "so": {
+    "name": "Mogadishu",
+    "endonyms": [
+      "Muqdisho",
+      "Maqadīshū",
+      "مقديشو"
+    ]
+  },
+  "sr": {
+    "name": "Paramaribo"
+  },
+  "ss": {
+    "name": "Juba"
+  },
+  "st": {
+    "name": "São Tomé"
+  },
+  "sv": {
+    "name": "San Salvador"
+  },
+  "sx": {
+    "name": "Philipsburg"
+  },
+  "sy": {
+    "name": "Damascus",
+    "endonyms": [
+      "Dimashq / Ash-Sham",
+      "الشام / دمشق"
+    ]
+  },
+  "sz": {
+    "name": "Mbabane"
+  },
+  "tc": {
+    "name": "Cockburn Town"
+  },
+  "td": {
+    "name": "N'Djamena",
+    "endonyms": [
+      "Ndjamena",
+      "Nijāmīnā",
+      "نجامينا"
+    ]
+  },
+  "tg": {
+    "name": "Lomé",
+    "endonyms": [
+      "Lome",
+      "Loma"
+    ]
+  },
+  "th": {
+    "name": "Bangkok",
+    "endonyms": [
+      "Krung Thep, Krung Thep Maha Nakhon",
+      "กรุงเทพฯ, กรุงเทพมหานคร"
+    ]
+  },
+  "tj": {
+    "name": "Dushanbe",
+    "endonyms": [
+      "Душанбе"
+    ]
+  },
+  "tl": {
+    "name": "Díli"
+  },
+  "tm": {
+    "name": "Ashgabat",
+    "endonyms": [
+      "Aşgabat"
+    ]
+  },
+  "tn": {
+    "name": "Tunis",
+    "endonyms": [
+      "Tunes",
+      "ⵜⵓⵏⵙ",
+      "Tūns",
+      "تونس"
+    ]
+  },
+  "to": {
+    "name": "Nukuʻalofa"
+  },
+  "tr": {
+    "name": "Ankara"
+  },
+  "tt": {
+    "name": "Port of Spain"
+  },
+  "tv": {
+    "name": "Fongafale"
+  },
+  "tz": {
+    "name": "Dodoma"
+  },
+  "ua": {
+    "name": "Kyiv",
+    "endonyms": [
+      "Kyjiv",
+      "Київ"
+    ]
+  },
+  "ug": {
+    "name": "Kampala"
+  },
+  "um": {
+    "name": "Washington, D.C.",
+    "endonyms": [
+      "Washington D.C.",
+      "Wakinekona"
+    ]
+  },
+  "uy": {
+    "name": "Montevideo"
+  },
+  "uz": {
+    "name": "Tashkent",
+    "endonyms": [
+      "Toshkent",
+      "Тошкент"
+    ]
+  },
+  "vc": {
+    "name": "Kingstown"
+  },
+  "ve": {
+    "name": "Caracas"
+  },
+  "vg": {
+    "name": "Road Town"
+  },
+  "vi": {
+    "name": "Charlotte Amalie"
+  },
+  "vn": {
+    "name": "Hanoi",
+    "endonyms": [
+      "Hà Nội"
+    ]
+  },
+  "vu": {
+    "name": "Port Vila",
+    "endonyms": [
+      "Port-Vila"
+    ]
+  },
+  "wf": {
+    "name": "Mata Utu",
+    "endonyms": [
+      "Matāʻutu"
+    ]
+  },
+  "ws": {
+    "name": "Apia"
+  },
+  "ye": {
+    "name": "Sana'a",
+    "endonyms": [
+      "Ṣan‘ā’",
+      "ﺻﻨﻌﺎﺀ"
+    ]
+  },
+  "yt": {
+    "name": "Mamoudzou",
+    "endonyms": [
+      "Momoju"
+    ]
+  },
+  "za": {
+    "name": "Pretoria",
+    "endonyms": [
+      "Pretoria, Kaapstad",
+      "iPitoli, iKapa",
+      "iPitoli, iKapa",
+      "Pitori",
+      "iPitoli",
+      "iPitori"
+    ]
+  },
+  "zm": {
+    "name": "Lusaka"
+  },
+  "zw": {
+    "name": "Harare"
+  }
+}

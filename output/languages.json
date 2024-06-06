@@ -1,0 +1,2484 @@
+{
+  "aar": {
+    "name_short": "Afar",
+    "name_long": "Afar language",
+    "iso639": {
+      "set1": "aa",
+      "set2_t": "aar",
+      "set2_b": "aar",
+      "set3": "aar"
+    },
+    "regions": [
+      "et"
+    ]
+  },
+  "abk": {
+    "name_short": "Abkhazian",
+    "name_long": "Abkhazian language",
+    "iso639": {
+      "set1": "ab",
+      "set2_t": "abk",
+      "set2_b": "abk",
+      "set3": "abk"
+    },
+    "regions": []
+  },
+  "afr": {
+    "name_short": "Afrikaans",
+    "name_long": "Afrikaans language",
+    "iso639": {
+      "set1": "af",
+      "set2_t": "afr",
+      "set2_b": "afr",
+      "set3": "afr"
+    },
+    "regions": [
+      "za"
+    ]
+  },
+  "aka": {
+    "name_short": "Akan",
+    "name_long": "Akan language",
+    "iso639": {
+      "set1": "ak",
+      "set2_t": "aka",
+      "set2_b": "aka",
+      "set3": "aka"
+    },
+    "regions": []
+  },
+  "amh": {
+    "name_short": "Amharic",
+    "name_long": "Amharic language",
+    "iso639": {
+      "set1": "am",
+      "set2_t": "amh",
+      "set2_b": "amh",
+      "set3": "amh"
+    },
+    "regions": [
+      "et"
+    ]
+  },
+  "ara": {
+    "name_short": "Arabic",
+    "name_long": "Arabic language",
+    "iso639": {
+      "set1": "ar",
+      "set2_t": "ara",
+      "set2_b": "ara",
+      "set3": "ara"
+    },
+    "regions": [
+      "dz",
+      "bh",
+      "td",
+      "km",
+      "dj",
+      "eg",
+      "iq",
+      "il",
+      "jo",
+      "kw",
+      "lb",
+      "ly",
+      "mr",
+      "ma",
+      "om",
+      "qa",
+      "sa",
+      "so",
+      "sd",
+      "sy",
+      "tn",
+      "ae",
+      "ye"
+    ]
+  },
+  "arg": {
+    "name_short": "Aragonese",
+    "name_long": "Aragonese language",
+    "iso639": {
+      "set1": "an",
+      "set2_t": "arg",
+      "set2_b": "arg",
+      "set3": "arg"
+    },
+    "regions": []
+  },
+  "asm": {
+    "name_short": "Assamese",
+    "name_long": "Assamese language",
+    "iso639": {
+      "set1": "as",
+      "set2_t": "asm",
+      "set2_b": "asm",
+      "set3": "asm"
+    },
+    "regions": [
+      "in"
+    ]
+  },
+  "ava": {
+    "name_short": "Avaric",
+    "name_long": "Avar language",
+    "iso639": {
+      "set1": "av",
+      "set2_t": "ava",
+      "set2_b": "ava",
+      "set3": "ava"
+    },
+    "regions": []
+  },
+  "ave": {
+    "name_short": "Avestan",
+    "name_long": "Avestan language",
+    "iso639": {
+      "set1": "ae",
+      "set2_t": "ave",
+      "set2_b": "ave",
+      "set3": "ave"
+    },
+    "regions": []
+  },
+  "aym": {
+    "name_short": "Aymara",
+    "name_long": "Aymara language",
+    "iso639": {
+      "set1": "ay",
+      "set2_t": "aym",
+      "set2_b": "aym",
+      "set3": "aym"
+    },
+    "regions": [
+      "bo",
+      "pe"
+    ]
+  },
+  "aze": {
+    "name_short": "Azerbaijani",
+    "name_long": "Azerbaijani language",
+    "iso639": {
+      "set1": "az",
+      "set2_t": "aze",
+      "set2_b": "aze",
+      "set3": "aze"
+    },
+    "regions": [
+      "az"
+    ]
+  },
+  "bak": {
+    "name_short": "Bashkir",
+    "name_long": "Bashkir language",
+    "iso639": {
+      "set1": "ba",
+      "set2_t": "bak",
+      "set2_b": "bak",
+      "set3": "bak"
+    },
+    "regions": []
+  },
+  "bam": {
+    "name_short": "Bambara",
+    "name_long": "Bambara language",
+    "iso639": {
+      "set1": "bm",
+      "set2_t": "bam",
+      "set2_b": "bam",
+      "set3": "bam"
+    },
+    "regions": [
+      "ml"
+    ]
+  },
+  "bel": {
+    "name_short": "Belarusian",
+    "name_long": "Belarusian language",
+    "iso639": {
+      "set1": "be",
+      "set2_t": "bel",
+      "set2_b": "bel",
+      "set3": "bel"
+    },
+    "regions": [
+      "by"
+    ]
+  },
+  "ben": {
+    "name_short": "Bengali",
+    "name_long": "Bengali language",
+    "iso639": {
+      "set1": "bn",
+      "set2_t": "ben",
+      "set2_b": "ben",
+      "set3": "ben"
+    },
+    "regions": [
+      "bd",
+      "in"
+    ]
+  },
+  "bis": {
+    "name_short": "Bislama",
+    "name_long": "Bislama language",
+    "iso639": {
+      "set1": "bi",
+      "set2_t": "bis",
+      "set2_b": "bis",
+      "set3": "bis"
+    },
+    "regions": [
+      "vu"
+    ]
+  },
+  "bod": {
+    "name_short": "Tibetan",
+    "name_long": "Standard Tibetan",
+    "iso639": {
+      "set1": "bo",
+      "set2_t": "bod",
+      "set2_b": "tib",
+      "set3": "bod"
+    },
+    "regions": []
+  },
+  "bos": {
+    "name_short": "Bosnian",
+    "name_long": "Bosnian language",
+    "iso639": {
+      "set1": "bs",
+      "set2_t": "bos",
+      "set2_b": "bos",
+      "set3": "bos"
+    },
+    "regions": [
+      "ba"
+    ]
+  },
+  "bre": {
+    "name_short": "Breton",
+    "name_long": "Breton language",
+    "iso639": {
+      "set1": "br",
+      "set2_t": "bre",
+      "set2_b": "bre",
+      "set3": "bre"
+    },
+    "regions": []
+  },
+  "bul": {
+    "name_short": "Bulgarian",
+    "name_long": "Bulgarian language",
+    "iso639": {
+      "set1": "bg",
+      "set2_t": "bul",
+      "set2_b": "bul",
+      "set3": "bul"
+    },
+    "regions": [
+      "bg"
+    ]
+  },
+  "cat": {
+    "name_short": "Catalan",
+    "name_long": "Catalan language",
+    "iso639": {
+      "set1": "ca",
+      "set2_t": "cat",
+      "set2_b": "cat",
+      "set3": "cat"
+    },
+    "regions": [
+      "ad",
+      "es"
+    ]
+  },
+  "ces": {
+    "name_short": "Czech",
+    "name_long": "Czech language",
+    "iso639": {
+      "set1": "cs",
+      "set2_t": "ces",
+      "set2_b": "cze",
+      "set3": "ces"
+    },
+    "regions": [
+      "hr",
+      "cz"
+    ]
+  },
+  "cha": {
+    "name_short": "Chamorro",
+    "name_long": "Chamorro language",
+    "iso639": {
+      "set1": "ch",
+      "set2_t": "cha",
+      "set2_b": "cha",
+      "set3": "cha"
+    },
+    "regions": []
+  },
+  "che": {
+    "name_short": "Chechen",
+    "name_long": "Chechen language",
+    "iso639": {
+      "set1": "ce",
+      "set2_t": "che",
+      "set2_b": "che",
+      "set3": "che"
+    },
+    "regions": []
+  },
+  "chu": {
+    "name_short": "Church Slavonic",
+    "name_long": "Church Slavonic",
+    "iso639": {
+      "set1": "cu",
+      "set2_t": "chu",
+      "set2_b": "chu",
+      "set3": "chu"
+    },
+    "regions": []
+  },
+  "chv": {
+    "name_short": "Chuvash",
+    "name_long": "Chuvash language",
+    "iso639": {
+      "set1": "cv",
+      "set2_t": "chv",
+      "set2_b": "chv",
+      "set3": "chv"
+    },
+    "regions": []
+  },
+  "cor": {
+    "name_short": "Cornish",
+    "name_long": "Cornish language",
+    "iso639": {
+      "set1": "kw",
+      "set2_t": "cor",
+      "set2_b": "cor",
+      "set3": "cor"
+    },
+    "regions": []
+  },
+  "cos": {
+    "name_short": "Corsican",
+    "name_long": "Corsican language",
+    "iso639": {
+      "set1": "co",
+      "set2_t": "cos",
+      "set2_b": "cos",
+      "set3": "cos"
+    },
+    "regions": [
+      "it"
+    ]
+  },
+  "cre": {
+    "name_short": "Cree",
+    "name_long": "Cree language",
+    "iso639": {
+      "set1": "cr",
+      "set2_t": "cre",
+      "set2_b": "cre",
+      "set3": "cre"
+    },
+    "regions": [
+      "ca"
+    ]
+  },
+  "cym": {
+    "name_short": "Welsh",
+    "name_long": "Welsh language",
+    "iso639": {
+      "set1": "cy",
+      "set2_t": "cym",
+      "set2_b": "wel",
+      "set3": "cym"
+    },
+    "regions": [
+      "gb"
+    ]
+  },
+  "dan": {
+    "name_short": "Danish",
+    "name_long": "Danish language",
+    "iso639": {
+      "set1": "da",
+      "set2_t": "dan",
+      "set2_b": "dan",
+      "set3": "dan"
+    },
+    "regions": [
+      "dk",
+      "de"
+    ]
+  },
+  "deu": {
+    "name_short": "German",
+    "name_long": "German language",
+    "iso639": {
+      "set1": "de",
+      "set2_t": "deu",
+      "set2_b": "ger",
+      "set3": "deu"
+    },
+    "regions": [
+      "at",
+      "be",
+      "br",
+      "de",
+      "it",
+      "li",
+      "lu",
+      "na",
+      "ch"
+    ]
+  },
+  "div": {
+    "name_short": "Divehi",
+    "name_long": "Dhivehi language",
+    "iso639": {
+      "set1": "dv",
+      "set2_t": "div",
+      "set2_b": "div",
+      "set3": "div"
+    },
+    "regions": []
+  },
+  "dzo": {
+    "name_short": "Dzongkha",
+    "name_long": "Dzongkha language",
+    "iso639": {
+      "set1": "dz",
+      "set2_t": "dzo",
+      "set2_b": "dzo",
+      "set3": "dzo"
+    },
+    "regions": [
+      "bt"
+    ]
+  },
+  "ell": {
+    "name_short": "Greek",
+    "name_long": "Greek language",
+    "iso639": {
+      "set1": "el",
+      "set2_t": "ell",
+      "set2_b": "gre",
+      "set3": "ell"
+    },
+    "regions": [
+      "cy",
+      "gr",
+      "it"
+    ]
+  },
+  "eng": {
+    "name_short": "English",
+    "name_long": "English language",
+    "iso639": {
+      "set1": "en",
+      "set2_t": "eng",
+      "set2_b": "eng",
+      "set3": "eng"
+    },
+    "regions": [
+      "ag",
+      "au",
+      "bs",
+      "bb",
+      "bz",
+      "bw",
+      "bi",
+      "cm",
+      "ca",
+      "cn",
+      "cx",
+      "cc",
+      "ck",
+      "dm",
+      "sz",
+      "fj",
+      "gm",
+      "gh",
+      "gd",
+      "gy",
+      "in",
+      "ie",
+      "jm",
+      "ke",
+      "ki",
+      "ls",
+      "lr",
+      "mw",
+      "mt",
+      "mh",
+      "mu",
+      "fm",
+      "na",
+      "nr",
+      "nl",
+      "nz",
+      "ng",
+      "nu",
+      "nf",
+      "pk",
+      "pw",
+      "pg",
+      "ph",
+      "rw",
+      "kn",
+      "lc",
+      "vc",
+      "ws",
+      "sc",
+      "sl",
+      "sg",
+      "sb",
+      "za",
+      "ss",
+      "sd",
+      "tz",
+      "tk",
+      "to",
+      "tt",
+      "tv",
+      "ug",
+      "gb",
+      "um",
+      "vu",
+      "zm",
+      "zw"
+    ]
+  },
+  "epo": {
+    "name_short": "Esperanto",
+    "name_long": "Esperanto",
+    "iso639": {
+      "set1": "eo",
+      "set2_t": "epo",
+      "set2_b": "epo",
+      "set3": "epo"
+    },
+    "regions": []
+  },
+  "est": {
+    "name_short": "Estonian",
+    "name_long": "Estonian language",
+    "iso639": {
+      "set1": "et",
+      "set2_t": "est",
+      "set2_b": "est",
+      "set3": "est"
+    },
+    "regions": [
+      "ee"
+    ]
+  },
+  "eus": {
+    "name_short": "Basque",
+    "name_long": "Basque language",
+    "iso639": {
+      "set1": "eu",
+      "set2_t": "eus",
+      "set2_b": "baq",
+      "set3": "eus"
+    },
+    "regions": [
+      "es"
+    ]
+  },
+  "ewe": {
+    "name_short": "Ewe",
+    "name_long": "Ewe language",
+    "iso639": {
+      "set1": "ee",
+      "set2_t": "ewe",
+      "set2_b": "ewe",
+      "set3": "ewe"
+    },
+    "regions": [
+      "gh"
+    ]
+  },
+  "fao": {
+    "name_short": "Faroese",
+    "name_long": "Faroese language",
+    "iso639": {
+      "set1": "fo",
+      "set2_t": "fao",
+      "set2_b": "fao",
+      "set3": "fao"
+    },
+    "regions": [
+      "dk"
+    ]
+  },
+  "fas": {
+    "name_short": "Persian",
+    "name_long": "Persian language",
+    "iso639": {
+      "set1": "fa",
+      "set2_t": "fas",
+      "set2_b": "per",
+      "set3": "fas"
+    },
+    "regions": [
+      "af",
+      "ir"
+    ]
+  },
+  "fij": {
+    "name_short": "Fijian",
+    "name_long": "Fijian language",
+    "iso639": {
+      "set1": "fj",
+      "set2_t": "fij",
+      "set2_b": "fij",
+      "set3": "fij"
+    },
+    "regions": [
+      "fj"
+    ]
+  },
+  "fin": {
+    "name_short": "Finnish",
+    "name_long": "Finnish language",
+    "iso639": {
+      "set1": "fi",
+      "set2_t": "fin",
+      "set2_b": "fin",
+      "set3": "fin"
+    },
+    "regions": [
+      "fi"
+    ]
+  },
+  "fra": {
+    "name_short": "French",
+    "name_long": "French language",
+    "iso639": {
+      "set1": "fr",
+      "set2_t": "fra",
+      "set2_b": "fre",
+      "set3": "fra"
+    },
+    "regions": [
+      "be",
+      "bj",
+      "bf",
+      "bi",
+      "cm",
+      "ca",
+      "cf",
+      "td",
+      "km",
+      "cd",
+      "cg",
+      "dj",
+      "gq",
+      "fr",
+      "ga",
+      "gn",
+      "ht",
+      "it",
+      "ci",
+      "lu",
+      "mg",
+      "mc",
+      "ne",
+      "rw",
+      "sn",
+      "sc",
+      "ch",
+      "tg",
+      "gb",
+      "vu"
+    ]
+  },
+  "fry": {
+    "name_short": "Western Frisian",
+    "name_long": "West Frisian language",
+    "iso639": {
+      "set1": "fy",
+      "set2_t": "fry",
+      "set2_b": "fry",
+      "set3": "fry"
+    },
+    "regions": []
+  },
+  "ful": {
+    "name_short": "Fulah",
+    "name_long": "Fulah language",
+    "iso639": {
+      "set1": "ff",
+      "set2_t": "ful",
+      "set2_b": "ful",
+      "set3": "ful"
+    },
+    "regions": []
+  },
+  "gla": {
+    "name_short": "Gaelic",
+    "name_long": "Scottish Gaelic",
+    "iso639": {
+      "set1": "gd",
+      "set2_t": "gla",
+      "set2_b": "gla",
+      "set3": "gla"
+    },
+    "regions": [
+      "gb"
+    ]
+  },
+  "gle": {
+    "name_short": "Irish",
+    "name_long": "Irish language",
+    "iso639": {
+      "set1": "ga",
+      "set2_t": "gle",
+      "set2_b": "gle",
+      "set3": "gle"
+    },
+    "regions": [
+      "ie",
+      "gb"
+    ]
+  },
+  "glg": {
+    "name_short": "Galician",
+    "name_long": "Galician language",
+    "iso639": {
+      "set1": "gl",
+      "set2_t": "glg",
+      "set2_b": "glg",
+      "set3": "glg"
+    },
+    "regions": [
+      "es"
+    ]
+  },
+  "glv": {
+    "name_short": "Manx",
+    "name_long": "Manx language",
+    "iso639": {
+      "set1": "gv",
+      "set2_t": "glv",
+      "set2_b": "glv",
+      "set3": "glv"
+    },
+    "regions": [
+      "gb"
+    ]
+  },
+  "grn": {
+    "name_short": "Guarani",
+    "name_long": "Guarani language",
+    "iso639": {
+      "set1": "gn",
+      "set2_t": "grn",
+      "set2_b": "grn",
+      "set3": "grn"
+    },
+    "regions": [
+      "ar",
+      "br"
+    ]
+  },
+  "guj": {
+    "name_short": "Gujarati",
+    "name_long": "Gujarati language",
+    "iso639": {
+      "set1": "gu",
+      "set2_t": "guj",
+      "set2_b": "guj",
+      "set3": "guj"
+    },
+    "regions": [
+      "in"
+    ]
+  },
+  "hat": {
+    "name_short": "Haitian",
+    "name_long": "Haitian Creole language",
+    "iso639": {
+      "set1": "ht",
+      "set2_t": "hat",
+      "set2_b": "hat",
+      "set3": "hat"
+    },
+    "regions": [
+      "ht"
+    ]
+  },
+  "hau": {
+    "name_short": "Hausa",
+    "name_long": "Hausa language",
+    "iso639": {
+      "set1": "ha",
+      "set2_t": "hau",
+      "set2_b": "hau",
+      "set3": "hau"
+    },
+    "regions": []
+  },
+  "heb": {
+    "name_short": "Hebrew",
+    "name_long": "Hebrew language",
+    "iso639": {
+      "set1": "he",
+      "set2_t": "heb",
+      "set2_b": "heb",
+      "set3": "heb"
+    },
+    "regions": [
+      "il"
+    ]
+  },
+  "her": {
+    "name_short": "Herero",
+    "name_long": "Herero language",
+    "iso639": {
+      "set1": "hz",
+      "set2_t": "her",
+      "set2_b": "her",
+      "set3": "her"
+    },
+    "regions": []
+  },
+  "hin": {
+    "name_short": "Hindi",
+    "name_long": "Hindi",
+    "iso639": {
+      "set1": "hi",
+      "set2_t": "hin",
+      "set2_b": "hin",
+      "set3": "hin"
+    },
+    "regions": [
+      "fj",
+      "in"
+    ]
+  },
+  "hmo": {
+    "name_short": "Hiri Motu",
+    "name_long": "Hiri Motu language",
+    "iso639": {
+      "set1": "ho",
+      "set2_t": "hmo",
+      "set2_b": "hmo",
+      "set3": "hmo"
+    },
+    "regions": [
+      "pg"
+    ]
+  },
+  "hrv": {
+    "name_short": "Croatian",
+    "name_long": "Croatian language",
+    "iso639": {
+      "set1": "hr",
+      "set2_t": "hrv",
+      "set2_b": "hrv",
+      "set3": "hrv"
+    },
+    "regions": [
+      "at",
+      "ba",
+      "hr"
+    ]
+  },
+  "hun": {
+    "name_short": "Hungarian",
+    "name_long": "Hungarian language",
+    "iso639": {
+      "set1": "hu",
+      "set2_t": "hun",
+      "set2_b": "hun",
+      "set3": "hun"
+    },
+    "regions": [
+      "at",
+      "hr",
+      "hu"
+    ]
+  },
+  "hye": {
+    "name_short": "Armenian",
+    "name_long": "Armenian language",
+    "iso639": {
+      "set1": "hy",
+      "set2_t": "hye",
+      "set2_b": "arm",
+      "set3": "hye"
+    },
+    "regions": [
+      "am",
+      "iq"
+    ]
+  },
+  "ibo": {
+    "name_short": "Igbo",
+    "name_long": "Igbo language",
+    "iso639": {
+      "set1": "ig",
+      "set2_t": "ibo",
+      "set2_b": "ibo",
+      "set3": "ibo"
+    },
+    "regions": []
+  },
+  "ido": {
+    "name_short": "Ido",
+    "name_long": "Ido (language)",
+    "iso639": {
+      "set1": "io",
+      "set2_t": "ido",
+      "set2_b": "ido",
+      "set3": "ido"
+    },
+    "regions": []
+  },
+  "iii": {
+    "name_short": "Sichuan Yi",
+    "name_long": "Sichuan Yi language",
+    "iso639": {
+      "set1": "ii",
+      "set2_t": "iii",
+      "set2_b": "iii",
+      "set3": "iii"
+    },
+    "regions": []
+  },
+  "iku": {
+    "name_short": "Inuktitut",
+    "name_long": "Inuktitut",
+    "iso639": {
+      "set1": "iu",
+      "set2_t": "iku",
+      "set2_b": "iku",
+      "set3": "iku"
+    },
+    "regions": [
+      "ca"
+    ]
+  },
+  "ile": {
+    "name_short": "Interlingue",
+    "name_long": "Interlingue",
+    "iso639": {
+      "set1": "ie",
+      "set2_t": "ile",
+      "set2_b": "ile",
+      "set3": "ile"
+    },
+    "regions": []
+  },
+  "ina": {
+    "name_short": "Interlingua",
+    "name_long": "Interlingua",
+    "iso639": {
+      "set1": "ia",
+      "set2_t": "ina",
+      "set2_b": "ina",
+      "set3": "ina"
+    },
+    "regions": []
+  },
+  "ind": {
+    "name_short": "Indonesian",
+    "name_long": "Indonesian language",
+    "iso639": {
+      "set1": "id",
+      "set2_t": "ind",
+      "set2_b": "ind",
+      "set3": "ind"
+    },
+    "regions": [
+      "id"
+    ]
+  },
+  "ipk": {
+    "name_short": "Inupiaq",
+    "name_long": "Inupiaq language",
+    "iso639": {
+      "set1": "ik",
+      "set2_t": "ipk",
+      "set2_b": "ipk",
+      "set3": "ipk"
+    },
+    "regions": []
+  },
+  "isl": {
+    "name_short": "Icelandic",
+    "name_long": "Icelandic language",
+    "iso639": {
+      "set1": "is",
+      "set2_t": "isl",
+      "set2_b": "ice",
+      "set3": "isl"
+    },
+    "regions": [
+      "is"
+    ]
+  },
+  "ita": {
+    "name_short": "Italian",
+    "name_long": "Italian language",
+    "iso639": {
+      "set1": "it",
+      "set2_t": "ita",
+      "set2_b": "ita",
+      "set3": "ita"
+    },
+    "regions": [
+      "it",
+      "sm",
+      "ch"
+    ]
+  },
+  "jav": {
+    "name_short": "Javanese",
+    "name_long": "Javanese language",
+    "iso639": {
+      "set1": "jv",
+      "set2_t": "jav",
+      "set2_b": "jav",
+      "set3": "jav"
+    },
+    "regions": [
+      "id"
+    ]
+  },
+  "jpn": {
+    "name_short": "Japanese",
+    "name_long": "Japanese language",
+    "iso639": {
+      "set1": "ja",
+      "set2_t": "jpn",
+      "set2_b": "jpn",
+      "set3": "jpn"
+    },
+    "regions": [
+      "jp",
+      "pw"
+    ]
+  },
+  "kal": {
+    "name_short": "Kalaallisut",
+    "name_long": "Greenlandic language",
+    "iso639": {
+      "set1": "kl",
+      "set2_t": "kal",
+      "set2_b": "kal",
+      "set3": "kal"
+    },
+    "regions": [
+      "dk"
+    ]
+  },
+  "kan": {
+    "name_short": "Kannada",
+    "name_long": "Kannada language",
+    "iso639": {
+      "set1": "kn",
+      "set2_t": "kan",
+      "set2_b": "kan",
+      "set3": "kan"
+    },
+    "regions": [
+      "in"
+    ]
+  },
+  "kas": {
+    "name_short": "Kashmiri",
+    "name_long": "Kashmiri language",
+    "iso639": {
+      "set1": "ks",
+      "set2_t": "kas",
+      "set2_b": "kas",
+      "set3": "kas"
+    },
+    "regions": [
+      "in"
+    ]
+  },
+  "kat": {
+    "name_short": "Georgian",
+    "name_long": "Georgian language",
+    "iso639": {
+      "set1": "ka",
+      "set2_t": "kat",
+      "set2_b": "geo",
+      "set3": "kat"
+    },
+    "regions": [
+      "ge"
+    ]
+  },
+  "kau": {
+    "name_short": "Kanuri",
+    "name_long": "Kanuri language",
+    "iso639": {
+      "set1": "kr",
+      "set2_t": "kau",
+      "set2_b": "kau",
+      "set3": "kau"
+    },
+    "regions": []
+  },
+  "kaz": {
+    "name_short": "Kazakh",
+    "name_long": "Kazakh language",
+    "iso639": {
+      "set1": "kk",
+      "set2_t": "kaz",
+      "set2_b": "kaz",
+      "set3": "kaz"
+    },
+    "regions": [
+      "kz"
+    ]
+  },
+  "khm": {
+    "name_short": "Central Khmer",
+    "name_long": "Central Khmer language",
+    "iso639": {
+      "set1": "km",
+      "set2_t": "khm",
+      "set2_b": "khm",
+      "set3": "khm"
+    },
+    "regions": []
+  },
+  "kik": {
+    "name_short": "Kikuyu",
+    "name_long": "Gikuyu language",
+    "iso639": {
+      "set1": "ki",
+      "set2_t": "kik",
+      "set2_b": "kik",
+      "set3": "kik"
+    },
+    "regions": []
+  },
+  "kin": {
+    "name_short": "Kinyarwanda",
+    "name_long": "Kinyarwanda",
+    "iso639": {
+      "set1": "rw",
+      "set2_t": "kin",
+      "set2_b": "kin",
+      "set3": "kin"
+    },
+    "regions": [
+      "rw"
+    ]
+  },
+  "kir": {
+    "name_short": "Kirghiz",
+    "name_long": "Kirghiz language",
+    "iso639": {
+      "set1": "ky",
+      "set2_t": "kir",
+      "set2_b": "kir",
+      "set3": "kir"
+    },
+    "regions": []
+  },
+  "kom": {
+    "name_short": "Komi",
+    "name_long": "Komi language",
+    "iso639": {
+      "set1": "kv",
+      "set2_t": "kom",
+      "set2_b": "kom",
+      "set3": "kom"
+    },
+    "regions": []
+  },
+  "kon": {
+    "name_short": "Kongo",
+    "name_long": "Kongo language",
+    "iso639": {
+      "set1": "kg",
+      "set2_t": "kon",
+      "set2_b": "kon",
+      "set3": "kon"
+    },
+    "regions": []
+  },
+  "kor": {
+    "name_short": "Korean",
+    "name_long": "Korean language",
+    "iso639": {
+      "set1": "ko",
+      "set2_t": "kor",
+      "set2_b": "kor",
+      "set3": "kor"
+    },
+    "regions": [
+      "kp",
+      "kr"
+    ]
+  },
+  "kua": {
+    "name_short": "Kuanyama",
+    "name_long": "Kuanyama language",
+    "iso639": {
+      "set1": "kj",
+      "set2_t": "kua",
+      "set2_b": "kua",
+      "set3": "kua"
+    },
+    "regions": []
+  },
+  "kur": {
+    "name_short": "Kurdish",
+    "name_long": "Kurdish language",
+    "iso639": {
+      "set1": "ku",
+      "set2_t": "kur",
+      "set2_b": "kur",
+      "set3": "kur"
+    },
+    "regions": [
+      "iq",
+      "sy"
+    ]
+  },
+  "lao": {
+    "name_short": "Lao",
+    "name_long": "Lao language",
+    "iso639": {
+      "set1": "lo",
+      "set2_t": "lao",
+      "set2_b": "lao",
+      "set3": "lao"
+    },
+    "regions": [
+      "la"
+    ]
+  },
+  "lat": {
+    "name_short": "Latin",
+    "name_long": "Latin",
+    "iso639": {
+      "set1": "la",
+      "set2_t": "lat",
+      "set2_b": "lat",
+      "set3": "lat"
+    },
+    "regions": []
+  },
+  "lav": {
+    "name_short": "Latvian",
+    "name_long": "Latvian language",
+    "iso639": {
+      "set1": "lv",
+      "set2_t": "lav",
+      "set2_b": "lav",
+      "set3": "lav"
+    },
+    "regions": [
+      "lv"
+    ]
+  },
+  "lim": {
+    "name_short": "Limburgan",
+    "name_long": "Limburgan language",
+    "iso639": {
+      "set1": "li",
+      "set2_t": "lim",
+      "set2_b": "lim",
+      "set3": "lim"
+    },
+    "regions": []
+  },
+  "lin": {
+    "name_short": "Lingala",
+    "name_long": "Lingala language",
+    "iso639": {
+      "set1": "ln",
+      "set2_t": "lin",
+      "set2_b": "lin",
+      "set3": "lin"
+    },
+    "regions": []
+  },
+  "lit": {
+    "name_short": "Lithuanian",
+    "name_long": "Lithuanian language",
+    "iso639": {
+      "set1": "lt",
+      "set2_t": "lit",
+      "set2_b": "lit",
+      "set3": "lit"
+    },
+    "regions": [
+      "lt"
+    ]
+  },
+  "ltz": {
+    "name_short": "Luxembourgish",
+    "name_long": "Luxembourgish language",
+    "iso639": {
+      "set1": "lb",
+      "set2_t": "ltz",
+      "set2_b": "ltz",
+      "set3": "ltz"
+    },
+    "regions": [
+      "lu"
+    ]
+  },
+  "lub": {
+    "name_short": "Luba-Katanga",
+    "name_long": "Luba-Katanga language",
+    "iso639": {
+      "set1": "lu",
+      "set2_t": "lub",
+      "set2_b": "lub",
+      "set3": "lub"
+    },
+    "regions": []
+  },
+  "lug": {
+    "name_short": "Ganda",
+    "name_long": "Ganda language",
+    "iso639": {
+      "set1": "lg",
+      "set2_t": "lug",
+      "set2_b": "lug",
+      "set3": "lug"
+    },
+    "regions": []
+  },
+  "mah": {
+    "name_short": "Marshallese",
+    "name_long": "Marshallese language",
+    "iso639": {
+      "set1": "mh",
+      "set2_t": "mah",
+      "set2_b": "mah",
+      "set3": "mah"
+    },
+    "regions": [
+      "mh"
+    ]
+  },
+  "mal": {
+    "name_short": "Malayalam",
+    "name_long": "Malayalam language",
+    "iso639": {
+      "set1": "ml",
+      "set2_t": "mal",
+      "set2_b": "mal",
+      "set3": "mal"
+    },
+    "regions": [
+      "in"
+    ]
+  },
+  "mar": {
+    "name_short": "Marathi",
+    "name_long": "Marathi language",
+    "iso639": {
+      "set1": "mr",
+      "set2_t": "mar",
+      "set2_b": "mar",
+      "set3": "mar"
+    },
+    "regions": [
+      "in"
+    ]
+  },
+  "mkd": {
+    "name_short": "Macedonian",
+    "name_long": "Macedonian language",
+    "iso639": {
+      "set1": "mk",
+      "set2_t": "mkd",
+      "set2_b": "mac",
+      "set3": "mkd"
+    },
+    "regions": [
+      "mk"
+    ]
+  },
+  "mlg": {
+    "name_short": "Malagasy",
+    "name_long": "Malagasy language",
+    "iso639": {
+      "set1": "mg",
+      "set2_t": "mlg",
+      "set2_b": "mlg",
+      "set3": "mlg"
+    },
+    "regions": [
+      "mg"
+    ]
+  },
+  "mlt": {
+    "name_short": "Maltese",
+    "name_long": "Maltese language",
+    "iso639": {
+      "set1": "mt",
+      "set2_t": "mlt",
+      "set2_b": "mlt",
+      "set3": "mlt"
+    },
+    "regions": [
+      "mt"
+    ]
+  },
+  "mon": {
+    "name_short": "Mongolian",
+    "name_long": "Mongolian language",
+    "iso639": {
+      "set1": "mn",
+      "set2_t": "mon",
+      "set2_b": "mon",
+      "set3": "mon"
+    },
+    "regions": [
+      "mn"
+    ]
+  },
+  "mri": {
+    "name_short": "Maori",
+    "name_long": "Māori language",
+    "iso639": {
+      "set1": "mi",
+      "set2_t": "mri",
+      "set2_b": "mao",
+      "set3": "mri"
+    },
+    "regions": [
+      "nz"
+    ]
+  },
+  "msa": {
+    "name_short": "Malay",
+    "name_long": "Malay language",
+    "iso639": {
+      "set1": "ms",
+      "set2_t": "msa",
+      "set2_b": "may",
+      "set3": "msa"
+    },
+    "regions": [
+      "bn",
+      "cx",
+      "cc",
+      "id",
+      "my",
+      "sg"
+    ]
+  },
+  "mya": {
+    "name_short": "Burmese",
+    "name_long": "Burmese language",
+    "iso639": {
+      "set1": "my",
+      "set2_t": "mya",
+      "set2_b": "bur",
+      "set3": "mya"
+    },
+    "regions": [
+      "mm"
+    ]
+  },
+  "nau": {
+    "name_short": "Nauru",
+    "name_long": "Nauru language",
+    "iso639": {
+      "set1": "na",
+      "set2_t": "nau",
+      "set2_b": "nau",
+      "set3": "nau"
+    },
+    "regions": []
+  },
+  "nav": {
+    "name_short": "Navajo",
+    "name_long": "Navajo language",
+    "iso639": {
+      "set1": "nv",
+      "set2_t": "nav",
+      "set2_b": "nav",
+      "set3": "nav"
+    },
+    "regions": []
+  },
+  "nbl": {
+    "name_short": "South Ndebele",
+    "name_long": "South Ndebele language",
+    "iso639": {
+      "set1": "nr",
+      "set2_t": "nbl",
+      "set2_b": "nbl",
+      "set3": "nbl"
+    },
+    "regions": []
+  },
+  "nde": {
+    "name_short": "North Ndebele",
+    "name_long": "North Ndebele language",
+    "iso639": {
+      "set1": "nd",
+      "set2_t": "nde",
+      "set2_b": "nde",
+      "set3": "nde"
+    },
+    "regions": []
+  },
+  "ndo": {
+    "name_short": "Ndonga",
+    "name_long": "Ndonga",
+    "iso639": {
+      "set1": "ng",
+      "set2_t": "ndo",
+      "set2_b": "ndo",
+      "set3": "ndo"
+    },
+    "regions": []
+  },
+  "nep": {
+    "name_short": "Nepali",
+    "name_long": "Nepali language",
+    "iso639": {
+      "set1": "ne",
+      "set2_t": "nep",
+      "set2_b": "nep",
+      "set3": "nep"
+    },
+    "regions": [
+      "in",
+      "np"
+    ]
+  },
+  "nld": {
+    "name_short": "Dutch",
+    "name_long": "Dutch language",
+    "iso639": {
+      "set1": "nl",
+      "set2_t": "nld",
+      "set2_b": "dut",
+      "set3": "nld"
+    },
+    "regions": [
+      "be",
+      "nl",
+      "sr"
+    ]
+  },
+  "nno": {
+    "name_short": "Norwegian Nynorsk",
+    "name_long": "Nynorsk",
+    "iso639": {
+      "set1": "nn",
+      "set2_t": "nno",
+      "set2_b": "nno",
+      "set3": "nno"
+    },
+    "regions": []
+  },
+  "nob": {
+    "name_short": "Norwegian Bokmål",
+    "name_long": "Bokmål",
+    "iso639": {
+      "set1": "nb",
+      "set2_t": "nob",
+      "set2_b": "nob",
+      "set3": "nob"
+    },
+    "regions": []
+  },
+  "nor": {
+    "name_short": "Norwegian",
+    "name_long": "Norwegian language",
+    "iso639": {
+      "set1": "no",
+      "set2_t": "nor",
+      "set2_b": "nor",
+      "set3": "nor"
+    },
+    "regions": [
+      "no"
+    ]
+  },
+  "nya": {
+    "name_short": "Chichewa",
+    "name_long": "Chichewa language",
+    "iso639": {
+      "set1": "ny",
+      "set2_t": "nya",
+      "set2_b": "nya",
+      "set3": "nya"
+    },
+    "regions": [
+      "mw"
+    ]
+  },
+  "oci": {
+    "name_short": "Occitan",
+    "name_long": "Occitan language",
+    "iso639": {
+      "set1": "oc",
+      "set2_t": "oci",
+      "set2_b": "oci",
+      "set3": "oci"
+    },
+    "regions": [
+      "it",
+      "es"
+    ]
+  },
+  "oji": {
+    "name_short": "Ojibwa",
+    "name_long": "Ojibwa language",
+    "iso639": {
+      "set1": "oj",
+      "set2_t": "oji",
+      "set2_b": "oji",
+      "set3": "oji"
+    },
+    "regions": []
+  },
+  "ori": {
+    "name_short": "Oriya",
+    "name_long": "Oriya language",
+    "iso639": {
+      "set1": "or",
+      "set2_t": "ori",
+      "set2_b": "ori",
+      "set3": "ori"
+    },
+    "regions": [
+      "in"
+    ]
+  },
+  "orm": {
+    "name_short": "Oromo",
+    "name_long": "Oromo language",
+    "iso639": {
+      "set1": "om",
+      "set2_t": "orm",
+      "set2_b": "orm",
+      "set3": "orm"
+    },
+    "regions": [
+      "et"
+    ]
+  },
+  "oss": {
+    "name_short": "Ossetian",
+    "name_long": "Ossetian language",
+    "iso639": {
+      "set1": "os",
+      "set2_t": "oss",
+      "set2_b": "oss",
+      "set3": "oss"
+    },
+    "regions": []
+  },
+  "pan": {
+    "name_short": "Punjabi",
+    "name_long": "Punjabi language",
+    "iso639": {
+      "set1": "pa",
+      "set2_t": "pan",
+      "set2_b": "pan",
+      "set3": "pan"
+    },
+    "regions": [
+      "in"
+    ]
+  },
+  "pli": {
+    "name_short": "Pali",
+    "name_long": "Pali language",
+    "iso639": {
+      "set1": "pi",
+      "set2_t": "pli",
+      "set2_b": "pli",
+      "set3": "pli"
+    },
+    "regions": []
+  },
+  "pol": {
+    "name_short": "Polish",
+    "name_long": "Polish language",
+    "iso639": {
+      "set1": "pl",
+      "set2_t": "pol",
+      "set2_b": "pol",
+      "set3": "pol"
+    },
+    "regions": [
+      "pl"
+    ]
+  },
+  "por": {
+    "name_short": "Portuguese",
+    "name_long": "Portuguese language",
+    "iso639": {
+      "set1": "pt",
+      "set2_t": "por",
+      "set2_b": "por",
+      "set3": "por"
+    },
+    "regions": [
+      "ao",
+      "br",
+      "cv",
+      "cn",
+      "tl",
+      "gq",
+      "gw",
+      "mz",
+      "pt",
+      "st"
+    ]
+  },
+  "pus": {
+    "name_short": "Pashto",
+    "name_long": "Pashto language",
+    "iso639": {
+      "set1": "ps",
+      "set2_t": "pus",
+      "set2_b": "pus",
+      "set3": "pus"
+    },
+    "regions": [
+      "af"
+    ]
+  },
+  "que": {
+    "name_short": "Quechua",
+    "name_long": "Quechua language",
+    "iso639": {
+      "set1": "qu",
+      "set2_t": "que",
+      "set2_b": "que",
+      "set3": "que"
+    },
+    "regions": [
+      "bo",
+      "pe"
+    ]
+  },
+  "roh": {
+    "name_short": "Romansh",
+    "name_long": "Romansh language",
+    "iso639": {
+      "set1": "rm",
+      "set2_t": "roh",
+      "set2_b": "roh",
+      "set3": "roh"
+    },
+    "regions": [
+      "ch"
+    ]
+  },
+  "ron": {
+    "name_short": "Romanian",
+    "name_long": "Romanian language",
+    "iso639": {
+      "set1": "ro",
+      "set2_t": "ron",
+      "set2_b": "rum",
+      "set3": "ron"
+    },
+    "regions": [
+      "md",
+      "ro"
+    ]
+  },
+  "run": {
+    "name_short": "Rundi",
+    "name_long": "Rundi language",
+    "iso639": {
+      "set1": "rn",
+      "set2_t": "run",
+      "set2_b": "run",
+      "set3": "run"
+    },
+    "regions": []
+  },
+  "rus": {
+    "name_short": "Russian",
+    "name_long": "Russian language",
+    "iso639": {
+      "set1": "ru",
+      "set2_t": "rus",
+      "set2_b": "rus",
+      "set3": "rus"
+    },
+    "regions": [
+      "by",
+      "kz",
+      "kg",
+      "md",
+      "ru",
+      "ua"
+    ]
+  },
+  "sag": {
+    "name_short": "Sango",
+    "name_long": "Sango language",
+    "iso639": {
+      "set1": "sg",
+      "set2_t": "sag",
+      "set2_b": "sag",
+      "set3": "sag"
+    },
+    "regions": [
+      "cf"
+    ]
+  },
+  "san": {
+    "name_short": "Sanskrit",
+    "name_long": "Sanskrit",
+    "iso639": {
+      "set1": "sa",
+      "set2_t": "san",
+      "set2_b": "san",
+      "set3": "san"
+    },
+    "regions": [
+      "in"
+    ]
+  },
+  "sin": {
+    "name_short": "Sinhala",
+    "name_long": "Sinhala language",
+    "iso639": {
+      "set1": "si",
+      "set2_t": "sin",
+      "set2_b": "sin",
+      "set3": "sin"
+    },
+    "regions": [
+      "lk"
+    ]
+  },
+  "slk": {
+    "name_short": "Slovak",
+    "name_long": "Slovak language",
+    "iso639": {
+      "set1": "sk",
+      "set2_t": "slk",
+      "set2_b": "slo",
+      "set3": "slk"
+    },
+    "regions": [
+      "hr",
+      "cz",
+      "sk"
+    ]
+  },
+  "slv": {
+    "name_short": "Slovenian",
+    "name_long": "Slovene language",
+    "iso639": {
+      "set1": "sl",
+      "set2_t": "slv",
+      "set2_b": "slv",
+      "set3": "slv"
+    },
+    "regions": [
+      "at"
+    ]
+  },
+  "sme": {
+    "name_short": "Northern Sami",
+    "name_long": "Northern Sami",
+    "iso639": {
+      "set1": "se",
+      "set2_t": "sme",
+      "set2_b": "sme",
+      "set3": "sme"
+    },
+    "regions": [
+      "no"
+    ]
+  },
+  "smo": {
+    "name_short": "Samoan",
+    "name_long": "Samoan language",
+    "iso639": {
+      "set1": "sm",
+      "set2_t": "smo",
+      "set2_b": "smo",
+      "set3": "smo"
+    },
+    "regions": [
+      "ws"
+    ]
+  },
+  "sna": {
+    "name_short": "Shona",
+    "name_long": "Shona language",
+    "iso639": {
+      "set1": "sn",
+      "set2_t": "sna",
+      "set2_b": "sna",
+      "set3": "sna"
+    },
+    "regions": [
+      "zw"
+    ]
+  },
+  "snd": {
+    "name_short": "Sindhi",
+    "name_long": "Sindhi language",
+    "iso639": {
+      "set1": "sd",
+      "set2_t": "snd",
+      "set2_b": "snd",
+      "set3": "snd"
+    },
+    "regions": [
+      "in"
+    ]
+  },
+  "som": {
+    "name_short": "Somali",
+    "name_long": "Somali language",
+    "iso639": {
+      "set1": "so",
+      "set2_t": "som",
+      "set2_b": "som",
+      "set3": "som"
+    },
+    "regions": [
+      "et",
+      "so"
+    ]
+  },
+  "sot": {
+    "name_short": "Southern Sotho",
+    "name_long": "Sotho language",
+    "iso639": {
+      "set1": "st",
+      "set2_t": "sot",
+      "set2_b": "sot",
+      "set3": "sot"
+    },
+    "regions": [
+      "ls",
+      "za",
+      "zw"
+    ]
+  },
+  "spa": {
+    "name_short": "Spanish",
+    "name_long": "Spanish language",
+    "iso639": {
+      "set1": "es",
+      "set2_t": "spa",
+      "set2_b": "spa",
+      "set3": "spa"
+    },
+    "regions": [
+      "ar",
+      "bo",
+      "cl",
+      "co",
+      "cr",
+      "cu",
+      "do",
+      "ec",
+      "sv",
+      "gq",
+      "gt",
+      "hn",
+      "mx",
+      "ni",
+      "pa",
+      "py",
+      "pe",
+      "es",
+      "uy",
+      "ve"
+    ]
+  },
+  "sqi": {
+    "name_short": "Albanian",
+    "name_long": "Albanian language",
+    "iso639": {
+      "set1": "sq",
+      "set2_t": "sqi",
+      "set2_b": "alb",
+      "set3": "sqi"
+    },
+    "regions": [
+      "al",
+      "mk"
+    ]
+  },
+  "srd": {
+    "name_short": "Sardinian",
+    "name_long": "Sardinian language",
+    "iso639": {
+      "set1": "sc",
+      "set2_t": "srd",
+      "set2_b": "srd",
+      "set3": "srd"
+    },
+    "regions": [
+      "it"
+    ]
+  },
+  "srp": {
+    "name_short": "Serbian",
+    "name_long": "Serbian language",
+    "iso639": {
+      "set1": "sr",
+      "set2_t": "srp",
+      "set2_b": "srp",
+      "set3": "srp"
+    },
+    "regions": [
+      "ba",
+      "hr",
+      "rs"
+    ]
+  },
+  "ssw": {
+    "name_short": "Swati",
+    "name_long": "Swazi language",
+    "iso639": {
+      "set1": "ss",
+      "set2_t": "ssw",
+      "set2_b": "ssw",
+      "set3": "ssw"
+    },
+    "regions": [
+      "sz",
+      "za"
+    ]
+  },
+  "sun": {
+    "name_short": "Sundanese",
+    "name_long": "Sundanese language",
+    "iso639": {
+      "set1": "su",
+      "set2_t": "sun",
+      "set2_b": "sun",
+      "set3": "sun"
+    },
+    "regions": []
+  },
+  "swa": {
+    "name_short": "Swahili",
+    "name_long": "Swahili language",
+    "iso639": {
+      "set1": "sw",
+      "set2_t": "swa",
+      "set2_b": "swa",
+      "set3": "swa"
+    },
+    "regions": [
+      "ke",
+      "rw",
+      "tz",
+      "ug"
+    ]
+  },
+  "swe": {
+    "name_short": "Swedish",
+    "name_long": "Swedish language",
+    "iso639": {
+      "set1": "sv",
+      "set2_t": "swe",
+      "set2_b": "swe",
+      "set3": "swe"
+    },
+    "regions": [
+      "fi",
+      "se"
+    ]
+  },
+  "tah": {
+    "name_short": "Tahitian",
+    "name_long": "Tahitian language",
+    "iso639": {
+      "set1": "ty",
+      "set2_t": "tah",
+      "set2_b": "tah",
+      "set3": "tah"
+    },
+    "regions": []
+  },
+  "tam": {
+    "name_short": "Tamil",
+    "name_long": "Tamil language",
+    "iso639": {
+      "set1": "ta",
+      "set2_t": "tam",
+      "set2_b": "tam",
+      "set3": "tam"
+    },
+    "regions": [
+      "in",
+      "sg",
+      "lk"
+    ]
+  },
+  "tat": {
+    "name_short": "Tatar",
+    "name_long": "Tatar language",
+    "iso639": {
+      "set1": "tt",
+      "set2_t": "tat",
+      "set2_b": "tat",
+      "set3": "tat"
+    },
+    "regions": [
+      "ua"
+    ]
+  },
+  "tel": {
+    "name_short": "Telugu",
+    "name_long": "Telugu language",
+    "iso639": {
+      "set1": "te",
+      "set2_t": "tel",
+      "set2_b": "tel",
+      "set3": "tel"
+    },
+    "regions": [
+      "in"
+    ]
+  },
+  "tgk": {
+    "name_short": "Tajik",
+    "name_long": "Tajik language",
+    "iso639": {
+      "set1": "tg",
+      "set2_t": "tgk",
+      "set2_b": "tgk",
+      "set3": "tgk"
+    },
+    "regions": [
+      "tj"
+    ]
+  },
+  "tgl": {
+    "name_short": "Tagalog",
+    "name_long": "Tagalog language",
+    "iso639": {
+      "set1": "tl",
+      "set2_t": "tgl",
+      "set2_b": "tgl",
+      "set3": "tgl"
+    },
+    "regions": [
+      "ph"
+    ]
+  },
+  "tha": {
+    "name_short": "Thai",
+    "name_long": "Thai language",
+    "iso639": {
+      "set1": "th",
+      "set2_t": "tha",
+      "set2_b": "tha",
+      "set3": "tha"
+    },
+    "regions": [
+      "th"
+    ]
+  },
+  "tir": {
+    "name_short": "Tigrinya",
+    "name_long": "Tigrinya language",
+    "iso639": {
+      "set1": "ti",
+      "set2_t": "tir",
+      "set2_b": "tir",
+      "set3": "tir"
+    },
+    "regions": [
+      "er",
+      "et"
+    ]
+  },
+  "ton": {
+    "name_short": "Tonga",
+    "name_long": "Tongan language",
+    "iso639": {
+      "set1": "to",
+      "set2_t": "ton",
+      "set2_b": "ton",
+      "set3": "ton"
+    },
+    "regions": [
+      "to",
+      "zw"
+    ]
+  },
+  "tsn": {
+    "name_short": "Tswana",
+    "name_long": "Tswana language",
+    "iso639": {
+      "set1": "tn",
+      "set2_t": "tsn",
+      "set2_b": "tsn",
+      "set3": "tsn"
+    },
+    "regions": [
+      "za",
+      "zw"
+    ]
+  },
+  "tso": {
+    "name_short": "Tsonga",
+    "name_long": "Tsonga language",
+    "iso639": {
+      "set1": "ts",
+      "set2_t": "tso",
+      "set2_b": "tso",
+      "set3": "tso"
+    },
+    "regions": [
+      "za"
+    ]
+  },
+  "tuk": {
+    "name_short": "Turkmen",
+    "name_long": "Turkmen language",
+    "iso639": {
+      "set1": "tk",
+      "set2_t": "tuk",
+      "set2_b": "tuk",
+      "set3": "tuk"
+    },
+    "regions": [
+      "af",
+      "iq",
+      "tm"
+    ]
+  },
+  "tur": {
+    "name_short": "Turkish",
+    "name_long": "Turkish language",
+    "iso639": {
+      "set1": "tr",
+      "set2_t": "tur",
+      "set2_b": "tur",
+      "set3": "tur"
+    },
+    "regions": [
+      "cy",
+      "tr"
+    ]
+  },
+  "twi": {
+    "name_short": "Twi",
+    "name_long": "Twi",
+    "iso639": {
+      "set1": "tw",
+      "set2_t": "twi",
+      "set2_b": "twi",
+      "set3": "twi"
+    },
+    "regions": [
+      "gh"
+    ]
+  },
+  "uig": {
+    "name_short": "Uighur",
+    "name_long": "Uighur language",
+    "iso639": {
+      "set1": "ug",
+      "set2_t": "uig",
+      "set2_b": "uig",
+      "set3": "uig"
+    },
+    "regions": []
+  },
+  "ukr": {
+    "name_short": "Ukrainian",
+    "name_long": "Ukrainian language",
+    "iso639": {
+      "set1": "uk",
+      "set2_t": "ukr",
+      "set2_b": "ukr",
+      "set3": "ukr"
+    },
+    "regions": [
+      "md",
+      "ua"
+    ]
+  },
+  "urd": {
+    "name_short": "Urdu",
+    "name_long": "Urdu",
+    "iso639": {
+      "set1": "ur",
+      "set2_t": "urd",
+      "set2_b": "urd",
+      "set3": "urd"
+    },
+    "regions": [
+      "in",
+      "pk"
+    ]
+  },
+  "uzb": {
+    "name_short": "Uzbek",
+    "name_long": "Uzbek language",
+    "iso639": {
+      "set1": "uz",
+      "set2_t": "uzb",
+      "set2_b": "uzb",
+      "set3": "uzb"
+    },
+    "regions": [
+      "af",
+      "uz"
+    ]
+  },
+  "ven": {
+    "name_short": "Venda",
+    "name_long": "Venda language",
+    "iso639": {
+      "set1": "ve",
+      "set2_t": "ven",
+      "set2_b": "ven",
+      "set3": "ven"
+    },
+    "regions": [
+      "za",
+      "zw"
+    ]
+  },
+  "vie": {
+    "name_short": "Vietnamese",
+    "name_long": "Vietnamese language",
+    "iso639": {
+      "set1": "vi",
+      "set2_t": "vie",
+      "set2_b": "vie",
+      "set3": "vie"
+    },
+    "regions": [
+      "vn"
+    ]
+  },
+  "vol": {
+    "name_short": "Volapük",
+    "name_long": "Volapük",
+    "iso639": {
+      "set1": "vo",
+      "set2_t": "vol",
+      "set2_b": "vol",
+      "set3": "vol"
+    },
+    "regions": []
+  },
+  "wln": {
+    "name_short": "Walloon",
+    "name_long": "Walloon language",
+    "iso639": {
+      "set1": "wa",
+      "set2_t": "wln",
+      "set2_b": "wln",
+      "set3": "wln"
+    },
+    "regions": []
+  },
+  "wol": {
+    "name_short": "Wolof",
+    "name_long": "Wolof language",
+    "iso639": {
+      "set1": "wo",
+      "set2_t": "wol",
+      "set2_b": "wol",
+      "set3": "wol"
+    },
+    "regions": []
+  },
+  "xho": {
+    "name_short": "Xhosa",
+    "name_long": "Xhosa language",
+    "iso639": {
+      "set1": "xh",
+      "set2_t": "xho",
+      "set2_b": "xho",
+      "set3": "xho"
+    },
+    "regions": [
+      "za",
+      "zw"
+    ]
+  },
+  "yid": {
+    "name_short": "Yiddish",
+    "name_long": "Yiddish language",
+    "iso639": {
+      "set1": "yi",
+      "set2_t": "yid",
+      "set2_b": "yid",
+      "set3": "yid"
+    },
+    "regions": []
+  },
+  "yor": {
+    "name_short": "Yoruba",
+    "name_long": "Yoruba language",
+    "iso639": {
+      "set1": "yo",
+      "set2_t": "yor",
+      "set2_b": "yor",
+      "set3": "yor"
+    },
+    "regions": []
+  },
+  "zha": {
+    "name_short": "Zhuang",
+    "name_long": "Zhuang language",
+    "iso639": {
+      "set1": "za",
+      "set2_t": "zha",
+      "set2_b": "zha",
+      "set3": "zha"
+    },
+    "regions": []
+  },
+  "zho": {
+    "name_short": "Chinese",
+    "name_long": "Chinese language",
+    "iso639": {
+      "set1": "zh",
+      "set2_t": "zho",
+      "set2_b": "chi",
+      "set3": "zho"
+    },
+    "regions": [
+      "cn",
+      "cx",
+      "sg"
+    ]
+  },
+  "zul": {
+    "name_short": "Zulu",
+    "name_long": "Zulu language",
+    "iso639": {
+      "set1": "zu",
+      "set2_t": "zul",
+      "set2_b": "zul",
+      "set3": "zul"
+    },
+    "regions": [
+      "za"
+    ]
+  }
+}

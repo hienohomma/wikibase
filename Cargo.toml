@@ -1,0 +1,16 @@
+[package]
+name = "wikibase"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+serde = { version = "1.0.203", features = ["derive"] }
+tokio = { version = "1.37.0", features = ["full"] }
+reqwest = "0.12.4"
+anyhow = "1.0.86"
+scraper = "0.19.0"
+serde_json = "1.0.117"
+tracing = "0.1.40"
+tracing-subscriber = "0.3.18"
+imageproc = "0.25.0"
+image = "0.25.1"

@@ -1,0 +1,3613 @@
+{
+  "ad": {
+    "name": "Andorra",
+    "state_name": "The Principality of Andorra",
+    "un_member": true,
+    "sovereignity": "ad",
+    "iso_3166_1": {
+      "a2": "AD",
+      "a3": "AND",
+      "num": 20
+    },
+    "iso_3166_2": "ISO 3166-2:AD",
+    "tld": [
+      ".ad"
+    ]
+  },
+  "ae": {
+    "name": "United Arab Emirates",
+    "state_name": "The United Arab Emirates",
+    "un_member": true,
+    "sovereignity": "ae",
+    "iso_3166_1": {
+      "a2": "AE",
+      "a3": "ARE",
+      "num": 784
+    },
+    "iso_3166_2": "ISO 3166-2:AE",
+    "tld": [
+      ".ae"
+    ]
+  },
+  "af": {
+    "name": "Afghanistan",
+    "state_name": "The Islamic Republic of Afghanistan",
+    "un_member": true,
+    "sovereignity": "af",
+    "iso_3166_1": {
+      "a2": "AF",
+      "a3": "AFG",
+      "num": 4
+    },
+    "iso_3166_2": "ISO 3166-2:AF",
+    "tld": [
+      ".af"
+    ]
+  },
+  "ag": {
+    "name": "Antigua and Barbuda",
+    "state_name": "Antigua and Barbuda",
+    "un_member": true,
+    "sovereignity": "ag",
+    "iso_3166_1": {
+      "a2": "AG",
+      "a3": "ATG",
+      "num": 28
+    },
+    "iso_3166_2": "ISO 3166-2:AG",
+    "tld": [
+      ".ag"
+    ]
+  },
+  "ai": {
+    "name": "Anguilla",
+    "state_name": "Anguilla",
+    "un_member": false,
+    "sovereignity": "gb",
+    "iso_3166_1": {
+      "a2": "AI",
+      "a3": "AIA",
+      "num": 660
+    },
+    "iso_3166_2": "ISO 3166-2:AI",
+    "tld": [
+      ".ai"
+    ]
+  },
+  "al": {
+    "name": "Albania",
+    "state_name": "The Republic of Albania",
+    "un_member": true,
+    "sovereignity": "al",
+    "iso_3166_1": {
+      "a2": "AL",
+      "a3": "ALB",
+      "num": 8
+    },
+    "iso_3166_2": "ISO 3166-2:AL",
+    "tld": [
+      ".al"
+    ]
+  },
+  "am": {
+    "name": "Armenia",
+    "state_name": "The Republic of Armenia",
+    "un_member": true,
+    "sovereignity": "am",
+    "iso_3166_1": {
+      "a2": "AM",
+      "a3": "ARM",
+      "num": 51
+    },
+    "iso_3166_2": "ISO 3166-2:AM",
+    "tld": [
+      ".am"
+    ]
+  },
+  "ao": {
+    "name": "Angola",
+    "state_name": "The Republic of Angola",
+    "un_member": true,
+    "sovereignity": "ao",
+    "iso_3166_1": {
+      "a2": "AO",
+      "a3": "AGO",
+      "num": 24
+    },
+    "iso_3166_2": "ISO 3166-2:AO",
+    "tld": [
+      ".ao"
+    ]
+  },
+  "ar": {
+    "name": "Argentina",
+    "state_name": "The Argentine Republic",
+    "un_member": true,
+    "sovereignity": "ar",
+    "iso_3166_1": {
+      "a2": "AR",
+      "a3": "ARG",
+      "num": 32
+    },
+    "iso_3166_2": "ISO 3166-2:AR",
+    "tld": [
+      ".ar"
+    ]
+  },
+  "as": {
+    "name": "American Samoa",
+    "state_name": "The Territory of American Samoa",
+    "un_member": false,
+    "sovereignity": "us",
+    "iso_3166_1": {
+      "a2": "AS",
+      "a3": "ASM",
+      "num": 16
+    },
+    "iso_3166_2": "ISO 3166-2:AS",
+    "tld": [
+      ".as"
+    ]
+  },
+  "at": {
+    "name": "Austria",
+    "state_name": "The Republic of Austria",
+    "un_member": true,
+    "sovereignity": "at",
+    "iso_3166_1": {
+      "a2": "AT",
+      "a3": "AUT",
+      "num": 40
+    },
+    "iso_3166_2": "ISO 3166-2:AT",
+    "tld": [
+      ".at"
+    ]
+  },
+  "au": {
+    "name": "Australia",
+    "state_name": "The Commonwealth of Australia",
+    "un_member": true,
+    "sovereignity": "au",
+    "iso_3166_1": {
+      "a2": "AU",
+      "a3": "AUS",
+      "num": 36
+    },
+    "iso_3166_2": "ISO 3166-2:AU",
+    "tld": [
+      ".au"
+    ]
+  },
+  "aw": {
+    "name": "Aruba",
+    "state_name": "Aruba",
+    "un_member": false,
+    "sovereignity": "nl",
+    "iso_3166_1": {
+      "a2": "AW",
+      "a3": "ABW",
+      "num": 533
+    },
+    "iso_3166_2": "ISO 3166-2:AW",
+    "tld": [
+      ".aw"
+    ]
+  },
+  "ax": {
+    "name": "Åland",
+    "state_name": "Åland",
+    "un_member": false,
+    "sovereignity": "fi",
+    "iso_3166_1": {
+      "a2": "AX",
+      "a3": "ALA",
+      "num": 248
+    },
+    "iso_3166_2": "ISO 3166-2:AX",
+    "tld": [
+      ".ax"
+    ]
+  },
+  "az": {
+    "name": "Azerbaijan",
+    "state_name": "The Republic of Azerbaijan",
+    "un_member": true,
+    "sovereignity": "az",
+    "iso_3166_1": {
+      "a2": "AZ",
+      "a3": "AZE",
+      "num": 31
+    },
+    "iso_3166_2": "ISO 3166-2:AZ",
+    "tld": [
+      ".az"
+    ]
+  },
+  "ba": {
+    "name": "Bosnia and Herzegovina",
+    "state_name": "Bosnia and Herzegovina",
+    "un_member": true,
+    "sovereignity": "ba",
+    "iso_3166_1": {
+      "a2": "BA",
+      "a3": "BIH",
+      "num": 70
+    },
+    "iso_3166_2": "ISO 3166-2:BA",
+    "tld": [
+      ".ba"
+    ]
+  },
+  "bb": {
+    "name": "Barbados",
+    "state_name": "Barbados",
+    "un_member": true,
+    "sovereignity": "bb",
+    "iso_3166_1": {
+      "a2": "BB",
+      "a3": "BRB",
+      "num": 52
+    },
+    "iso_3166_2": "ISO 3166-2:BB",
+    "tld": [
+      ".bb"
+    ]
+  },
+  "bd": {
+    "name": "Bangladesh",
+    "state_name": "The People's Republic of Bangladesh",
+    "un_member": true,
+    "sovereignity": "bd",
+    "iso_3166_1": {
+      "a2": "BD",
+      "a3": "BGD",
+      "num": 50
+    },
+    "iso_3166_2": "ISO 3166-2:BD",
+    "tld": [
+      ".bd"
+    ]
+  },
+  "be": {
+    "name": "Belgium",
+    "state_name": "The Kingdom of Belgium",
+    "un_member": true,
+    "sovereignity": "be",
+    "iso_3166_1": {
+      "a2": "BE",
+      "a3": "BEL",
+      "num": 56
+    },
+    "iso_3166_2": "ISO 3166-2:BE",
+    "tld": [
+      ".be"
+    ]
+  },
+  "bf": {
+    "name": "Burkina Faso",
+    "state_name": "Burkina Faso",
+    "un_member": true,
+    "sovereignity": "bf",
+    "iso_3166_1": {
+      "a2": "BF",
+      "a3": "BFA",
+      "num": 854
+    },
+    "iso_3166_2": "ISO 3166-2:BF",
+    "tld": [
+      ".bf"
+    ]
+  },
+  "bg": {
+    "name": "Bulgaria",
+    "state_name": "The Republic of Bulgaria",
+    "un_member": true,
+    "sovereignity": "bg",
+    "iso_3166_1": {
+      "a2": "BG",
+      "a3": "BGR",
+      "num": 100
+    },
+    "iso_3166_2": "ISO 3166-2:BG",
+    "tld": [
+      ".bg"
+    ]
+  },
+  "bh": {
+    "name": "Bahrain",
+    "state_name": "The Kingdom of Bahrain",
+    "un_member": true,
+    "sovereignity": "bh",
+    "iso_3166_1": {
+      "a2": "BH",
+      "a3": "BHR",
+      "num": 48
+    },
+    "iso_3166_2": "ISO 3166-2:BH",
+    "tld": [
+      ".bh"
+    ]
+  },
+  "bi": {
+    "name": "Burundi",
+    "state_name": "The Republic of Burundi",
+    "un_member": true,
+    "sovereignity": "bi",
+    "iso_3166_1": {
+      "a2": "BI",
+      "a3": "BDI",
+      "num": 108
+    },
+    "iso_3166_2": "ISO 3166-2:BI",
+    "tld": [
+      ".bi"
+    ]
+  },
+  "bj": {
+    "name": "Benin",
+    "state_name": "The Republic of Benin",
+    "un_member": true,
+    "sovereignity": "bj",
+    "iso_3166_1": {
+      "a2": "BJ",
+      "a3": "BEN",
+      "num": 204
+    },
+    "iso_3166_2": "ISO 3166-2:BJ",
+    "tld": [
+      ".bj"
+    ]
+  },
+  "bl": {
+    "name": "Saint Barthélemy",
+    "state_name": "The Collectivity of Saint-Barthélemy",
+    "un_member": false,
+    "sovereignity": "fr",
+    "iso_3166_1": {
+      "a2": "BL",
+      "a3": "BLM",
+      "num": 652
+    },
+    "iso_3166_2": "ISO 3166-2:BL",
+    "tld": [
+      ".bl"
+    ]
+  },
+  "bm": {
+    "name": "Bermuda",
+    "state_name": "Bermuda",
+    "un_member": false,
+    "sovereignity": "gb",
+    "iso_3166_1": {
+      "a2": "BM",
+      "a3": "BMU",
+      "num": 60
+    },
+    "iso_3166_2": "ISO 3166-2:BM",
+    "tld": [
+      ".bm"
+    ]
+  },
+  "bn": {
+    "name": "Brunei",
+    "state_name": "The Nation of Brunei, the Abode of Peace",
+    "un_member": true,
+    "sovereignity": "bn",
+    "iso_3166_1": {
+      "a2": "BN",
+      "a3": "BRN",
+      "num": 96
+    },
+    "iso_3166_2": "ISO 3166-2:BN",
+    "tld": [
+      ".bn"
+    ]
+  },
+  "bo": {
+    "name": "Bolivia",
+    "state_name": "The Plurinational State of Bolivia",
+    "un_member": true,
+    "sovereignity": "bo",
+    "iso_3166_1": {
+      "a2": "BO",
+      "a3": "BOL",
+      "num": 68
+    },
+    "iso_3166_2": "ISO 3166-2:BO",
+    "tld": [
+      ".bo"
+    ]
+  },
+  "bq": {
+    "name": "Bonaire",
+    "state_name": "Bonaire, Sint Eustatius and Saba",
+    "un_member": false,
+    "sovereignity": "nl",
+    "iso_3166_1": {
+      "a2": "BQ",
+      "a3": "BES",
+      "num": 535
+    },
+    "iso_3166_2": "ISO 3166-2:BQ",
+    "tld": [
+      ".bq",
+      ".nl"
+    ]
+  },
+  "br": {
+    "name": "Brazil",
+    "state_name": "The Federative Republic of Brazil",
+    "un_member": true,
+    "sovereignity": "br",
+    "iso_3166_1": {
+      "a2": "BR",
+      "a3": "BRA",
+      "num": 76
+    },
+    "iso_3166_2": "ISO 3166-2:BR",
+    "tld": [
+      ".br"
+    ]
+  },
+  "bs": {
+    "name": "The Bahamas",
+    "state_name": "The Commonwealth of The Bahamas",
+    "un_member": true,
+    "sovereignity": "bs",
+    "iso_3166_1": {
+      "a2": "BS",
+      "a3": "BHS",
+      "num": 44
+    },
+    "iso_3166_2": "ISO 3166-2:BS",
+    "tld": [
+      ".bs"
+    ]
+  },
+  "bt": {
+    "name": "Bhutan",
+    "state_name": "The Kingdom of Bhutan",
+    "un_member": true,
+    "sovereignity": "bt",
+    "iso_3166_1": {
+      "a2": "BT",
+      "a3": "BTN",
+      "num": 64
+    },
+    "iso_3166_2": "ISO 3166-2:BT",
+    "tld": [
+      ".bt"
+    ]
+  },
+  "bv": {
+    "name": "Bouvet Island",
+    "state_name": "Bouvet Island",
+    "un_member": false,
+    "sovereignity": "no",
+    "iso_3166_1": {
+      "a2": "BV",
+      "a3": "BVT",
+      "num": 74
+    },
+    "iso_3166_2": "ISO 3166-2:BV",
+    "tld": []
+  },
+  "bw": {
+    "name": "Botswana",
+    "state_name": "The Republic of Botswana",
+    "un_member": true,
+    "sovereignity": "bw",
+    "iso_3166_1": {
+      "a2": "BW",
+      "a3": "BWA",
+      "num": 72
+    },
+    "iso_3166_2": "ISO 3166-2:BW",
+    "tld": [
+      ".bw"
+    ]
+  },
+  "by": {
+    "name": "Belarus",
+    "state_name": "The Republic of Belarus",
+    "un_member": true,
+    "sovereignity": "by",
+    "iso_3166_1": {
+      "a2": "BY",
+      "a3": "BLR",
+      "num": 112
+    },
+    "iso_3166_2": "ISO 3166-2:BY",
+    "tld": [
+      ".by"
+    ]
+  },
+  "bz": {
+    "name": "Belize",
+    "state_name": "Belize",
+    "un_member": true,
+    "sovereignity": "bz",
+    "iso_3166_1": {
+      "a2": "BZ",
+      "a3": "BLZ",
+      "num": 84
+    },
+    "iso_3166_2": "ISO 3166-2:BZ",
+    "tld": [
+      ".bz"
+    ]
+  },
+  "ca": {
+    "name": "Canada",
+    "state_name": "Canada",
+    "un_member": true,
+    "sovereignity": "ca",
+    "iso_3166_1": {
+      "a2": "CA",
+      "a3": "CAN",
+      "num": 124
+    },
+    "iso_3166_2": "ISO 3166-2:CA",
+    "tld": [
+      ".ca"
+    ]
+  },
+  "cc": {
+    "name": "Cocos (Keeling) Islands",
+    "state_name": "The Territory of Cocos (Keeling) Islands",
+    "un_member": false,
+    "sovereignity": "au",
+    "iso_3166_1": {
+      "a2": "CC",
+      "a3": "CCK",
+      "num": 166
+    },
+    "iso_3166_2": "ISO 3166-2:CC",
+    "tld": [
+      ".cc"
+    ]
+  },
+  "cd": {
+    "name": "Democratic Republic of the Congo",
+    "state_name": "The Democratic Republic of the Congo",
+    "un_member": true,
+    "sovereignity": "cd",
+    "iso_3166_1": {
+      "a2": "CD",
+      "a3": "COD",
+      "num": 180
+    },
+    "iso_3166_2": "ISO 3166-2:CD",
+    "tld": [
+      ".cd"
+    ]
+  },
+  "cf": {
+    "name": "Central African Republic",
+    "state_name": "The Central African Republic",
+    "un_member": true,
+    "sovereignity": "cf",
+    "iso_3166_1": {
+      "a2": "CF",
+      "a3": "CAF",
+      "num": 140
+    },
+    "iso_3166_2": "ISO 3166-2:CF",
+    "tld": [
+      ".cf"
+    ]
+  },
+  "cg": {
+    "name": "Republic of the Congo",
+    "state_name": "The Republic of the Congo",
+    "un_member": true,
+    "sovereignity": "cg",
+    "iso_3166_1": {
+      "a2": "CG",
+      "a3": "COG",
+      "num": 178
+    },
+    "iso_3166_2": "ISO 3166-2:CG",
+    "tld": [
+      ".cg"
+    ]
+  },
+  "ch": {
+    "name": "Switzerland",
+    "state_name": "The Swiss Confederation",
+    "un_member": true,
+    "sovereignity": "ch",
+    "iso_3166_1": {
+      "a2": "CH",
+      "a3": "CHE",
+      "num": 756
+    },
+    "iso_3166_2": "ISO 3166-2:CH",
+    "tld": [
+      ".ch"
+    ]
+  },
+  "ci": {
+    "name": "Ivory Coast",
+    "state_name": "The Republic of Côte d'Ivoire",
+    "un_member": true,
+    "sovereignity": "ci",
+    "iso_3166_1": {
+      "a2": "CI",
+      "a3": "CIV",
+      "num": 384
+    },
+    "iso_3166_2": "ISO 3166-2:CI",
+    "tld": [
+      ".ci"
+    ]
+  },
+  "ck": {
+    "name": "Cook Islands",
+    "state_name": "The Cook Islands",
+    "un_member": false,
+    "sovereignity": "nz",
+    "iso_3166_1": {
+      "a2": "CK",
+      "a3": "COK",
+      "num": 184
+    },
+    "iso_3166_2": "ISO 3166-2:CK",
+    "tld": [
+      ".ck"
+    ]
+  },
+  "cl": {
+    "name": "Chile",
+    "state_name": "The Republic of Chile",
+    "un_member": true,
+    "sovereignity": "cl",
+    "iso_3166_1": {
+      "a2": "CL",
+      "a3": "CHL",
+      "num": 152
+    },
+    "iso_3166_2": "ISO 3166-2:CL",
+    "tld": [
+      ".cl"
+    ]
+  },
+  "cm": {
+    "name": "Cameroon",
+    "state_name": "The Republic of Cameroon",
+    "un_member": true,
+    "sovereignity": "cm",
+    "iso_3166_1": {
+      "a2": "CM",
+      "a3": "CMR",
+      "num": 120
+    },
+    "iso_3166_2": "ISO 3166-2:CM",
+    "tld": [
+      ".cm"
+    ]
+  },
+  "cn": {
+    "name": "China",
+    "state_name": "The People's Republic of China",
+    "un_member": true,
+    "sovereignity": "cn",
+    "iso_3166_1": {
+      "a2": "CN",
+      "a3": "CHN",
+      "num": 156
+    },
+    "iso_3166_2": "ISO 3166-2:CN",
+    "tld": [
+      ".cn"
+    ]
+  },
+  "co": {
+    "name": "Colombia",
+    "state_name": "The Republic of Colombia",
+    "un_member": true,
+    "sovereignity": "co",
+    "iso_3166_1": {
+      "a2": "CO",
+      "a3": "COL",
+      "num": 170
+    },
+    "iso_3166_2": "ISO 3166-2:CO",
+    "tld": [
+      ".co"
+    ]
+  },
+  "cr": {
+    "name": "Costa Rica",
+    "state_name": "The Republic of Costa Rica",
+    "un_member": true,
+    "sovereignity": "cr",
+    "iso_3166_1": {
+      "a2": "CR",
+      "a3": "CRI",
+      "num": 188
+    },
+    "iso_3166_2": "ISO 3166-2:CR",
+    "tld": [
+      ".cr"
+    ]
+  },
+  "cu": {
+    "name": "Cuba",
+    "state_name": "The Republic of Cuba",
+    "un_member": true,
+    "sovereignity": "cu",
+    "iso_3166_1": {
+      "a2": "CU",
+      "a3": "CUB",
+      "num": 192
+    },
+    "iso_3166_2": "ISO 3166-2:CU",
+    "tld": [
+      ".cu"
+    ]
+  },
+  "cv": {
+    "name": "Cape Verde",
+    "state_name": "The Republic of Cabo Verde",
+    "un_member": true,
+    "sovereignity": "cv",
+    "iso_3166_1": {
+      "a2": "CV",
+      "a3": "CPV",
+      "num": 132
+    },
+    "iso_3166_2": "ISO 3166-2:CV",
+    "tld": [
+      ".cv"
+    ]
+  },
+  "cw": {
+    "name": "Curaçao",
+    "state_name": "The Country of Curaçao",
+    "un_member": false,
+    "sovereignity": "nl",
+    "iso_3166_1": {
+      "a2": "CW",
+      "a3": "CUW",
+      "num": 531
+    },
+    "iso_3166_2": "ISO 3166-2:CW",
+    "tld": [
+      ".cw"
+    ]
+  },
+  "cx": {
+    "name": "Christmas Island",
+    "state_name": "The Territory of Christmas Island",
+    "un_member": false,
+    "sovereignity": "au",
+    "iso_3166_1": {
+      "a2": "CX",
+      "a3": "CXR",
+      "num": 162
+    },
+    "iso_3166_2": "ISO 3166-2:CX",
+    "tld": [
+      ".cx"
+    ]
+  },
+  "cy": {
+    "name": "Cyprus",
+    "state_name": "The Republic of Cyprus",
+    "un_member": true,
+    "sovereignity": "cy",
+    "iso_3166_1": {
+      "a2": "CY",
+      "a3": "CYP",
+      "num": 196
+    },
+    "iso_3166_2": "ISO 3166-2:CY",
+    "tld": [
+      ".cy"
+    ]
+  },
+  "cz": {
+    "name": "Czech Republic",
+    "state_name": "The Czech Republic",
+    "un_member": true,
+    "sovereignity": "cz",
+    "iso_3166_1": {
+      "a2": "CZ",
+      "a3": "CZE",
+      "num": 203
+    },
+    "iso_3166_2": "ISO 3166-2:CZ",
+    "tld": [
+      ".cz"
+    ]
+  },
+  "de": {
+    "name": "Germany",
+    "state_name": "The Federal Republic of Germany",
+    "un_member": true,
+    "sovereignity": "de",
+    "iso_3166_1": {
+      "a2": "DE",
+      "a3": "DEU",
+      "num": 276
+    },
+    "iso_3166_2": "ISO 3166-2:DE",
+    "tld": [
+      ".de"
+    ]
+  },
+  "dj": {
+    "name": "Djibouti",
+    "state_name": "The Republic of Djibouti",
+    "un_member": true,
+    "sovereignity": "dj",
+    "iso_3166_1": {
+      "a2": "DJ",
+      "a3": "DJI",
+      "num": 262
+    },
+    "iso_3166_2": "ISO 3166-2:DJ",
+    "tld": [
+      ".dj"
+    ]
+  },
+  "dk": {
+    "name": "Denmark",
+    "state_name": "The Kingdom of Denmark",
+    "un_member": true,
+    "sovereignity": "dk",
+    "iso_3166_1": {
+      "a2": "DK",
+      "a3": "DNK",
+      "num": 208
+    },
+    "iso_3166_2": "ISO 3166-2:DK",
+    "tld": [
+      ".dk"
+    ]
+  },
+  "dm": {
+    "name": "Dominica",
+    "state_name": "The Commonwealth of Dominica",
+    "un_member": true,
+    "sovereignity": "dm",
+    "iso_3166_1": {
+      "a2": "DM",
+      "a3": "DMA",
+      "num": 212
+    },
+    "iso_3166_2": "ISO 3166-2:DM",
+    "tld": [
+      ".dm"
+    ]
+  },
+  "do": {
+    "name": "Dominican Republic",
+    "state_name": "The Dominican Republic",
+    "un_member": true,
+    "sovereignity": "do",
+    "iso_3166_1": {
+      "a2": "DO",
+      "a3": "DOM",
+      "num": 214
+    },
+    "iso_3166_2": "ISO 3166-2:DO",
+    "tld": [
+      ".do"
+    ]
+  },
+  "dz": {
+    "name": "Algeria",
+    "state_name": "The People's Democratic Republic of Algeria",
+    "un_member": true,
+    "sovereignity": "dz",
+    "iso_3166_1": {
+      "a2": "DZ",
+      "a3": "DZA",
+      "num": 12
+    },
+    "iso_3166_2": "ISO 3166-2:DZ",
+    "tld": [
+      ".dz"
+    ]
+  },
+  "ec": {
+    "name": "Ecuador",
+    "state_name": "The Republic of Ecuador",
+    "un_member": true,
+    "sovereignity": "ec",
+    "iso_3166_1": {
+      "a2": "EC",
+      "a3": "ECU",
+      "num": 218
+    },
+    "iso_3166_2": "ISO 3166-2:EC",
+    "tld": [
+      ".ec"
+    ]
+  },
+  "ee": {
+    "name": "Estonia",
+    "state_name": "The Republic of Estonia",
+    "un_member": true,
+    "sovereignity": "ee",
+    "iso_3166_1": {
+      "a2": "EE",
+      "a3": "EST",
+      "num": 233
+    },
+    "iso_3166_2": "ISO 3166-2:EE",
+    "tld": [
+      ".ee"
+    ]
+  },
+  "eg": {
+    "name": "Egypt",
+    "state_name": "The Arab Republic of Egypt",
+    "un_member": true,
+    "sovereignity": "eg",
+    "iso_3166_1": {
+      "a2": "EG",
+      "a3": "EGY",
+      "num": 818
+    },
+    "iso_3166_2": "ISO 3166-2:EG",
+    "tld": [
+      ".eg"
+    ]
+  },
+  "er": {
+    "name": "Eritrea",
+    "state_name": "The State of Eritrea",
+    "un_member": true,
+    "sovereignity": "er",
+    "iso_3166_1": {
+      "a2": "ER",
+      "a3": "ERI",
+      "num": 232
+    },
+    "iso_3166_2": "ISO 3166-2:ER",
+    "tld": [
+      ".er"
+    ]
+  },
+  "es": {
+    "name": "Spain",
+    "state_name": "The Kingdom of Spain",
+    "un_member": true,
+    "sovereignity": "es",
+    "iso_3166_1": {
+      "a2": "ES",
+      "a3": "ESP",
+      "num": 724
+    },
+    "iso_3166_2": "ISO 3166-2:ES",
+    "tld": [
+      ".es"
+    ]
+  },
+  "et": {
+    "name": "Ethiopia",
+    "state_name": "The Federal Democratic Republic of Ethiopia",
+    "un_member": true,
+    "sovereignity": "et",
+    "iso_3166_1": {
+      "a2": "ET",
+      "a3": "ETH",
+      "num": 231
+    },
+    "iso_3166_2": "ISO 3166-2:ET",
+    "tld": [
+      ".et"
+    ]
+  },
+  "fi": {
+    "name": "Finland",
+    "state_name": "The Republic of Finland",
+    "un_member": true,
+    "sovereignity": "fi",
+    "iso_3166_1": {
+      "a2": "FI",
+      "a3": "FIN",
+      "num": 246
+    },
+    "iso_3166_2": "ISO 3166-2:FI",
+    "tld": [
+      ".fi"
+    ]
+  },
+  "fj": {
+    "name": "Fiji",
+    "state_name": "The Republic of Fiji",
+    "un_member": true,
+    "sovereignity": "fj",
+    "iso_3166_1": {
+      "a2": "FJ",
+      "a3": "FJI",
+      "num": 242
+    },
+    "iso_3166_2": "ISO 3166-2:FJ",
+    "tld": [
+      ".fj"
+    ]
+  },
+  "fk": {
+    "name": "Falkland Islands",
+    "state_name": "The Falkland Islands",
+    "un_member": false,
+    "sovereignity": "gb",
+    "iso_3166_1": {
+      "a2": "FK",
+      "a3": "FLK",
+      "num": 238
+    },
+    "iso_3166_2": "ISO 3166-2:FK",
+    "tld": [
+      ".fk"
+    ]
+  },
+  "fm": {
+    "name": "Federated States of Micronesia",
+    "state_name": "The Federated States of Micronesia",
+    "un_member": true,
+    "sovereignity": "fm",
+    "iso_3166_1": {
+      "a2": "FM",
+      "a3": "FSM",
+      "num": 583
+    },
+    "iso_3166_2": "ISO 3166-2:FM",
+    "tld": [
+      ".fm"
+    ]
+  },
+  "fo": {
+    "name": "Faroe Islands",
+    "state_name": "The Faroe Islands",
+    "un_member": false,
+    "sovereignity": "dk",
+    "iso_3166_1": {
+      "a2": "FO",
+      "a3": "FRO",
+      "num": 234
+    },
+    "iso_3166_2": "ISO 3166-2:FO",
+    "tld": [
+      ".fo"
+    ]
+  },
+  "fr": {
+    "name": "France",
+    "state_name": "The French Republic",
+    "un_member": true,
+    "sovereignity": "fr",
+    "iso_3166_1": {
+      "a2": "FR",
+      "a3": "FRA",
+      "num": 250
+    },
+    "iso_3166_2": "ISO 3166-2:FR",
+    "tld": [
+      ".fr"
+    ]
+  },
+  "ga": {
+    "name": "Gabon",
+    "state_name": "The Gabonese Republic",
+    "un_member": true,
+    "sovereignity": "ga",
+    "iso_3166_1": {
+      "a2": "GA",
+      "a3": "GAB",
+      "num": 266
+    },
+    "iso_3166_2": "ISO 3166-2:GA",
+    "tld": [
+      ".ga"
+    ]
+  },
+  "gb": {
+    "name": "United Kingdom",
+    "state_name": "The United Kingdom of Great Britain and Northern Ireland",
+    "un_member": true,
+    "sovereignity": "gb",
+    "iso_3166_1": {
+      "a2": "GB",
+      "a3": "GBR",
+      "num": 826
+    },
+    "iso_3166_2": "ISO 3166-2:GB",
+    "tld": [
+      ".gb",
+      ".uk"
+    ]
+  },
+  "gd": {
+    "name": "Grenada",
+    "state_name": "Grenada",
+    "un_member": true,
+    "sovereignity": "gd",
+    "iso_3166_1": {
+      "a2": "GD",
+      "a3": "GRD",
+      "num": 308
+    },
+    "iso_3166_2": "ISO 3166-2:GD",
+    "tld": [
+      ".gd"
+    ]
+  },
+  "ge": {
+    "name": "Georgia (country)",
+    "state_name": "Georgia",
+    "un_member": true,
+    "sovereignity": "ge",
+    "iso_3166_1": {
+      "a2": "GE",
+      "a3": "GEO",
+      "num": 268
+    },
+    "iso_3166_2": "ISO 3166-2:GE",
+    "tld": [
+      ".ge"
+    ]
+  },
+  "gf": {
+    "name": "French Guiana",
+    "state_name": "Guyane",
+    "un_member": false,
+    "sovereignity": "fr",
+    "iso_3166_1": {
+      "a2": "GF",
+      "a3": "GUF",
+      "num": 254
+    },
+    "iso_3166_2": "ISO 3166-2:GF",
+    "tld": [
+      ".gf"
+    ]
+  },
+  "gh": {
+    "name": "Ghana",
+    "state_name": "The Republic of Ghana",
+    "un_member": true,
+    "sovereignity": "gh",
+    "iso_3166_1": {
+      "a2": "GH",
+      "a3": "GHA",
+      "num": 288
+    },
+    "iso_3166_2": "ISO 3166-2:GH",
+    "tld": [
+      ".gh"
+    ]
+  },
+  "gi": {
+    "name": "Gibraltar",
+    "state_name": "Gibraltar",
+    "un_member": false,
+    "sovereignity": "gb",
+    "iso_3166_1": {
+      "a2": "GI",
+      "a3": "GIB",
+      "num": 292
+    },
+    "iso_3166_2": "ISO 3166-2:GI",
+    "tld": [
+      ".gi"
+    ]
+  },
+  "gl": {
+    "name": "Greenland",
+    "state_name": "Kalaallit Nunaat",
+    "un_member": false,
+    "sovereignity": "dk",
+    "iso_3166_1": {
+      "a2": "GL",
+      "a3": "GRL",
+      "num": 304
+    },
+    "iso_3166_2": "ISO 3166-2:GL",
+    "tld": [
+      ".gl"
+    ]
+  },
+  "gm": {
+    "name": "The Gambia",
+    "state_name": "The Republic of The Gambia",
+    "un_member": true,
+    "sovereignity": "gm",
+    "iso_3166_1": {
+      "a2": "GM",
+      "a3": "GMB",
+      "num": 270
+    },
+    "iso_3166_2": "ISO 3166-2:GM",
+    "tld": [
+      ".gm"
+    ]
+  },
+  "gn": {
+    "name": "Guinea",
+    "state_name": "The Republic of Guinea",
+    "un_member": true,
+    "sovereignity": "gn",
+    "iso_3166_1": {
+      "a2": "GN",
+      "a3": "GIN",
+      "num": 324
+    },
+    "iso_3166_2": "ISO 3166-2:GN",
+    "tld": [
+      ".gn"
+    ]
+  },
+  "gp": {
+    "name": "Guadeloupe",
+    "state_name": "Guadeloupe",
+    "un_member": false,
+    "sovereignity": "fr",
+    "iso_3166_1": {
+      "a2": "GP",
+      "a3": "GLP",
+      "num": 312
+    },
+    "iso_3166_2": "ISO 3166-2:GP",
+    "tld": [
+      ".gp"
+    ]
+  },
+  "gq": {
+    "name": "Equatorial Guinea",
+    "state_name": "The Republic of Equatorial Guinea",
+    "un_member": true,
+    "sovereignity": "gq",
+    "iso_3166_1": {
+      "a2": "GQ",
+      "a3": "GNQ",
+      "num": 226
+    },
+    "iso_3166_2": "ISO 3166-2:GQ",
+    "tld": [
+      ".gq"
+    ]
+  },
+  "gr": {
+    "name": "Greece",
+    "state_name": "The Hellenic Republic",
+    "un_member": true,
+    "sovereignity": "gr",
+    "iso_3166_1": {
+      "a2": "GR",
+      "a3": "GRC",
+      "num": 300
+    },
+    "iso_3166_2": "ISO 3166-2:GR",
+    "tld": [
+      ".gr"
+    ]
+  },
+  "gs": {
+    "name": "South Georgia and the South Sandwich Islands",
+    "state_name": "South Georgia and the South Sandwich Islands",
+    "un_member": false,
+    "sovereignity": "gb",
+    "iso_3166_1": {
+      "a2": "GS",
+      "a3": "SGS",
+      "num": 239
+    },
+    "iso_3166_2": "ISO 3166-2:GS",
+    "tld": [
+      ".gs"
+    ]
+  },
+  "gt": {
+    "name": "Guatemala",
+    "state_name": "The Republic of Guatemala",
+    "un_member": true,
+    "sovereignity": "gt",
+    "iso_3166_1": {
+      "a2": "GT",
+      "a3": "GTM",
+      "num": 320
+    },
+    "iso_3166_2": "ISO 3166-2:GT",
+    "tld": [
+      ".gt"
+    ]
+  },
+  "gu": {
+    "name": "Guam",
+    "state_name": "The Territory of Guam",
+    "un_member": false,
+    "sovereignity": "us",
+    "iso_3166_1": {
+      "a2": "GU",
+      "a3": "GUM",
+      "num": 316
+    },
+    "iso_3166_2": "ISO 3166-2:GU",
+    "tld": [
+      ".gu"
+    ]
+  },
+  "gw": {
+    "name": "Guinea-Bissau",
+    "state_name": "The Republic of Guinea-Bissau",
+    "un_member": true,
+    "sovereignity": "gw",
+    "iso_3166_1": {
+      "a2": "GW",
+      "a3": "GNB",
+      "num": 624
+    },
+    "iso_3166_2": "ISO 3166-2:GW",
+    "tld": [
+      ".gw"
+    ]
+  },
+  "gy": {
+    "name": "Guyana",
+    "state_name": "The Co-operative Republic of Guyana",
+    "un_member": true,
+    "sovereignity": "gy",
+    "iso_3166_1": {
+      "a2": "GY",
+      "a3": "GUY",
+      "num": 328
+    },
+    "iso_3166_2": "ISO 3166-2:GY",
+    "tld": [
+      ".gy"
+    ]
+  },
+  "hk": {
+    "name": "Hong Kong",
+    "state_name": "The Hong Kong Special Administrative Region of China",
+    "un_member": false,
+    "sovereignity": "cn",
+    "iso_3166_1": {
+      "a2": "HK",
+      "a3": "HKG",
+      "num": 344
+    },
+    "iso_3166_2": "ISO 3166-2:HK",
+    "tld": [
+      ".hk"
+    ]
+  },
+  "hm": {
+    "name": "Heard Island and McDonald Islands",
+    "state_name": "The Territory of Heard Island and McDonald Islands",
+    "un_member": false,
+    "sovereignity": "au",
+    "iso_3166_1": {
+      "a2": "HM",
+      "a3": "HMD",
+      "num": 334
+    },
+    "iso_3166_2": "ISO 3166-2:HM",
+    "tld": [
+      ".hm"
+    ]
+  },
+  "hn": {
+    "name": "Honduras",
+    "state_name": "The Republic of Honduras",
+    "un_member": true,
+    "sovereignity": "hn",
+    "iso_3166_1": {
+      "a2": "HN",
+      "a3": "HND",
+      "num": 340
+    },
+    "iso_3166_2": "ISO 3166-2:HN",
+    "tld": [
+      ".hn"
+    ]
+  },
+  "hr": {
+    "name": "Croatia",
+    "state_name": "The Republic of Croatia",
+    "un_member": true,
+    "sovereignity": "hr",
+    "iso_3166_1": {
+      "a2": "HR",
+      "a3": "HRV",
+      "num": 191
+    },
+    "iso_3166_2": "ISO 3166-2:HR",
+    "tld": [
+      ".hr"
+    ]
+  },
+  "ht": {
+    "name": "Haiti",
+    "state_name": "The Republic of Haiti",
+    "un_member": true,
+    "sovereignity": "ht",
+    "iso_3166_1": {
+      "a2": "HT",
+      "a3": "HTI",
+      "num": 332
+    },
+    "iso_3166_2": "ISO 3166-2:HT",
+    "tld": [
+      ".ht"
+    ]
+  },
+  "hu": {
+    "name": "Hungary",
+    "state_name": "Hungary",
+    "un_member": true,
+    "sovereignity": "hu",
+    "iso_3166_1": {
+      "a2": "HU",
+      "a3": "HUN",
+      "num": 348
+    },
+    "iso_3166_2": "ISO 3166-2:HU",
+    "tld": [
+      ".hu"
+    ]
+  },
+  "id": {
+    "name": "Indonesia",
+    "state_name": "The Republic of Indonesia",
+    "un_member": true,
+    "sovereignity": "id",
+    "iso_3166_1": {
+      "a2": "ID",
+      "a3": "IDN",
+      "num": 360
+    },
+    "iso_3166_2": "ISO 3166-2:ID",
+    "tld": [
+      ".id"
+    ]
+  },
+  "ie": {
+    "name": "Republic of Ireland",
+    "state_name": "Ireland",
+    "un_member": true,
+    "sovereignity": "ie",
+    "iso_3166_1": {
+      "a2": "IE",
+      "a3": "IRL",
+      "num": 372
+    },
+    "iso_3166_2": "ISO 3166-2:IE",
+    "tld": [
+      ".ie"
+    ]
+  },
+  "il": {
+    "name": "Israel",
+    "state_name": "The State of Israel",
+    "un_member": true,
+    "sovereignity": "il",
+    "iso_3166_1": {
+      "a2": "IL",
+      "a3": "ISR",
+      "num": 376
+    },
+    "iso_3166_2": "ISO 3166-2:IL",
+    "tld": [
+      ".il"
+    ]
+  },
+  "in": {
+    "name": "India",
+    "state_name": "The Republic of India",
+    "un_member": true,
+    "sovereignity": "in",
+    "iso_3166_1": {
+      "a2": "IN",
+      "a3": "IND",
+      "num": 356
+    },
+    "iso_3166_2": "ISO 3166-2:IN",
+    "tld": [
+      ".in"
+    ]
+  },
+  "io": {
+    "name": "British Indian Ocean Territory",
+    "state_name": "The British Indian Ocean Territory",
+    "un_member": false,
+    "sovereignity": "gb",
+    "iso_3166_1": {
+      "a2": "IO",
+      "a3": "IOT",
+      "num": 86
+    },
+    "iso_3166_2": "ISO 3166-2:IO",
+    "tld": [
+      ".io"
+    ]
+  },
+  "iq": {
+    "name": "Iraq",
+    "state_name": "The Republic of Iraq",
+    "un_member": true,
+    "sovereignity": "iq",
+    "iso_3166_1": {
+      "a2": "IQ",
+      "a3": "IRQ",
+      "num": 368
+    },
+    "iso_3166_2": "ISO 3166-2:IQ",
+    "tld": [
+      ".iq"
+    ]
+  },
+  "ir": {
+    "name": "Iran",
+    "state_name": "The Islamic Republic of Iran",
+    "un_member": true,
+    "sovereignity": "ir",
+    "iso_3166_1": {
+      "a2": "IR",
+      "a3": "IRN",
+      "num": 364
+    },
+    "iso_3166_2": "ISO 3166-2:IR",
+    "tld": [
+      ".ir"
+    ]
+  },
+  "is": {
+    "name": "Iceland",
+    "state_name": "Iceland",
+    "un_member": true,
+    "sovereignity": "is",
+    "iso_3166_1": {
+      "a2": "IS",
+      "a3": "ISL",
+      "num": 352
+    },
+    "iso_3166_2": "ISO 3166-2:IS",
+    "tld": [
+      ".is"
+    ]
+  },
+  "it": {
+    "name": "Italy",
+    "state_name": "The Italian Republic",
+    "un_member": true,
+    "sovereignity": "it",
+    "iso_3166_1": {
+      "a2": "IT",
+      "a3": "ITA",
+      "num": 380
+    },
+    "iso_3166_2": "ISO 3166-2:IT",
+    "tld": [
+      ".it"
+    ]
+  },
+  "jm": {
+    "name": "Jamaica",
+    "state_name": "Jamaica",
+    "un_member": true,
+    "sovereignity": "jm",
+    "iso_3166_1": {
+      "a2": "JM",
+      "a3": "JAM",
+      "num": 388
+    },
+    "iso_3166_2": "ISO 3166-2:JM",
+    "tld": [
+      ".jm"
+    ]
+  },
+  "jo": {
+    "name": "Jordan",
+    "state_name": "The Hashemite Kingdom of Jordan",
+    "un_member": true,
+    "sovereignity": "jo",
+    "iso_3166_1": {
+      "a2": "JO",
+      "a3": "JOR",
+      "num": 400
+    },
+    "iso_3166_2": "ISO 3166-2:JO",
+    "tld": [
+      ".jo"
+    ]
+  },
+  "jp": {
+    "name": "Japan",
+    "state_name": "Japan",
+    "un_member": true,
+    "sovereignity": "jp",
+    "iso_3166_1": {
+      "a2": "JP",
+      "a3": "JPN",
+      "num": 392
+    },
+    "iso_3166_2": "ISO 3166-2:JP",
+    "tld": [
+      ".jp"
+    ]
+  },
+  "ke": {
+    "name": "Kenya",
+    "state_name": "The Republic of Kenya",
+    "un_member": true,
+    "sovereignity": "ke",
+    "iso_3166_1": {
+      "a2": "KE",
+      "a3": "KEN",
+      "num": 404
+    },
+    "iso_3166_2": "ISO 3166-2:KE",
+    "tld": [
+      ".ke"
+    ]
+  },
+  "kg": {
+    "name": "Kyrgyzstan",
+    "state_name": "The Kyrgyz Republic",
+    "un_member": true,
+    "sovereignity": "kg",
+    "iso_3166_1": {
+      "a2": "KG",
+      "a3": "KGZ",
+      "num": 417
+    },
+    "iso_3166_2": "ISO 3166-2:KG",
+    "tld": [
+      ".kg"
+    ]
+  },
+  "kh": {
+    "name": "Cambodia",
+    "state_name": "The Kingdom of Cambodia",
+    "un_member": true,
+    "sovereignity": "kh",
+    "iso_3166_1": {
+      "a2": "KH",
+      "a3": "KHM",
+      "num": 116
+    },
+    "iso_3166_2": "ISO 3166-2:KH",
+    "tld": [
+      ".kh"
+    ]
+  },
+  "ki": {
+    "name": "Kiribati",
+    "state_name": "The Republic of Kiribati",
+    "un_member": true,
+    "sovereignity": "ki",
+    "iso_3166_1": {
+      "a2": "KI",
+      "a3": "KIR",
+      "num": 296
+    },
+    "iso_3166_2": "ISO 3166-2:KI",
+    "tld": [
+      ".ki"
+    ]
+  },
+  "km": {
+    "name": "Comoros",
+    "state_name": "The Union of the Comoros",
+    "un_member": true,
+    "sovereignity": "km",
+    "iso_3166_1": {
+      "a2": "KM",
+      "a3": "COM",
+      "num": 174
+    },
+    "iso_3166_2": "ISO 3166-2:KM",
+    "tld": [
+      ".km"
+    ]
+  },
+  "kn": {
+    "name": "Saint Kitts and Nevis",
+    "state_name": "Saint Kitts and Nevis",
+    "un_member": true,
+    "sovereignity": "kn",
+    "iso_3166_1": {
+      "a2": "KN",
+      "a3": "KNA",
+      "num": 659
+    },
+    "iso_3166_2": "ISO 3166-2:KN",
+    "tld": [
+      ".kn"
+    ]
+  },
+  "kp": {
+    "name": "North Korea",
+    "state_name": "The Democratic People's Republic of Korea",
+    "un_member": true,
+    "sovereignity": "kp",
+    "iso_3166_1": {
+      "a2": "KP",
+      "a3": "PRK",
+      "num": 408
+    },
+    "iso_3166_2": "ISO 3166-2:KP",
+    "tld": [
+      ".kp"
+    ]
+  },
+  "kr": {
+    "name": "South Korea",
+    "state_name": "The Republic of Korea",
+    "un_member": true,
+    "sovereignity": "kr",
+    "iso_3166_1": {
+      "a2": "KR",
+      "a3": "KOR",
+      "num": 410
+    },
+    "iso_3166_2": "ISO 3166-2:KR",
+    "tld": [
+      ".kr"
+    ]
+  },
+  "kw": {
+    "name": "Kuwait",
+    "state_name": "The State of Kuwait",
+    "un_member": true,
+    "sovereignity": "kw",
+    "iso_3166_1": {
+      "a2": "KW",
+      "a3": "KWT",
+      "num": 414
+    },
+    "iso_3166_2": "ISO 3166-2:KW",
+    "tld": [
+      ".kw"
+    ]
+  },
+  "ky": {
+    "name": "Cayman Islands",
+    "state_name": "The Cayman Islands",
+    "un_member": false,
+    "sovereignity": "gb",
+    "iso_3166_1": {
+      "a2": "KY",
+      "a3": "CYM",
+      "num": 136
+    },
+    "iso_3166_2": "ISO 3166-2:KY",
+    "tld": [
+      ".ky"
+    ]
+  },
+  "kz": {
+    "name": "Kazakhstan",
+    "state_name": "The Republic of Kazakhstan",
+    "un_member": true,
+    "sovereignity": "kz",
+    "iso_3166_1": {
+      "a2": "KZ",
+      "a3": "KAZ",
+      "num": 398
+    },
+    "iso_3166_2": "ISO 3166-2:KZ",
+    "tld": [
+      ".kz"
+    ]
+  },
+  "la": {
+    "name": "Laos",
+    "state_name": "The Lao People's Democratic Republic",
+    "un_member": true,
+    "sovereignity": "la",
+    "iso_3166_1": {
+      "a2": "LA",
+      "a3": "LAO",
+      "num": 418
+    },
+    "iso_3166_2": "ISO 3166-2:LA",
+    "tld": [
+      ".la"
+    ]
+  },
+  "lb": {
+    "name": "Lebanon",
+    "state_name": "The Lebanese Republic",
+    "un_member": true,
+    "sovereignity": "lb",
+    "iso_3166_1": {
+      "a2": "LB",
+      "a3": "LBN",
+      "num": 422
+    },
+    "iso_3166_2": "ISO 3166-2:LB",
+    "tld": [
+      ".lb"
+    ]
+  },
+  "lc": {
+    "name": "Saint Lucia",
+    "state_name": "Saint Lucia",
+    "un_member": true,
+    "sovereignity": "lc",
+    "iso_3166_1": {
+      "a2": "LC",
+      "a3": "LCA",
+      "num": 662
+    },
+    "iso_3166_2": "ISO 3166-2:LC",
+    "tld": [
+      ".lc"
+    ]
+  },
+  "li": {
+    "name": "Liechtenstein",
+    "state_name": "The Principality of Liechtenstein",
+    "un_member": true,
+    "sovereignity": "li",
+    "iso_3166_1": {
+      "a2": "LI",
+      "a3": "LIE",
+      "num": 438
+    },
+    "iso_3166_2": "ISO 3166-2:LI",
+    "tld": [
+      ".li"
+    ]
+  },
+  "lk": {
+    "name": "Sri Lanka",
+    "state_name": "The Democratic Socialist Republic of Sri Lanka",
+    "un_member": true,
+    "sovereignity": "lk",
+    "iso_3166_1": {
+      "a2": "LK",
+      "a3": "LKA",
+      "num": 144
+    },
+    "iso_3166_2": "ISO 3166-2:LK",
+    "tld": [
+      ".lk"
+    ]
+  },
+  "lr": {
+    "name": "Liberia",
+    "state_name": "The Republic of Liberia",
+    "un_member": true,
+    "sovereignity": "lr",
+    "iso_3166_1": {
+      "a2": "LR",
+      "a3": "LBR",
+      "num": 430
+    },
+    "iso_3166_2": "ISO 3166-2:LR",
+    "tld": [
+      ".lr"
+    ]
+  },
+  "ls": {
+    "name": "Lesotho",
+    "state_name": "The Kingdom of Lesotho",
+    "un_member": true,
+    "sovereignity": "ls",
+    "iso_3166_1": {
+      "a2": "LS",
+      "a3": "LSO",
+      "num": 426
+    },
+    "iso_3166_2": "ISO 3166-2:LS",
+    "tld": [
+      ".ls"
+    ]
+  },
+  "lt": {
+    "name": "Lithuania",
+    "state_name": "The Republic of Lithuania",
+    "un_member": true,
+    "sovereignity": "lt",
+    "iso_3166_1": {
+      "a2": "LT",
+      "a3": "LTU",
+      "num": 440
+    },
+    "iso_3166_2": "ISO 3166-2:LT",
+    "tld": [
+      ".lt"
+    ]
+  },
+  "lu": {
+    "name": "Luxembourg",
+    "state_name": "The Grand Duchy of Luxembourg",
+    "un_member": true,
+    "sovereignity": "lu",
+    "iso_3166_1": {
+      "a2": "LU",
+      "a3": "LUX",
+      "num": 442
+    },
+    "iso_3166_2": "ISO 3166-2:LU",
+    "tld": [
+      ".lu"
+    ]
+  },
+  "lv": {
+    "name": "Latvia",
+    "state_name": "The Republic of Latvia",
+    "un_member": true,
+    "sovereignity": "lv",
+    "iso_3166_1": {
+      "a2": "LV",
+      "a3": "LVA",
+      "num": 428
+    },
+    "iso_3166_2": "ISO 3166-2:LV",
+    "tld": [
+      ".lv"
+    ]
+  },
+  "ly": {
+    "name": "Libya",
+    "state_name": "The State of Libya",
+    "un_member": true,
+    "sovereignity": "ly",
+    "iso_3166_1": {
+      "a2": "LY",
+      "a3": "LBY",
+      "num": 434
+    },
+    "iso_3166_2": "ISO 3166-2:LY",
+    "tld": [
+      ".ly"
+    ]
+  },
+  "ma": {
+    "name": "Morocco",
+    "state_name": "The Kingdom of Morocco",
+    "un_member": true,
+    "sovereignity": "ma",
+    "iso_3166_1": {
+      "a2": "MA",
+      "a3": "MAR",
+      "num": 504
+    },
+    "iso_3166_2": "ISO 3166-2:MA",
+    "tld": [
+      ".ma"
+    ]
+  },
+  "mc": {
+    "name": "Monaco",
+    "state_name": "The Principality of Monaco",
+    "un_member": true,
+    "sovereignity": "mc",
+    "iso_3166_1": {
+      "a2": "MC",
+      "a3": "MCO",
+      "num": 492
+    },
+    "iso_3166_2": "ISO 3166-2:MC",
+    "tld": [
+      ".mc"
+    ]
+  },
+  "md": {
+    "name": "Moldova",
+    "state_name": "The Republic of Moldova",
+    "un_member": true,
+    "sovereignity": "md",
+    "iso_3166_1": {
+      "a2": "MD",
+      "a3": "MDA",
+      "num": 498
+    },
+    "iso_3166_2": "ISO 3166-2:MD",
+    "tld": [
+      ".md"
+    ]
+  },
+  "me": {
+    "name": "Montenegro",
+    "state_name": "Montenegro",
+    "un_member": true,
+    "sovereignity": "me",
+    "iso_3166_1": {
+      "a2": "ME",
+      "a3": "MNE",
+      "num": 499
+    },
+    "iso_3166_2": "ISO 3166-2:ME",
+    "tld": [
+      ".me"
+    ]
+  },
+  "mf": {
+    "name": "Collectivity of Saint Martin",
+    "state_name": "The Collectivity of Saint-Martin",
+    "un_member": false,
+    "sovereignity": "fr",
+    "iso_3166_1": {
+      "a2": "MF",
+      "a3": "MAF",
+      "num": 663
+    },
+    "iso_3166_2": "ISO 3166-2:MF",
+    "tld": [
+      ".mf"
+    ]
+  },
+  "mg": {
+    "name": "Madagascar",
+    "state_name": "The Republic of Madagascar",
+    "un_member": true,
+    "sovereignity": "mg",
+    "iso_3166_1": {
+      "a2": "MG",
+      "a3": "MDG",
+      "num": 450
+    },
+    "iso_3166_2": "ISO 3166-2:MG",
+    "tld": [
+      ".mg"
+    ]
+  },
+  "mh": {
+    "name": "Marshall Islands",
+    "state_name": "The Republic of the Marshall Islands",
+    "un_member": true,
+    "sovereignity": "mh",
+    "iso_3166_1": {
+      "a2": "MH",
+      "a3": "MHL",
+      "num": 584
+    },
+    "iso_3166_2": "ISO 3166-2:MH",
+    "tld": [
+      ".mh"
+    ]
+  },
+  "mk": {
+    "name": "North Macedonia",
+    "state_name": "The Republic of North Macedonia",
+    "un_member": true,
+    "sovereignity": "mk",
+    "iso_3166_1": {
+      "a2": "MK",
+      "a3": "MKD",
+      "num": 807
+    },
+    "iso_3166_2": "ISO 3166-2:MK",
+    "tld": [
+      ".mk"
+    ]
+  },
+  "ml": {
+    "name": "Mali",
+    "state_name": "The Republic of Mali",
+    "un_member": true,
+    "sovereignity": "ml",
+    "iso_3166_1": {
+      "a2": "ML",
+      "a3": "MLI",
+      "num": 466
+    },
+    "iso_3166_2": "ISO 3166-2:ML",
+    "tld": [
+      ".ml"
+    ]
+  },
+  "mm": {
+    "name": "Myanmar",
+    "state_name": "The Republic of the Union of Myanmar",
+    "un_member": true,
+    "sovereignity": "mm",
+    "iso_3166_1": {
+      "a2": "MM",
+      "a3": "MMR",
+      "num": 104
+    },
+    "iso_3166_2": "ISO 3166-2:MM",
+    "tld": [
+      ".mm"
+    ]
+  },
+  "mn": {
+    "name": "Mongolia",
+    "state_name": "Mongolia",
+    "un_member": true,
+    "sovereignity": "mn",
+    "iso_3166_1": {
+      "a2": "MN",
+      "a3": "MNG",
+      "num": 496
+    },
+    "iso_3166_2": "ISO 3166-2:MN",
+    "tld": [
+      ".mn"
+    ]
+  },
+  "mo": {
+    "name": "Macau",
+    "state_name": "The Macao Special Administrative Region of China",
+    "un_member": false,
+    "sovereignity": "cn",
+    "iso_3166_1": {
+      "a2": "MO",
+      "a3": "MAC",
+      "num": 446
+    },
+    "iso_3166_2": "ISO 3166-2:MO",
+    "tld": [
+      ".mo"
+    ]
+  },
+  "mp": {
+    "name": "Northern Mariana Islands",
+    "state_name": "The Commonwealth of the Northern Mariana Islands",
+    "un_member": false,
+    "sovereignity": "us",
+    "iso_3166_1": {
+      "a2": "MP",
+      "a3": "MNP",
+      "num": 580
+    },
+    "iso_3166_2": "ISO 3166-2:MP",
+    "tld": [
+      ".mp"
+    ]
+  },
+  "mq": {
+    "name": "Martinique",
+    "state_name": "Martinique",
+    "un_member": false,
+    "sovereignity": "fr",
+    "iso_3166_1": {
+      "a2": "MQ",
+      "a3": "MTQ",
+      "num": 474
+    },
+    "iso_3166_2": "ISO 3166-2:MQ",
+    "tld": [
+      ".mq"
+    ]
+  },
+  "mr": {
+    "name": "Mauritania",
+    "state_name": "The Islamic Republic of Mauritania",
+    "un_member": true,
+    "sovereignity": "mr",
+    "iso_3166_1": {
+      "a2": "MR",
+      "a3": "MRT",
+      "num": 478
+    },
+    "iso_3166_2": "ISO 3166-2:MR",
+    "tld": [
+      ".mr"
+    ]
+  },
+  "ms": {
+    "name": "Montserrat",
+    "state_name": "Montserrat",
+    "un_member": false,
+    "sovereignity": "gb",
+    "iso_3166_1": {
+      "a2": "MS",
+      "a3": "MSR",
+      "num": 500
+    },
+    "iso_3166_2": "ISO 3166-2:MS",
+    "tld": [
+      ".ms"
+    ]
+  },
+  "mt": {
+    "name": "Malta",
+    "state_name": "The Republic of Malta",
+    "un_member": true,
+    "sovereignity": "mt",
+    "iso_3166_1": {
+      "a2": "MT",
+      "a3": "MLT",
+      "num": 470
+    },
+    "iso_3166_2": "ISO 3166-2:MT",
+    "tld": [
+      ".mt"
+    ]
+  },
+  "mu": {
+    "name": "Mauritius",
+    "state_name": "The Republic of Mauritius",
+    "un_member": true,
+    "sovereignity": "mu",
+    "iso_3166_1": {
+      "a2": "MU",
+      "a3": "MUS",
+      "num": 480
+    },
+    "iso_3166_2": "ISO 3166-2:MU",
+    "tld": [
+      ".mu"
+    ]
+  },
+  "mv": {
+    "name": "Maldives",
+    "state_name": "The Republic of Maldives",
+    "un_member": true,
+    "sovereignity": "mv",
+    "iso_3166_1": {
+      "a2": "MV",
+      "a3": "MDV",
+      "num": 462
+    },
+    "iso_3166_2": "ISO 3166-2:MV",
+    "tld": [
+      ".mv"
+    ]
+  },
+  "mw": {
+    "name": "Malawi",
+    "state_name": "The Republic of Malawi",
+    "un_member": true,
+    "sovereignity": "mw",
+    "iso_3166_1": {
+      "a2": "MW",
+      "a3": "MWI",
+      "num": 454
+    },
+    "iso_3166_2": "ISO 3166-2:MW",
+    "tld": [
+      ".mw"
+    ]
+  },
+  "mx": {
+    "name": "Mexico",
+    "state_name": "The United Mexican States",
+    "un_member": true,
+    "sovereignity": "mx",
+    "iso_3166_1": {
+      "a2": "MX",
+      "a3": "MEX",
+      "num": 484
+    },
+    "iso_3166_2": "ISO 3166-2:MX",
+    "tld": [
+      ".mx"
+    ]
+  },
+  "my": {
+    "name": "Malaysia",
+    "state_name": "Malaysia",
+    "un_member": true,
+    "sovereignity": "my",
+    "iso_3166_1": {
+      "a2": "MY",
+      "a3": "MYS",
+      "num": 458
+    },
+    "iso_3166_2": "ISO 3166-2:MY",
+    "tld": [
+      ".my"
+    ]
+  },
+  "mz": {
+    "name": "Mozambique",
+    "state_name": "The Republic of Mozambique",
+    "un_member": true,
+    "sovereignity": "mz",
+    "iso_3166_1": {
+      "a2": "MZ",
+      "a3": "MOZ",
+      "num": 508
+    },
+    "iso_3166_2": "ISO 3166-2:MZ",
+    "tld": [
+      ".mz"
+    ]
+  },
+  "na": {
+    "name": "Namibia",
+    "state_name": "The Republic of Namibia",
+    "un_member": true,
+    "sovereignity": "na",
+    "iso_3166_1": {
+      "a2": "NA",
+      "a3": "NAM",
+      "num": 516
+    },
+    "iso_3166_2": "ISO 3166-2:NA",
+    "tld": [
+      ".na"
+    ]
+  },
+  "nc": {
+    "name": "New Caledonia",
+    "state_name": "New Caledonia",
+    "un_member": false,
+    "sovereignity": "fr",
+    "iso_3166_1": {
+      "a2": "NC",
+      "a3": "NCL",
+      "num": 540
+    },
+    "iso_3166_2": "ISO 3166-2:NC",
+    "tld": [
+      ".nc"
+    ]
+  },
+  "ne": {
+    "name": "Niger",
+    "state_name": "The Republic of the Niger",
+    "un_member": true,
+    "sovereignity": "ne",
+    "iso_3166_1": {
+      "a2": "NE",
+      "a3": "NER",
+      "num": 562
+    },
+    "iso_3166_2": "ISO 3166-2:NE",
+    "tld": [
+      ".ne"
+    ]
+  },
+  "nf": {
+    "name": "Norfolk Island",
+    "state_name": "The Territory of Norfolk Island",
+    "un_member": false,
+    "sovereignity": "au",
+    "iso_3166_1": {
+      "a2": "NF",
+      "a3": "NFK",
+      "num": 574
+    },
+    "iso_3166_2": "ISO 3166-2:NF",
+    "tld": [
+      ".nf"
+    ]
+  },
+  "ng": {
+    "name": "Nigeria",
+    "state_name": "The Federal Republic of Nigeria",
+    "un_member": true,
+    "sovereignity": "ng",
+    "iso_3166_1": {
+      "a2": "NG",
+      "a3": "NGA",
+      "num": 566
+    },
+    "iso_3166_2": "ISO 3166-2:NG",
+    "tld": [
+      ".ng"
+    ]
+  },
+  "ni": {
+    "name": "Nicaragua",
+    "state_name": "The Republic of Nicaragua",
+    "un_member": true,
+    "sovereignity": "ni",
+    "iso_3166_1": {
+      "a2": "NI",
+      "a3": "NIC",
+      "num": 558
+    },
+    "iso_3166_2": "ISO 3166-2:NI",
+    "tld": [
+      ".ni"
+    ]
+  },
+  "nl": {
+    "name": "Netherlands",
+    "state_name": "The Kingdom of the Netherlands",
+    "un_member": true,
+    "sovereignity": "nl",
+    "iso_3166_1": {
+      "a2": "NL",
+      "a3": "NLD",
+      "num": 528
+    },
+    "iso_3166_2": "ISO 3166-2:NL",
+    "tld": [
+      ".nl"
+    ]
+  },
+  "no": {
+    "name": "Norway",
+    "state_name": "The Kingdom of Norway",
+    "un_member": true,
+    "sovereignity": "no",
+    "iso_3166_1": {
+      "a2": "NO",
+      "a3": "NOR",
+      "num": 578
+    },
+    "iso_3166_2": "ISO 3166-2:NO",
+    "tld": [
+      ".no"
+    ]
+  },
+  "np": {
+    "name": "Nepal",
+    "state_name": "The Federal Democratic Republic of Nepal",
+    "un_member": true,
+    "sovereignity": "np",
+    "iso_3166_1": {
+      "a2": "NP",
+      "a3": "NPL",
+      "num": 524
+    },
+    "iso_3166_2": "ISO 3166-2:NP",
+    "tld": [
+      ".np"
+    ]
+  },
+  "nr": {
+    "name": "Nauru",
+    "state_name": "The Republic of Nauru",
+    "un_member": true,
+    "sovereignity": "nr",
+    "iso_3166_1": {
+      "a2": "NR",
+      "a3": "NRU",
+      "num": 520
+    },
+    "iso_3166_2": "ISO 3166-2:NR",
+    "tld": [
+      ".nr"
+    ]
+  },
+  "nu": {
+    "name": "Niue",
+    "state_name": "Niue",
+    "un_member": false,
+    "sovereignity": "nz",
+    "iso_3166_1": {
+      "a2": "NU",
+      "a3": "NIU",
+      "num": 570
+    },
+    "iso_3166_2": "ISO 3166-2:NU",
+    "tld": [
+      ".nu"
+    ]
+  },
+  "nz": {
+    "name": "New Zealand",
+    "state_name": "New Zealand",
+    "un_member": true,
+    "sovereignity": "nz",
+    "iso_3166_1": {
+      "a2": "NZ",
+      "a3": "NZL",
+      "num": 554
+    },
+    "iso_3166_2": "ISO 3166-2:NZ",
+    "tld": [
+      ".nz"
+    ]
+  },
+  "om": {
+    "name": "Oman",
+    "state_name": "The Sultanate of Oman",
+    "un_member": true,
+    "sovereignity": "om",
+    "iso_3166_1": {
+      "a2": "OM",
+      "a3": "OMN",
+      "num": 512
+    },
+    "iso_3166_2": "ISO 3166-2:OM",
+    "tld": [
+      ".om"
+    ]
+  },
+  "pa": {
+    "name": "Panama",
+    "state_name": "The Republic of Panamá",
+    "un_member": true,
+    "sovereignity": "pa",
+    "iso_3166_1": {
+      "a2": "PA",
+      "a3": "PAN",
+      "num": 591
+    },
+    "iso_3166_2": "ISO 3166-2:PA",
+    "tld": [
+      ".pa"
+    ]
+  },
+  "pe": {
+    "name": "Peru",
+    "state_name": "The Republic of Perú",
+    "un_member": true,
+    "sovereignity": "pe",
+    "iso_3166_1": {
+      "a2": "PE",
+      "a3": "PER",
+      "num": 604
+    },
+    "iso_3166_2": "ISO 3166-2:PE",
+    "tld": [
+      ".pe"
+    ]
+  },
+  "pf": {
+    "name": "French Polynesia",
+    "state_name": "French Polynesia",
+    "un_member": false,
+    "sovereignity": "fr",
+    "iso_3166_1": {
+      "a2": "PF",
+      "a3": "PYF",
+      "num": 258
+    },
+    "iso_3166_2": "ISO 3166-2:PF",
+    "tld": [
+      ".pf"
+    ]
+  },
+  "pg": {
+    "name": "Papua New Guinea",
+    "state_name": "The Independent State of Papua New Guinea",
+    "un_member": true,
+    "sovereignity": "pg",
+    "iso_3166_1": {
+      "a2": "PG",
+      "a3": "PNG",
+      "num": 598
+    },
+    "iso_3166_2": "ISO 3166-2:PG",
+    "tld": [
+      ".pg"
+    ]
+  },
+  "ph": {
+    "name": "Philippines",
+    "state_name": "The Republic of the Philippines",
+    "un_member": true,
+    "sovereignity": "ph",
+    "iso_3166_1": {
+      "a2": "PH",
+      "a3": "PHL",
+      "num": 608
+    },
+    "iso_3166_2": "ISO 3166-2:PH",
+    "tld": [
+      ".ph"
+    ]
+  },
+  "pk": {
+    "name": "Pakistan",
+    "state_name": "The Islamic Republic of Pakistan",
+    "un_member": true,
+    "sovereignity": "pk",
+    "iso_3166_1": {
+      "a2": "PK",
+      "a3": "PAK",
+      "num": 586
+    },
+    "iso_3166_2": "ISO 3166-2:PK",
+    "tld": [
+      ".pk"
+    ]
+  },
+  "pl": {
+    "name": "Poland",
+    "state_name": "The Republic of Poland",
+    "un_member": true,
+    "sovereignity": "pl",
+    "iso_3166_1": {
+      "a2": "PL",
+      "a3": "POL",
+      "num": 616
+    },
+    "iso_3166_2": "ISO 3166-2:PL",
+    "tld": [
+      ".pl"
+    ]
+  },
+  "pm": {
+    "name": "Saint Pierre and Miquelon",
+    "state_name": "The Overseas Collectivity of Saint-Pierre and Miquelon",
+    "un_member": false,
+    "sovereignity": "fr",
+    "iso_3166_1": {
+      "a2": "PM",
+      "a3": "SPM",
+      "num": 666
+    },
+    "iso_3166_2": "ISO 3166-2:PM",
+    "tld": [
+      ".pm"
+    ]
+  },
+  "pn": {
+    "name": "Pitcairn Islands",
+    "state_name": "The Pitcairn, Henderson, Ducie and Oeno Islands",
+    "un_member": false,
+    "sovereignity": "gb",
+    "iso_3166_1": {
+      "a2": "PN",
+      "a3": "PCN",
+      "num": 612
+    },
+    "iso_3166_2": "ISO 3166-2:PN",
+    "tld": [
+      ".pn"
+    ]
+  },
+  "pr": {
+    "name": "Puerto Rico",
+    "state_name": "The Commonwealth of Puerto Rico",
+    "un_member": false,
+    "sovereignity": "us",
+    "iso_3166_1": {
+      "a2": "PR",
+      "a3": "PRI",
+      "num": 630
+    },
+    "iso_3166_2": "ISO 3166-2:PR",
+    "tld": [
+      ".pr"
+    ]
+  },
+  "pt": {
+    "name": "Portugal",
+    "state_name": "The Portuguese Republic",
+    "un_member": true,
+    "sovereignity": "pt",
+    "iso_3166_1": {
+      "a2": "PT",
+      "a3": "PRT",
+      "num": 620
+    },
+    "iso_3166_2": "ISO 3166-2:PT",
+    "tld": [
+      ".pt"
+    ]
+  },
+  "pw": {
+    "name": "Palau",
+    "state_name": "The Republic of Palau",
+    "un_member": true,
+    "sovereignity": "pw",
+    "iso_3166_1": {
+      "a2": "PW",
+      "a3": "PLW",
+      "num": 585
+    },
+    "iso_3166_2": "ISO 3166-2:PW",
+    "tld": [
+      ".pw"
+    ]
+  },
+  "py": {
+    "name": "Paraguay",
+    "state_name": "The Republic of Paraguay",
+    "un_member": true,
+    "sovereignity": "py",
+    "iso_3166_1": {
+      "a2": "PY",
+      "a3": "PRY",
+      "num": 600
+    },
+    "iso_3166_2": "ISO 3166-2:PY",
+    "tld": [
+      ".py"
+    ]
+  },
+  "qa": {
+    "name": "Qatar",
+    "state_name": "The State of Qatar",
+    "un_member": true,
+    "sovereignity": "qa",
+    "iso_3166_1": {
+      "a2": "QA",
+      "a3": "QAT",
+      "num": 634
+    },
+    "iso_3166_2": "ISO 3166-2:QA",
+    "tld": [
+      ".qa"
+    ]
+  },
+  "re": {
+    "name": "Réunion",
+    "state_name": "Réunion",
+    "un_member": false,
+    "sovereignity": "fr",
+    "iso_3166_1": {
+      "a2": "RE",
+      "a3": "REU",
+      "num": 638
+    },
+    "iso_3166_2": "ISO 3166-2:RE",
+    "tld": [
+      ".re"
+    ]
+  },
+  "ro": {
+    "name": "Romania",
+    "state_name": "Romania",
+    "un_member": true,
+    "sovereignity": "ro",
+    "iso_3166_1": {
+      "a2": "RO",
+      "a3": "ROU",
+      "num": 642
+    },
+    "iso_3166_2": "ISO 3166-2:RO",
+    "tld": [
+      ".ro"
+    ]
+  },
+  "rs": {
+    "name": "Serbia",
+    "state_name": "The Republic of Serbia",
+    "un_member": true,
+    "sovereignity": "rs",
+    "iso_3166_1": {
+      "a2": "RS",
+      "a3": "SRB",
+      "num": 688
+    },
+    "iso_3166_2": "ISO 3166-2:RS",
+    "tld": [
+      ".rs"
+    ]
+  },
+  "ru": {
+    "name": "Russia",
+    "state_name": "The Russian Federation",
+    "un_member": true,
+    "sovereignity": "ru",
+    "iso_3166_1": {
+      "a2": "RU",
+      "a3": "RUS",
+      "num": 643
+    },
+    "iso_3166_2": "ISO 3166-2:RU",
+    "tld": [
+      ".ru"
+    ]
+  },
+  "rw": {
+    "name": "Rwanda",
+    "state_name": "The Republic of Rwanda",
+    "un_member": true,
+    "sovereignity": "rw",
+    "iso_3166_1": {
+      "a2": "RW",
+      "a3": "RWA",
+      "num": 646
+    },
+    "iso_3166_2": "ISO 3166-2:RW",
+    "tld": [
+      ".rw"
+    ]
+  },
+  "sa": {
+    "name": "Saudi Arabia",
+    "state_name": "The Kingdom of Saudi Arabia",
+    "un_member": true,
+    "sovereignity": "sa",
+    "iso_3166_1": {
+      "a2": "SA",
+      "a3": "SAU",
+      "num": 682
+    },
+    "iso_3166_2": "ISO 3166-2:SA",
+    "tld": [
+      ".sa"
+    ]
+  },
+  "sb": {
+    "name": "Solomon Islands",
+    "state_name": "The Solomon Islands",
+    "un_member": true,
+    "sovereignity": "sb",
+    "iso_3166_1": {
+      "a2": "SB",
+      "a3": "SLB",
+      "num": 90
+    },
+    "iso_3166_2": "ISO 3166-2:SB",
+    "tld": [
+      ".sb"
+    ]
+  },
+  "sc": {
+    "name": "Seychelles",
+    "state_name": "The Republic of Seychelles",
+    "un_member": true,
+    "sovereignity": "sc",
+    "iso_3166_1": {
+      "a2": "SC",
+      "a3": "SYC",
+      "num": 690
+    },
+    "iso_3166_2": "ISO 3166-2:SC",
+    "tld": [
+      ".sc"
+    ]
+  },
+  "sd": {
+    "name": "Sudan",
+    "state_name": "The Republic of the Sudan",
+    "un_member": true,
+    "sovereignity": "sd",
+    "iso_3166_1": {
+      "a2": "SD",
+      "a3": "SDN",
+      "num": 729
+    },
+    "iso_3166_2": "ISO 3166-2:SD",
+    "tld": [
+      ".sd"
+    ]
+  },
+  "se": {
+    "name": "Sweden",
+    "state_name": "The Kingdom of Sweden",
+    "un_member": true,
+    "sovereignity": "se",
+    "iso_3166_1": {
+      "a2": "SE",
+      "a3": "SWE",
+      "num": 752
+    },
+    "iso_3166_2": "ISO 3166-2:SE",
+    "tld": [
+      ".se"
+    ]
+  },
+  "sg": {
+    "name": "Singapore",
+    "state_name": "The Republic of Singapore",
+    "un_member": true,
+    "sovereignity": "sg",
+    "iso_3166_1": {
+      "a2": "SG",
+      "a3": "SGP",
+      "num": 702
+    },
+    "iso_3166_2": "ISO 3166-2:SG",
+    "tld": [
+      ".sg"
+    ]
+  },
+  "sh": {
+    "name": "Saint Helena",
+    "state_name": "Saint Helena, Ascension and Tristan da Cunha",
+    "un_member": false,
+    "sovereignity": "gb",
+    "iso_3166_1": {
+      "a2": "SH",
+      "a3": "SHN",
+      "num": 654
+    },
+    "iso_3166_2": "ISO 3166-2:SH",
+    "tld": [
+      ".sh"
+    ]
+  },
+  "si": {
+    "name": "Slovenia",
+    "state_name": "The Republic of Slovenia",
+    "un_member": true,
+    "sovereignity": "si",
+    "iso_3166_1": {
+      "a2": "SI",
+      "a3": "SVN",
+      "num": 705
+    },
+    "iso_3166_2": "ISO 3166-2:SI",
+    "tld": [
+      ".si"
+    ]
+  },
+  "sj": {
+    "name": "Svalbard",
+    "state_name": "Svalbard and Jan Mayen",
+    "un_member": false,
+    "sovereignity": "no",
+    "iso_3166_1": {
+      "a2": "SJ",
+      "a3": "SJM",
+      "num": 744
+    },
+    "iso_3166_2": "ISO 3166-2:SJ",
+    "tld": []
+  },
+  "sk": {
+    "name": "Slovakia",
+    "state_name": "The Slovak Republic",
+    "un_member": true,
+    "sovereignity": "sk",
+    "iso_3166_1": {
+      "a2": "SK",
+      "a3": "SVK",
+      "num": 703
+    },
+    "iso_3166_2": "ISO 3166-2:SK",
+    "tld": [
+      ".sk"
+    ]
+  },
+  "sl": {
+    "name": "Sierra Leone",
+    "state_name": "The Republic of Sierra Leone",
+    "un_member": true,
+    "sovereignity": "sl",
+    "iso_3166_1": {
+      "a2": "SL",
+      "a3": "SLE",
+      "num": 694
+    },
+    "iso_3166_2": "ISO 3166-2:SL",
+    "tld": [
+      ".sl"
+    ]
+  },
+  "sm": {
+    "name": "San Marino",
+    "state_name": "The Republic of San Marino",
+    "un_member": true,
+    "sovereignity": "sm",
+    "iso_3166_1": {
+      "a2": "SM",
+      "a3": "SMR",
+      "num": 674
+    },
+    "iso_3166_2": "ISO 3166-2:SM",
+    "tld": [
+      ".sm"
+    ]
+  },
+  "sn": {
+    "name": "Senegal",
+    "state_name": "The Republic of Senegal",
+    "un_member": true,
+    "sovereignity": "sn",
+    "iso_3166_1": {
+      "a2": "SN",
+      "a3": "SEN",
+      "num": 686
+    },
+    "iso_3166_2": "ISO 3166-2:SN",
+    "tld": [
+      ".sn"
+    ]
+  },
+  "so": {
+    "name": "Somalia",
+    "state_name": "The Federal Republic of Somalia",
+    "un_member": true,
+    "sovereignity": "so",
+    "iso_3166_1": {
+      "a2": "SO",
+      "a3": "SOM",
+      "num": 706
+    },
+    "iso_3166_2": "ISO 3166-2:SO",
+    "tld": [
+      ".so"
+    ]
+  },
+  "sr": {
+    "name": "Suriname",
+    "state_name": "The Republic of Suriname",
+    "un_member": true,
+    "sovereignity": "sr",
+    "iso_3166_1": {
+      "a2": "SR",
+      "a3": "SUR",
+      "num": 740
+    },
+    "iso_3166_2": "ISO 3166-2:SR",
+    "tld": [
+      ".sr"
+    ]
+  },
+  "ss": {
+    "name": "South Sudan",
+    "state_name": "The Republic of South Sudan",
+    "un_member": true,
+    "sovereignity": "ss",
+    "iso_3166_1": {
+      "a2": "SS",
+      "a3": "SSD",
+      "num": 728
+    },
+    "iso_3166_2": "ISO 3166-2:SS",
+    "tld": [
+      ".ss"
+    ]
+  },
+  "st": {
+    "name": "São Tomé and Príncipe",
+    "state_name": "The Democratic Republic of São Tomé and Príncipe",
+    "un_member": true,
+    "sovereignity": "st",
+    "iso_3166_1": {
+      "a2": "ST",
+      "a3": "STP",
+      "num": 678
+    },
+    "iso_3166_2": "ISO 3166-2:ST",
+    "tld": [
+      ".st"
+    ]
+  },
+  "sv": {
+    "name": "El Salvador",
+    "state_name": "The Republic of El Salvador",
+    "un_member": true,
+    "sovereignity": "sv",
+    "iso_3166_1": {
+      "a2": "SV",
+      "a3": "SLV",
+      "num": 222
+    },
+    "iso_3166_2": "ISO 3166-2:SV",
+    "tld": [
+      ".sv"
+    ]
+  },
+  "sx": {
+    "name": "Sint Maarten",
+    "state_name": "Sint Maarten",
+    "un_member": false,
+    "sovereignity": "nl",
+    "iso_3166_1": {
+      "a2": "SX",
+      "a3": "SXM",
+      "num": 534
+    },
+    "iso_3166_2": "ISO 3166-2:SX",
+    "tld": [
+      ".sx"
+    ]
+  },
+  "sy": {
+    "name": "Syria",
+    "state_name": "The Syrian Arab Republic",
+    "un_member": true,
+    "sovereignity": "sy",
+    "iso_3166_1": {
+      "a2": "SY",
+      "a3": "SYR",
+      "num": 760
+    },
+    "iso_3166_2": "ISO 3166-2:SY",
+    "tld": [
+      ".sy"
+    ]
+  },
+  "sz": {
+    "name": "Eswatini",
+    "state_name": "The Kingdom of Eswatini",
+    "un_member": true,
+    "sovereignity": "sz",
+    "iso_3166_1": {
+      "a2": "SZ",
+      "a3": "SWZ",
+      "num": 748
+    },
+    "iso_3166_2": "ISO 3166-2:SZ",
+    "tld": [
+      ".sz"
+    ]
+  },
+  "tc": {
+    "name": "Turks and Caicos Islands",
+    "state_name": "The Turks and Caicos Islands",
+    "un_member": false,
+    "sovereignity": "gb",
+    "iso_3166_1": {
+      "a2": "TC",
+      "a3": "TCA",
+      "num": 796
+    },
+    "iso_3166_2": "ISO 3166-2:TC",
+    "tld": [
+      ".tc"
+    ]
+  },
+  "td": {
+    "name": "Chad",
+    "state_name": "The Republic of Chad",
+    "un_member": true,
+    "sovereignity": "td",
+    "iso_3166_1": {
+      "a2": "TD",
+      "a3": "TCD",
+      "num": 148
+    },
+    "iso_3166_2": "ISO 3166-2:TD",
+    "tld": [
+      ".td"
+    ]
+  },
+  "tf": {
+    "name": "French Southern and Antarctic Lands",
+    "state_name": "The French Southern and Antarctic Lands",
+    "un_member": false,
+    "sovereignity": "fr",
+    "iso_3166_1": {
+      "a2": "TF",
+      "a3": "ATF",
+      "num": 260
+    },
+    "iso_3166_2": "ISO 3166-2:TF",
+    "tld": [
+      ".tf"
+    ]
+  },
+  "tg": {
+    "name": "Togo",
+    "state_name": "The Togolese Republic",
+    "un_member": true,
+    "sovereignity": "tg",
+    "iso_3166_1": {
+      "a2": "TG",
+      "a3": "TGO",
+      "num": 768
+    },
+    "iso_3166_2": "ISO 3166-2:TG",
+    "tld": [
+      ".tg"
+    ]
+  },
+  "th": {
+    "name": "Thailand",
+    "state_name": "The Kingdom of Thailand",
+    "un_member": true,
+    "sovereignity": "th",
+    "iso_3166_1": {
+      "a2": "TH",
+      "a3": "THA",
+      "num": 764
+    },
+    "iso_3166_2": "ISO 3166-2:TH",
+    "tld": [
+      ".th"
+    ]
+  },
+  "tj": {
+    "name": "Tajikistan",
+    "state_name": "The Republic of Tajikistan",
+    "un_member": true,
+    "sovereignity": "tj",
+    "iso_3166_1": {
+      "a2": "TJ",
+      "a3": "TJK",
+      "num": 762
+    },
+    "iso_3166_2": "ISO 3166-2:TJ",
+    "tld": [
+      ".tj"
+    ]
+  },
+  "tk": {
+    "name": "Tokelau",
+    "state_name": "Tokelau",
+    "un_member": false,
+    "sovereignity": "nz",
+    "iso_3166_1": {
+      "a2": "TK",
+      "a3": "TKL",
+      "num": 772
+    },
+    "iso_3166_2": "ISO 3166-2:TK",
+    "tld": [
+      ".tk"
+    ]
+  },
+  "tl": {
+    "name": "East Timor",
+    "state_name": "The Democratic Republic of Timor-Leste",
+    "un_member": true,
+    "sovereignity": "tl",
+    "iso_3166_1": {
+      "a2": "TL",
+      "a3": "TLS",
+      "num": 626
+    },
+    "iso_3166_2": "ISO 3166-2:TL",
+    "tld": [
+      ".tl"
+    ]
+  },
+  "tm": {
+    "name": "Turkmenistan",
+    "state_name": "Turkmenistan",
+    "un_member": true,
+    "sovereignity": "tm",
+    "iso_3166_1": {
+      "a2": "TM",
+      "a3": "TKM",
+      "num": 795
+    },
+    "iso_3166_2": "ISO 3166-2:TM",
+    "tld": [
+      ".tm"
+    ]
+  },
+  "tn": {
+    "name": "Tunisia",
+    "state_name": "The Republic of Tunisia",
+    "un_member": true,
+    "sovereignity": "tn",
+    "iso_3166_1": {
+      "a2": "TN",
+      "a3": "TUN",
+      "num": 788
+    },
+    "iso_3166_2": "ISO 3166-2:TN",
+    "tld": [
+      ".tn"
+    ]
+  },
+  "to": {
+    "name": "Tonga",
+    "state_name": "The Kingdom of Tonga",
+    "un_member": true,
+    "sovereignity": "to",
+    "iso_3166_1": {
+      "a2": "TO",
+      "a3": "TON",
+      "num": 776
+    },
+    "iso_3166_2": "ISO 3166-2:TO",
+    "tld": [
+      ".to"
+    ]
+  },
+  "tr": {
+    "name": "Turkey",
+    "state_name": "The Republic of Türkiye",
+    "un_member": true,
+    "sovereignity": "tr",
+    "iso_3166_1": {
+      "a2": "TR",
+      "a3": "TUR",
+      "num": 792
+    },
+    "iso_3166_2": "ISO 3166-2:TR",
+    "tld": [
+      ".tr"
+    ]
+  },
+  "tt": {
+    "name": "Trinidad and Tobago",
+    "state_name": "The Republic of Trinidad and Tobago",
+    "un_member": true,
+    "sovereignity": "tt",
+    "iso_3166_1": {
+      "a2": "TT",
+      "a3": "TTO",
+      "num": 780
+    },
+    "iso_3166_2": "ISO 3166-2:TT",
+    "tld": [
+      ".tt"
+    ]
+  },
+  "tv": {
+    "name": "Tuvalu",
+    "state_name": "Tuvalu",
+    "un_member": true,
+    "sovereignity": "tv",
+    "iso_3166_1": {
+      "a2": "TV",
+      "a3": "TUV",
+      "num": 798
+    },
+    "iso_3166_2": "ISO 3166-2:TV",
+    "tld": [
+      ".tv"
+    ]
+  },
+  "tz": {
+    "name": "Tanzania",
+    "state_name": "The United Republic of Tanzania",
+    "un_member": true,
+    "sovereignity": "tz",
+    "iso_3166_1": {
+      "a2": "TZ",
+      "a3": "TZA",
+      "num": 834
+    },
+    "iso_3166_2": "ISO 3166-2:TZ",
+    "tld": [
+      ".tz"
+    ]
+  },
+  "ua": {
+    "name": "Ukraine",
+    "state_name": "Ukraine",
+    "un_member": true,
+    "sovereignity": "ua",
+    "iso_3166_1": {
+      "a2": "UA",
+      "a3": "UKR",
+      "num": 804
+    },
+    "iso_3166_2": "ISO 3166-2:UA",
+    "tld": [
+      ".ua"
+    ]
+  },
+  "ug": {
+    "name": "Uganda",
+    "state_name": "The Republic of Uganda",
+    "un_member": true,
+    "sovereignity": "ug",
+    "iso_3166_1": {
+      "a2": "UG",
+      "a3": "UGA",
+      "num": 800
+    },
+    "iso_3166_2": "ISO 3166-2:UG",
+    "tld": [
+      ".ug"
+    ]
+  },
+  "um": {
+    "name": "United States",
+    "state_name": "Baker Island",
+    "un_member": false,
+    "sovereignity": "us",
+    "iso_3166_1": {
+      "a2": "UM",
+      "a3": "UMI",
+      "num": 581
+    },
+    "iso_3166_2": "ISO 3166-2:UM",
+    "tld": []
+  },
+  "us": {
+    "name": "United States",
+    "state_name": "The United States of America",
+    "un_member": true,
+    "sovereignity": "us",
+    "iso_3166_1": {
+      "a2": "US",
+      "a3": "USA",
+      "num": 840
+    },
+    "iso_3166_2": "ISO 3166-2:US",
+    "tld": [
+      ".us"
+    ]
+  },
+  "uy": {
+    "name": "Uruguay",
+    "state_name": "The Oriental Republic of Uruguay",
+    "un_member": true,
+    "sovereignity": "uy",
+    "iso_3166_1": {
+      "a2": "UY",
+      "a3": "URY",
+      "num": 858
+    },
+    "iso_3166_2": "ISO 3166-2:UY",
+    "tld": [
+      ".uy"
+    ]
+  },
+  "uz": {
+    "name": "Uzbekistan",
+    "state_name": "The Republic of Uzbekistan",
+    "un_member": true,
+    "sovereignity": "uz",
+    "iso_3166_1": {
+      "a2": "UZ",
+      "a3": "UZB",
+      "num": 860
+    },
+    "iso_3166_2": "ISO 3166-2:UZ",
+    "tld": [
+      ".uz"
+    ]
+  },
+  "vc": {
+    "name": "Saint Vincent and the Grenadines",
+    "state_name": "Saint Vincent and the Grenadines",
+    "un_member": true,
+    "sovereignity": "vc",
+    "iso_3166_1": {
+      "a2": "VC",
+      "a3": "VCT",
+      "num": 670
+    },
+    "iso_3166_2": "ISO 3166-2:VC",
+    "tld": [
+      ".vc"
+    ]
+  },
+  "ve": {
+    "name": "Venezuela",
+    "state_name": "The Bolivarian Republic of Venezuela",
+    "un_member": true,
+    "sovereignity": "ve",
+    "iso_3166_1": {
+      "a2": "VE",
+      "a3": "VEN",
+      "num": 862
+    },
+    "iso_3166_2": "ISO 3166-2:VE",
+    "tld": [
+      ".ve"
+    ]
+  },
+  "vg": {
+    "name": "British Virgin Islands",
+    "state_name": "The Virgin Islands",
+    "un_member": false,
+    "sovereignity": "gb",
+    "iso_3166_1": {
+      "a2": "VG",
+      "a3": "VGB",
+      "num": 92
+    },
+    "iso_3166_2": "ISO 3166-2:VG",
+    "tld": [
+      ".vg"
+    ]
+  },
+  "vi": {
+    "name": "United States Virgin Islands",
+    "state_name": "The Virgin Islands of the United States",
+    "un_member": false,
+    "sovereignity": "us",
+    "iso_3166_1": {
+      "a2": "VI",
+      "a3": "VIR",
+      "num": 850
+    },
+    "iso_3166_2": "ISO 3166-2:VI",
+    "tld": [
+      ".vi"
+    ]
+  },
+  "vn": {
+    "name": "Vietnam",
+    "state_name": "The Socialist Republic of Viet Nam",
+    "un_member": true,
+    "sovereignity": "vn",
+    "iso_3166_1": {
+      "a2": "VN",
+      "a3": "VNM",
+      "num": 704
+    },
+    "iso_3166_2": "ISO 3166-2:VN",
+    "tld": [
+      ".vn"
+    ]
+  },
+  "vu": {
+    "name": "Vanuatu",
+    "state_name": "The Republic of Vanuatu",
+    "un_member": true,
+    "sovereignity": "vu",
+    "iso_3166_1": {
+      "a2": "VU",
+      "a3": "VUT",
+      "num": 548
+    },
+    "iso_3166_2": "ISO 3166-2:VU",
+    "tld": [
+      ".vu"
+    ]
+  },
+  "wf": {
+    "name": "Wallis and Futuna",
+    "state_name": "The Territory of the Wallis and Futuna Islands",
+    "un_member": false,
+    "sovereignity": "fr",
+    "iso_3166_1": {
+      "a2": "WF",
+      "a3": "WLF",
+      "num": 876
+    },
+    "iso_3166_2": "ISO 3166-2:WF",
+    "tld": [
+      ".wf"
+    ]
+  },
+  "ws": {
+    "name": "Samoa",
+    "state_name": "The Independent State of Samoa",
+    "un_member": true,
+    "sovereignity": "ws",
+    "iso_3166_1": {
+      "a2": "WS",
+      "a3": "WSM",
+      "num": 882
+    },
+    "iso_3166_2": "ISO 3166-2:WS",
+    "tld": [
+      ".ws"
+    ]
+  },
+  "ye": {
+    "name": "Yemen",
+    "state_name": "The Republic of Yemen",
+    "un_member": true,
+    "sovereignity": "ye",
+    "iso_3166_1": {
+      "a2": "YE",
+      "a3": "YEM",
+      "num": 887
+    },
+    "iso_3166_2": "ISO 3166-2:YE",
+    "tld": [
+      ".ye"
+    ]
+  },
+  "yt": {
+    "name": "Mayotte",
+    "state_name": "The Department of Mayotte",
+    "un_member": false,
+    "sovereignity": "fr",
+    "iso_3166_1": {
+      "a2": "YT",
+      "a3": "MYT",
+      "num": 175
+    },
+    "iso_3166_2": "ISO 3166-2:YT",
+    "tld": [
+      ".yt"
+    ]
+  },
+  "za": {
+    "name": "South Africa",
+    "state_name": "The Republic of South Africa",
+    "un_member": true,
+    "sovereignity": "za",
+    "iso_3166_1": {
+      "a2": "ZA",
+      "a3": "ZAF",
+      "num": 710
+    },
+    "iso_3166_2": "ISO 3166-2:ZA",
+    "tld": [
+      ".za"
+    ]
+  },
+  "zm": {
+    "name": "Zambia",
+    "state_name": "The Republic of Zambia",
+    "un_member": true,
+    "sovereignity": "zm",
+    "iso_3166_1": {
+      "a2": "ZM",
+      "a3": "ZMB",
+      "num": 894
+    },
+    "iso_3166_2": "ISO 3166-2:ZM",
+    "tld": [
+      ".zm"
+    ]
+  },
+  "zw": {
+    "name": "Zimbabwe",
+    "state_name": "The Republic of Zimbabwe",
+    "un_member": true,
+    "sovereignity": "zw",
+    "iso_3166_1": {
+      "a2": "ZW",
+      "a3": "ZWE",
+      "num": 716
+    },
+    "iso_3166_2": "ISO 3166-2:ZW",
+    "tld": [
+      ".zw"
+    ]
+  }
+}

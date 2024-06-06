@@ -1,0 +1,774 @@
+{
+  "ad": {
+    "sovereignity": "ad",
+    "dir": "output/flags/ad"
+  },
+  "ae": {
+    "sovereignity": "ae",
+    "dir": "output/flags/ae"
+  },
+  "af": {
+    "sovereignity": "af",
+    "dir": "output/flags/af"
+  },
+  "ag": {
+    "sovereignity": "ag",
+    "dir": "output/flags/ag"
+  },
+  "al": {
+    "sovereignity": "al",
+    "dir": "output/flags/al"
+  },
+  "am": {
+    "sovereignity": "am",
+    "dir": "output/flags/am"
+  },
+  "ao": {
+    "sovereignity": "ao",
+    "dir": "output/flags/ao"
+  },
+  "ar": {
+    "sovereignity": "ar",
+    "dir": "output/flags/ar"
+  },
+  "at": {
+    "sovereignity": "at",
+    "dir": "output/flags/at"
+  },
+  "au": {
+    "sovereignity": "au",
+    "dir": "output/flags/au"
+  },
+  "az": {
+    "sovereignity": "az",
+    "dir": "output/flags/az"
+  },
+  "ba": {
+    "sovereignity": "ba",
+    "dir": "output/flags/ba"
+  },
+  "bb": {
+    "sovereignity": "bb",
+    "dir": "output/flags/bb"
+  },
+  "bd": {
+    "sovereignity": "bd",
+    "dir": "output/flags/bd"
+  },
+  "be": {
+    "sovereignity": "be",
+    "dir": "output/flags/be"
+  },
+  "bf": {
+    "sovereignity": "bf",
+    "dir": "output/flags/bf"
+  },
+  "bg": {
+    "sovereignity": "bg",
+    "dir": "output/flags/bg"
+  },
+  "bh": {
+    "sovereignity": "bh",
+    "dir": "output/flags/bh"
+  },
+  "bi": {
+    "sovereignity": "bi",
+    "dir": "output/flags/bi"
+  },
+  "bj": {
+    "sovereignity": "bj",
+    "dir": "output/flags/bj"
+  },
+  "bn": {
+    "sovereignity": "bn",
+    "dir": "output/flags/bn"
+  },
+  "bo": {
+    "sovereignity": "bo",
+    "dir": "output/flags/bo"
+  },
+  "br": {
+    "sovereignity": "br",
+    "dir": "output/flags/br"
+  },
+  "bs": {
+    "sovereignity": "bs",
+    "dir": "output/flags/bs"
+  },
+  "bt": {
+    "sovereignity": "bt",
+    "dir": "output/flags/bt"
+  },
+  "bw": {
+    "sovereignity": "bw",
+    "dir": "output/flags/bw"
+  },
+  "by": {
+    "sovereignity": "by",
+    "dir": "output/flags/by"
+  },
+  "bz": {
+    "sovereignity": "bz",
+    "dir": "output/flags/bz"
+  },
+  "ca": {
+    "sovereignity": "ca",
+    "dir": "output/flags/ca"
+  },
+  "cd": {
+    "sovereignity": "cd",
+    "dir": "output/flags/cd"
+  },
+  "cf": {
+    "sovereignity": "cf",
+    "dir": "output/flags/cf"
+  },
+  "cg": {
+    "sovereignity": "cg",
+    "dir": "output/flags/cg"
+  },
+  "ch": {
+    "sovereignity": "ch",
+    "dir": "output/flags/ch"
+  },
+  "ci": {
+    "sovereignity": "ci",
+    "dir": "output/flags/ci"
+  },
+  "cl": {
+    "sovereignity": "cl",
+    "dir": "output/flags/cl"
+  },
+  "cm": {
+    "sovereignity": "cm",
+    "dir": "output/flags/cm"
+  },
+  "cn": {
+    "sovereignity": "cn",
+    "dir": "output/flags/cn"
+  },
+  "co": {
+    "sovereignity": "co",
+    "dir": "output/flags/co"
+  },
+  "cr": {
+    "sovereignity": "cr",
+    "dir": "output/flags/cr"
+  },
+  "cu": {
+    "sovereignity": "cu",
+    "dir": "output/flags/cu"
+  },
+  "cv": {
+    "sovereignity": "cv",
+    "dir": "output/flags/cv"
+  },
+  "cy": {
+    "sovereignity": "cy",
+    "dir": "output/flags/cy"
+  },
+  "cz": {
+    "sovereignity": "cz",
+    "dir": "output/flags/cz"
+  },
+  "de": {
+    "sovereignity": "de",
+    "dir": "output/flags/de"
+  },
+  "dj": {
+    "sovereignity": "dj",
+    "dir": "output/flags/dj"
+  },
+  "dk": {
+    "sovereignity": "dk",
+    "dir": "output/flags/dk"
+  },
+  "dm": {
+    "sovereignity": "dm",
+    "dir": "output/flags/dm"
+  },
+  "do": {
+    "sovereignity": "do",
+    "dir": "output/flags/do"
+  },
+  "dz": {
+    "sovereignity": "dz",
+    "dir": "output/flags/dz"
+  },
+  "ec": {
+    "sovereignity": "ec",
+    "dir": "output/flags/ec"
+  },
+  "ee": {
+    "sovereignity": "ee",
+    "dir": "output/flags/ee"
+  },
+  "eg": {
+    "sovereignity": "eg",
+    "dir": "output/flags/eg"
+  },
+  "er": {
+    "sovereignity": "er",
+    "dir": "output/flags/er"
+  },
+  "es": {
+    "sovereignity": "es",
+    "dir": "output/flags/es"
+  },
+  "et": {
+    "sovereignity": "et",
+    "dir": "output/flags/et"
+  },
+  "fi": {
+    "sovereignity": "fi",
+    "dir": "output/flags/fi"
+  },
+  "fj": {
+    "sovereignity": "fj",
+    "dir": "output/flags/fj"
+  },
+  "fm": {
+    "sovereignity": "fm",
+    "dir": "output/flags/fm"
+  },
+  "fr": {
+    "sovereignity": "fr",
+    "dir": "output/flags/fr"
+  },
+  "ga": {
+    "sovereignity": "ga",
+    "dir": "output/flags/ga"
+  },
+  "gb": {
+    "sovereignity": "gb",
+    "dir": "output/flags/gb"
+  },
+  "gd": {
+    "sovereignity": "gd",
+    "dir": "output/flags/gd"
+  },
+  "ge": {
+    "sovereignity": "ge",
+    "dir": "output/flags/ge"
+  },
+  "gh": {
+    "sovereignity": "gh",
+    "dir": "output/flags/gh"
+  },
+  "gm": {
+    "sovereignity": "gm",
+    "dir": "output/flags/gm"
+  },
+  "gn": {
+    "sovereignity": "gn",
+    "dir": "output/flags/gn"
+  },
+  "gq": {
+    "sovereignity": "gq",
+    "dir": "output/flags/gq"
+  },
+  "gr": {
+    "sovereignity": "gr",
+    "dir": "output/flags/gr"
+  },
+  "gt": {
+    "sovereignity": "gt",
+    "dir": "output/flags/gt"
+  },
+  "gw": {
+    "sovereignity": "gw",
+    "dir": "output/flags/gw"
+  },
+  "gy": {
+    "sovereignity": "gy",
+    "dir": "output/flags/gy"
+  },
+  "hn": {
+    "sovereignity": "hn",
+    "dir": "output/flags/hn"
+  },
+  "hr": {
+    "sovereignity": "hr",
+    "dir": "output/flags/hr"
+  },
+  "ht": {
+    "sovereignity": "ht",
+    "dir": "output/flags/ht"
+  },
+  "hu": {
+    "sovereignity": "hu",
+    "dir": "output/flags/hu"
+  },
+  "id": {
+    "sovereignity": "id",
+    "dir": "output/flags/id"
+  },
+  "ie": {
+    "sovereignity": "ie",
+    "dir": "output/flags/ie"
+  },
+  "il": {
+    "sovereignity": "il",
+    "dir": "output/flags/il"
+  },
+  "in": {
+    "sovereignity": "in",
+    "dir": "output/flags/in"
+  },
+  "iq": {
+    "sovereignity": "iq",
+    "dir": "output/flags/iq"
+  },
+  "ir": {
+    "sovereignity": "ir",
+    "dir": "output/flags/ir"
+  },
+  "is": {
+    "sovereignity": "is",
+    "dir": "output/flags/is"
+  },
+  "it": {
+    "sovereignity": "it",
+    "dir": "output/flags/it"
+  },
+  "jm": {
+    "sovereignity": "jm",
+    "dir": "output/flags/jm"
+  },
+  "jo": {
+    "sovereignity": "jo",
+    "dir": "output/flags/jo"
+  },
+  "jp": {
+    "sovereignity": "jp",
+    "dir": "output/flags/jp"
+  },
+  "ke": {
+    "sovereignity": "ke",
+    "dir": "output/flags/ke"
+  },
+  "kg": {
+    "sovereignity": "kg",
+    "dir": "output/flags/kg"
+  },
+  "kh": {
+    "sovereignity": "kh",
+    "dir": "output/flags/kh"
+  },
+  "ki": {
+    "sovereignity": "ki",
+    "dir": "output/flags/ki"
+  },
+  "km": {
+    "sovereignity": "km",
+    "dir": "output/flags/km"
+  },
+  "kn": {
+    "sovereignity": "kn",
+    "dir": "output/flags/kn"
+  },
+  "kp": {
+    "sovereignity": "kp",
+    "dir": "output/flags/kp"
+  },
+  "kr": {
+    "sovereignity": "kr",
+    "dir": "output/flags/kr"
+  },
+  "kw": {
+    "sovereignity": "kw",
+    "dir": "output/flags/kw"
+  },
+  "kz": {
+    "sovereignity": "kz",
+    "dir": "output/flags/kz"
+  },
+  "la": {
+    "sovereignity": "la",
+    "dir": "output/flags/la"
+  },
+  "lb": {
+    "sovereignity": "lb",
+    "dir": "output/flags/lb"
+  },
+  "lc": {
+    "sovereignity": "lc",
+    "dir": "output/flags/lc"
+  },
+  "li": {
+    "sovereignity": "li",
+    "dir": "output/flags/li"
+  },
+  "lk": {
+    "sovereignity": "lk",
+    "dir": "output/flags/lk"
+  },
+  "lr": {
+    "sovereignity": "lr",
+    "dir": "output/flags/lr"
+  },
+  "ls": {
+    "sovereignity": "ls",
+    "dir": "output/flags/ls"
+  },
+  "lt": {
+    "sovereignity": "lt",
+    "dir": "output/flags/lt"
+  },
+  "lu": {
+    "sovereignity": "lu",
+    "dir": "output/flags/lu"
+  },
+  "lv": {
+    "sovereignity": "lv",
+    "dir": "output/flags/lv"
+  },
+  "ly": {
+    "sovereignity": "ly",
+    "dir": "output/flags/ly"
+  },
+  "ma": {
+    "sovereignity": "ma",
+    "dir": "output/flags/ma"
+  },
+  "mc": {
+    "sovereignity": "mc",
+    "dir": "output/flags/mc"
+  },
+  "md": {
+    "sovereignity": "md",
+    "dir": "output/flags/md"
+  },
+  "me": {
+    "sovereignity": "me",
+    "dir": "output/flags/me"
+  },
+  "mg": {
+    "sovereignity": "mg",
+    "dir": "output/flags/mg"
+  },
+  "mh": {
+    "sovereignity": "mh",
+    "dir": "output/flags/mh"
+  },
+  "mk": {
+    "sovereignity": "mk",
+    "dir": "output/flags/mk"
+  },
+  "ml": {
+    "sovereignity": "ml",
+    "dir": "output/flags/ml"
+  },
+  "mm": {
+    "sovereignity": "mm",
+    "dir": "output/flags/mm"
+  },
+  "mn": {
+    "sovereignity": "mn",
+    "dir": "output/flags/mn"
+  },
+  "mr": {
+    "sovereignity": "mr",
+    "dir": "output/flags/mr"
+  },
+  "mt": {
+    "sovereignity": "mt",
+    "dir": "output/flags/mt"
+  },
+  "mu": {
+    "sovereignity": "mu",
+    "dir": "output/flags/mu"
+  },
+  "mv": {
+    "sovereignity": "mv",
+    "dir": "output/flags/mv"
+  },
+  "mw": {
+    "sovereignity": "mw",
+    "dir": "output/flags/mw"
+  },
+  "mx": {
+    "sovereignity": "mx",
+    "dir": "output/flags/mx"
+  },
+  "my": {
+    "sovereignity": "my",
+    "dir": "output/flags/my"
+  },
+  "mz": {
+    "sovereignity": "mz",
+    "dir": "output/flags/mz"
+  },
+  "na": {
+    "sovereignity": "na",
+    "dir": "output/flags/na"
+  },
+  "ne": {
+    "sovereignity": "ne",
+    "dir": "output/flags/ne"
+  },
+  "ng": {
+    "sovereignity": "ng",
+    "dir": "output/flags/ng"
+  },
+  "ni": {
+    "sovereignity": "ni",
+    "dir": "output/flags/ni"
+  },
+  "nl": {
+    "sovereignity": "nl",
+    "dir": "output/flags/nl"
+  },
+  "no": {
+    "sovereignity": "no",
+    "dir": "output/flags/no"
+  },
+  "np": {
+    "sovereignity": "np",
+    "dir": "output/flags/np"
+  },
+  "nr": {
+    "sovereignity": "nr",
+    "dir": "output/flags/nr"
+  },
+  "nz": {
+    "sovereignity": "nz",
+    "dir": "output/flags/nz"
+  },
+  "om": {
+    "sovereignity": "om",
+    "dir": "output/flags/om"
+  },
+  "pa": {
+    "sovereignity": "pa",
+    "dir": "output/flags/pa"
+  },
+  "pe": {
+    "sovereignity": "pe",
+    "dir": "output/flags/pe"
+  },
+  "pg": {
+    "sovereignity": "pg",
+    "dir": "output/flags/pg"
+  },
+  "ph": {
+    "sovereignity": "ph",
+    "dir": "output/flags/ph"
+  },
+  "pk": {
+    "sovereignity": "pk",
+    "dir": "output/flags/pk"
+  },
+  "pl": {
+    "sovereignity": "pl",
+    "dir": "output/flags/pl"
+  },
+  "pt": {
+    "sovereignity": "pt",
+    "dir": "output/flags/pt"
+  },
+  "pw": {
+    "sovereignity": "pw",
+    "dir": "output/flags/pw"
+  },
+  "py": {
+    "sovereignity": "py",
+    "dir": "output/flags/py"
+  },
+  "qa": {
+    "sovereignity": "qa",
+    "dir": "output/flags/qa"
+  },
+  "ro": {
+    "sovereignity": "ro",
+    "dir": "output/flags/ro"
+  },
+  "rs": {
+    "sovereignity": "rs",
+    "dir": "output/flags/rs"
+  },
+  "ru": {
+    "sovereignity": "ru",
+    "dir": "output/flags/ru"
+  },
+  "rw": {
+    "sovereignity": "rw",
+    "dir": "output/flags/rw"
+  },
+  "sa": {
+    "sovereignity": "sa",
+    "dir": "output/flags/sa"
+  },
+  "sb": {
+    "sovereignity": "sb",
+    "dir": "output/flags/sb"
+  },
+  "sc": {
+    "sovereignity": "sc",
+    "dir": "output/flags/sc"
+  },
+  "sd": {
+    "sovereignity": "sd",
+    "dir": "output/flags/sd"
+  },
+  "se": {
+    "sovereignity": "se",
+    "dir": "output/flags/se"
+  },
+  "sg": {
+    "sovereignity": "sg",
+    "dir": "output/flags/sg"
+  },
+  "si": {
+    "sovereignity": "si",
+    "dir": "output/flags/si"
+  },
+  "sk": {
+    "sovereignity": "sk",
+    "dir": "output/flags/sk"
+  },
+  "sl": {
+    "sovereignity": "sl",
+    "dir": "output/flags/sl"
+  },
+  "sm": {
+    "sovereignity": "sm",
+    "dir": "output/flags/sm"
+  },
+  "sn": {
+    "sovereignity": "sn",
+    "dir": "output/flags/sn"
+  },
+  "so": {
+    "sovereignity": "so",
+    "dir": "output/flags/so"
+  },
+  "sr": {
+    "sovereignity": "sr",
+    "dir": "output/flags/sr"
+  },
+  "ss": {
+    "sovereignity": "ss",
+    "dir": "output/flags/ss"
+  },
+  "st": {
+    "sovereignity": "st",
+    "dir": "output/flags/st"
+  },
+  "sv": {
+    "sovereignity": "sv",
+    "dir": "output/flags/sv"
+  },
+  "sy": {
+    "sovereignity": "sy",
+    "dir": "output/flags/sy"
+  },
+  "sz": {
+    "sovereignity": "sz",
+    "dir": "output/flags/sz"
+  },
+  "td": {
+    "sovereignity": "td",
+    "dir": "output/flags/td"
+  },
+  "tg": {
+    "sovereignity": "tg",
+    "dir": "output/flags/tg"
+  },
+  "th": {
+    "sovereignity": "th",
+    "dir": "output/flags/th"
+  },
+  "tj": {
+    "sovereignity": "tj",
+    "dir": "output/flags/tj"
+  },
+  "tl": {
+    "sovereignity": "tl",
+    "dir": "output/flags/tl"
+  },
+  "tm": {
+    "sovereignity": "tm",
+    "dir": "output/flags/tm"
+  },
+  "tn": {
+    "sovereignity": "tn",
+    "dir": "output/flags/tn"
+  },
+  "to": {
+    "sovereignity": "to",
+    "dir": "output/flags/to"
+  },
+  "tr": {
+    "sovereignity": "tr",
+    "dir": "output/flags/tr"
+  },
+  "tt": {
+    "sovereignity": "tt",
+    "dir": "output/flags/tt"
+  },
+  "tv": {
+    "sovereignity": "tv",
+    "dir": "output/flags/tv"
+  },
+  "tz": {
+    "sovereignity": "tz",
+    "dir": "output/flags/tz"
+  },
+  "ua": {
+    "sovereignity": "ua",
+    "dir": "output/flags/ua"
+  },
+  "ug": {
+    "sovereignity": "ug",
+    "dir": "output/flags/ug"
+  },
+  "us": {
+    "sovereignity": "us",
+    "dir": "output/flags/us"
+  },
+  "uy": {
+    "sovereignity": "uy",
+    "dir": "output/flags/uy"
+  },
+  "uz": {
+    "sovereignity": "uz",
+    "dir": "output/flags/uz"
+  },
+  "vc": {
+    "sovereignity": "vc",
+    "dir": "output/flags/vc"
+  },
+  "ve": {
+    "sovereignity": "ve",
+    "dir": "output/flags/ve"
+  },
+  "vn": {
+    "sovereignity": "vn",
+    "dir": "output/flags/vn"
+  },
+  "vu": {
+    "sovereignity": "vu",
+    "dir": "output/flags/vu"
+  },
+  "ws": {
+    "sovereignity": "ws",
+    "dir": "output/flags/ws"
+  },
+  "ye": {
+    "sovereignity": "ye",
+    "dir": "output/flags/ye"
+  },
+  "za": {
+    "sovereignity": "za",
+    "dir": "output/flags/za"
+  },
+  "zm": {
+    "sovereignity": "zm",
+    "dir": "output/flags/zm"
+  },
+  "zw": {
+    "sovereignity": "zw",
+    "dir": "output/flags/zw"
+  }
+}
